@@ -18,7 +18,9 @@ Please follow the rules below:
 |🤑|[Sitely 6](https://sitely.app/) | Visual + AI Website Builder for macOS | **50%** OFF NO CODE REQUIRED ** |
 |💸|[Wins](https://wins.cool)| Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025**|
 |🤑|[TextSniper](https://textsniper.app) | Copy and paste uncopyable text from your Mac's screen, listen to it with text-to-speech, or scan QR codes instantly. | 75% OFF with code **BFD2025** |
-
+|💸|[FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY25)| macOS App for Recording Face In Videos | 40% OFF with code **BLACKFRIDAY25**|
+|💸|[ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY25)| macOS app for Effortless Batch Resizing and Editing of Images | 40% OFF with code **BLACKFRIDAY25**|
+|💸|[Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY25)| MacOS app that makes redacting text in images easier | 40% OFF with code **BLACKFRIDAY25**|
 ---
 
 # Special Request 
