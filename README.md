@@ -25,6 +25,7 @@ Please follow the rules below:
 |🤑|[Email Me](https://emailmeapp.net/)| The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. |  **50%** OFF NO CODE REQUIRED |
 |💸|[LabEx](https://labex.io/learn)| Learn Linux, DevOps & Cybersecurity with Hands-on Labs |  [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) |
 |🤑|[Digital Photo Frame](https://digitalphotoframeapp.com/)| Turn  your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. |  **67%** OFF NO CODE REQUIRED |
+|🤑|[Diabetes App - Glu Sight](https://apps.apple.com/us/app/diabetes-app-glu-sight/id6479405901)| Effortlessly track glucose levels & manage insulin therapy. Connect your Apple Health-compatible CGM or Insulin pen or log manually. Features charts, heat maps for lows & highs, CSV/PDF exports for your medical care team, and personalized insights. | 50% OFF lifetime premium plan (in-app) with code **BLACKFRIDAY2025**, Nov 15 - Dec 2 |
 
 ---
 
