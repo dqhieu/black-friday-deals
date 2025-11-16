@@ -27,6 +27,7 @@ Please follow the rules below:
 |🤑|[Digital Photo Frame](https://digitalphotoframeapp.com/)| Turn  your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS. |  **67%** OFF NO CODE REQUIRED |
 |🤑|[Diabetes App - Glu Sight](https://apps.apple.com/us/app/diabetes-app-glu-sight/id6479405901)| Effortlessly track glucose levels & manage insulin therapy. Connect your Apple Health-compatible CGM or Insulin pen or log manually. Features charts, heat maps for lows & highs, CSV/PDF exports for your medical care team, and personalized insights. | 50% OFF lifetime premium plan (in-app) with code **BLACKFRIDAY2025**, Nov 15 - Dec 2 |
 |💸|[Steps](https://apps.apple.com/us/app/steps-step-counter-workouts/id6746096378)| Your complete step tracking companion with Apple Watch sync, beautiful charts, workout analytics, and personalized goals to keep you moving. | 30% OFF lifetime  plan with code **BLACKFRIDAY** or using https://apps.apple.com/redeem?ctx=offercodes&id=6746096378&code=BLACKFRIDAY, Nov 25 - Dec 2 |
+|🤑| [Evelize Teleprompter](https://evelize.com?utm_source=dqhieu)                                 | Don't memorize your script and create studio quality videos with 4K and HDR from your phone. Record in 1 take instead of 100. Get your content to the next level.                                                                                        | [Premium Lifetime deal at 53% OFF](https://evelize.com?utm_source=dqhieu) Black Friday Deal: <s>$149</s> **$69** (Regular: $149), Nov 25 - Dec 6, 2025          
 
 ---
 
