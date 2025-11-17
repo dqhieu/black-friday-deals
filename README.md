@@ -31,6 +31,11 @@ Please follow the rules below:
 |🤑|[EV Charge Stations Map](https://apps.apple.com/us/app/ev-charge-stations-map/id6466442459)| Long distance EV route planner and charge stations. |  50% OFF with code **BLCKFRDY25** |
 |🤑|[WalkMate](https://apps.apple.com/us/app/walk-mate-weight-loss/id6739468121 )| Daily random walking routes in your location. |  50% OFF with code **BLCKFRDY25** |
 |🤑|[Travel Route Map](https://apps.apple.com/us/app/travel-route-map/id6504141706)| Animate your travel destinations on map. |  50% OFF with code **BLCKFRDY25** |
+| 💸 | [Everlog](https://apple.co/3pmdUCn) | Full-featured journaling app for iPhone, iPad, Mac and Vision Pro | **40% OFF** Lifetime Package from Nov.28 to Dec.2 |
+| 🤑 | [Verba](https://apple.co/43AG6kX) | String Catalog editor with AI capabilities to translate strings and generate comments using your own API keys | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
+| 🤑 | [LEDit](https://apple.co/47mMM6W) | Turns your iPhone or iPad into a LED-screen matrix to display messages | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
+| 🤑 | [Pasta](https://apple.co/46omrEk) | Visual Clipboard Manager for your Mac | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
+
 ---
 
 # Special Request 
