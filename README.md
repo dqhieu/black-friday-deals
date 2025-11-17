@@ -35,6 +35,7 @@ Please follow the rules below:
 | 🤑 | [Verba](https://apple.co/43AG6kX) | String Catalog editor with AI capabilities to translate strings and generate comments using your own API keys | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | 🤑 | [LEDit](https://apple.co/47mMM6W) | Turns your iPhone or iPad into a LED-screen matrix to display messages | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | 🤑 | [Pasta](https://apple.co/46omrEk) | Visual Clipboard Manager for your Mac | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
+| 💸 | [Keystro](https://keystro.app) | Display keystrokes, highlight cursor, and virtualize mechanical keyboard sounds. Massively enhance your tutorial and presentation. Available for Windows and MacOS for free with watermark. | **30% OFF** with code **BF2025** at checkout|
 
 ---
 
