@@ -46,6 +46,7 @@ Please follow the rules below:
 | 🤑 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | 50+ Freelancer/ Remote Business Templates and Docs that can be saved online/downloaded in PDF/CSV/HTML  | 60% OFF with code **60OFF50** |
 | 🤑 | [Lumical - Scan to Calendar](https://lumical.app) | Never type meetings manually, scan them into ready-to-save calendar events in seconds. | 67% OFF Lifetime License with code **BLACKFRIDAY25** |
 | 💸 | [KAppMaker](https://kappmaker.com) | Kotlin & Compose Multiplatform boilerplate to build mobile apps faster | **40% OFF** with code **BLACKFRIDAY40** |
+| 💸 | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied), Nov 20 - Dec 1, 2025 |
 
 
 ---
