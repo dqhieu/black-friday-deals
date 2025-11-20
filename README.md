@@ -46,6 +46,7 @@ Please follow the rules below:
 | 🤑 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | 50+ Freelancer/ Remote Business Templates and Docs that can be saved online/downloaded in PDF/CSV/HTML  | 60% OFF with code **60OFF50** |
 | 🤑 | [Lumical - Scan to Calendar](https://lumical.app) | Never type meetings manually, scan them into ready-to-save calendar events in seconds. | 67% OFF Lifetime License with code **BLACKFRIDAY25** |
 | 💸 | [KAppMaker](https://kappmaker.com) | Kotlin & Compose Multiplatform boilerplate to build mobile apps faster | **40% OFF** with code **BLACKFRIDAY40** |
+| 💸 | [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, defense & **certification training** for certificates like the CompTIA Security+ SY0-701 certificate. | 20% off ALL plans, including **Lifetime** with the code: **BLKFRI20** |
 
 
 ---
