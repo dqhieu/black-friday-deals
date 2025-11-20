@@ -45,6 +45,8 @@ Please follow the rules below:
 | 🤑 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Grow your business with the all in one, unbeatable bundle. | 75% OFF with code **75BSB**|
 | 🤑 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | 50+ Freelancer/ Remote Business Templates and Docs that can be saved online/downloaded in PDF/CSV/HTML  | 60% OFF with code **60OFF50** |
 | 🤑 | [Lumical - Scan to Calendar](https://lumical.app) | Never type meetings manually, scan them into ready-to-save calendar events in seconds. | 67% OFF Lifetime License with code **BLACKFRIDAY25** |
+| 💸 | [KAppMaker](https://kappmaker.com) | Kotlin & Compose Multiplatform boilerplate to build mobile apps faster | **40% OFF** with code **BLACKFRIDAY40** |
+
 
 ---
 
