@@ -47,6 +47,7 @@ Please follow the rules below:
 | 🤑 | [Lumical - Scan to Calendar](https://lumical.app) | Never type meetings manually, scan them into ready-to-save calendar events in seconds. | 67% OFF Lifetime License with code **BLACKFRIDAY25** |
 | 💸 | [KAppMaker](https://kappmaker.com) | Kotlin & Compose Multiplatform boilerplate to build mobile apps faster | **40% OFF** with code **BLACKFRIDAY40** |
 | 💸 | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied), Nov 20 - Dec 1, 2025 |
+| 🤑 | [Sonuby Weather (iOS & Android)](https://sonuby.com/download/?utm_campaign=dqhieu_black_friday_deals) | Sonuby Weather is a highly customizable weather & forecast app for daily life, drone flying, sailing, health and other weather dependent activities and scenarios. | **58% off lifetime** (offer will be shown in-app), until Dec 4 |
 
 
 ---
