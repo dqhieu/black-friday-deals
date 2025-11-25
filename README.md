@@ -48,7 +48,11 @@ Please follow the rules below:
 | 💸 | [KAppMaker](https://kappmaker.com) | Kotlin & Compose Multiplatform boilerplate to build mobile apps faster | **40% OFF** with code **BLACKFRIDAY40** |
 | 💸 | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied), Nov 20 - Dec 1, 2025 |
 | 🤑 | [Sonuby Weather (iOS & Android)](https://sonuby.com/download/?utm_campaign=dqhieu_black_friday_deals) | Sonuby Weather is a highly customizable weather & forecast app for daily life, drone flying, sailing, health and other weather dependent activities and scenarios. | **58% off lifetime** (offer will be shown in-app), until Dec 4 |
-
+| 🤑 | [PostPocket](https://apps.apple.com/us/app/bookmark-links-postpocket/id6670723615) | Save everything you love in one clean space and access it instantly across all your devices. | **75% Off** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 🤑 | [Pics2PDF: Image Converter](https://apps.apple.com/ar/app/heic-to-jpg-pics2pdf/id6748744676?l=en-GB) | Convert JPG PNG and PDFs offline in perfect quality with unlimited freedom and zero interruptions. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 🤑 | [YourChecklist](https://apps.apple.com/ar/app/daily-checklist-to-do-list/id6743703945?l=en-GB) | Create unlimited checklists and stay effortlessly organized so every task gets done on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 🤑 | [ToMoment](https://apps.apple.com/ar/app/event-countdown-tomoment/id6751402161?l=en-GB) | Track every important moment with unlimited countdowns and live updates that keep you perfectly on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 🤑 | [SubCal](https://apps.apple.com/ar/app/subscription-tracker-subcal/id6752016485?l=en-GB) | Manage every subscription in one place with smart reminders and deep link access that keep you in control. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 
 ---
 
