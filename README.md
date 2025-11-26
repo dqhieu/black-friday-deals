@@ -53,6 +53,7 @@ Please follow the rules below:
 | 🤑 | [YourChecklist](https://apps.apple.com/ar/app/daily-checklist-to-do-list/id6743703945?l=en-GB) | Create unlimited checklists and stay effortlessly organized so every task gets done on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 🤑 | [ToMoment](https://apps.apple.com/ar/app/event-countdown-tomoment/id6751402161?l=en-GB) | Track every important moment with unlimited countdowns and live updates that keep you perfectly on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 🤑 | [SubCal](https://apps.apple.com/ar/app/subscription-tracker-subcal/id6752016485?l=en-GB) | Manage every subscription in one place with smart reminders and deep link access that keep you in control. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 💸 | [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, defense & **certification training** for certificates like the CompTIA Security+ SY0-701 certificate. | 20% off ALL plans, including **Lifetime** with the code: **BLKFRI20** |
 | 🤑 | [Sumio – Net Worth Tracker](https://www.sumio.app/)) | AI-Powered Portfolio & Net Worth Tracker. | **5O% OFF** Annual Subscription, Nov 27 – Dec 2 |
 
 ---
