@@ -54,7 +54,7 @@ Please follow the rules below:
 | 🤑 | [ToMoment](https://apps.apple.com/ar/app/event-countdown-tomoment/id6751402161?l=en-GB) | Track every important moment with unlimited countdowns and live updates that keep you perfectly on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 🤑 | [SubCal](https://apps.apple.com/ar/app/subscription-tracker-subcal/id6752016485?l=en-GB) | Manage every subscription in one place with smart reminders and deep link access that keep you in control. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 | 💸 | [pwn.guide](https://pwn.guide) | Learn hacking from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, defense & **certification training** for certificates like the CompTIA Security+ SY0-701 certificate. | 20% off ALL plans, including **Lifetime** with the code: **BLKFRI20** |
-| 🤑 | [Sumio – Net Worth Tracker](https://www.sumio.app/)) | AI-Powered Portfolio & Net Worth Tracker. | **5O% OFF** Annual Subscription, Nov 27 – Dec 2 |
+| 🤑 | [Sumio – Net Worth Tracker](https://www.sumio.app/) | AI-Powered Portfolio & Net Worth Tracker. | **5O% OFF** Annual Subscription, Nov 27 – Dec 2 |
 | 🤑 | [Compot](https://www.compotui.com) | Develop iOS apps faster with AI coding assistant and 100+ predesigned SwiftUI components. | [**5O% OFF** Annual Subscription, Nov 23 – Dec 2](https://apps.apple.com/redeem?ctx=offercodes&id=6471916279&code=BF2025) |
 | 🤑 | [PromptKit – Master AI](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**5O% OFF** Annual Subscription, Nov 23 – Dec 2](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) |
 
