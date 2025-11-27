@@ -58,6 +58,7 @@ Please follow the rules below:
 | 🤑 | [Compot](https://www.compotui.com) | Develop iOS apps faster with AI coding assistant and 100+ predesigned SwiftUI components. | [**5O% OFF** Annual Subscription, Nov 23 – Dec 2](https://apps.apple.com/redeem?ctx=offercodes&id=6471916279&code=BF2025) |
 | 🤑 | [PromptKit – Master AI](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**5O% OFF** Annual Subscription, Nov 23 – Dec 2](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) |
 | 🤑 | [ScreenSnap Pro](https://www.screensnap.pro/) Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly.| **50% OFF** Lifetime and Subscription **EZNZQWNW** |
+| 🤑 | [Startup Buffer](https://startupbuffer.com) | A startup directory and launch platform that helps founders promote their products to thousands of potential users and investors. | **50% OFF** with code **BF50**, Nov 25 - Dec 7, 2025 |
 
 ---
 
