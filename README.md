@@ -16,6 +16,7 @@ Please follow the rules below:
 |💸|[Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378)| Step counter and workout tracker for iPhone and Apple Watch — featured by Apple. | 40% OFF lifetime with code **BFCM26**, 40% OFF lifetime family sharing with code **BFCM26FAMILY**|
 |💸|[Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735)| Fully automatic expense tracking on iPhone. | 40% OFF first year with code **BFCM26**|
 |💸|[JuxtaCode](https://juxtacode.app)| Compare Git branches and resolve merge conflicts with ease on macOS | 40% OFF with code **BLACKFRIDAY26** (direct purchase only)|
+|🤑|[Supacite](https://supacite.com?ref=dq)| Let Claude Code and Cursor handle your SEO. Every tool they need in one place: keywords, blogs, listings, AI visibility, competitor tracking and more. | **70% OFF** Lifetime · first 100 · code `CITEBF`|
 
 
 ---
