@@ -18,6 +18,7 @@ Please follow the rules below:
 |💸|[JuxtaCode](https://juxtacode.app)| Compare Git branches and resolve merge conflicts with ease on macOS | 40% OFF with code **BLACKFRIDAY26** (direct purchase only)|
 |🤑|[SupaSidebar](https://supasidebar.com?r=dq)| Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **60% OFF** Lifetime · first 100 · code `SIDEBARBF60`|
 |🤑|[RewriteBar](https://rewritebar.com?ref=dqhieu)| AI writing toolkit for macOS. Fix grammar, adjust tone, translate, rewrite and summarize in any app, plus custom actions and templates. | **50% OFF** with code **BF2026** (Nov 2 – Dec 3)|
+|💸|[GutSlider Pro](https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026)| Slider & carousel blocks for the WordPress block editor: 70+ designs, WooCommerce carousels, no jQuery | Up to 40% OFF, lifetime from $69, no code needed (Nov 24 – Dec 1)|
 
 
 ---
