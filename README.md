@@ -20,6 +20,7 @@ Please follow the rules below:
 |🤑|[RewriteBar](https://rewritebar.com?ref=dqhieu)| AI writing toolkit for macOS. Fix grammar, adjust tone, translate, rewrite and summarize in any app, plus custom actions and templates. | **50% OFF** with code **BF2026** (Nov 2 – Dec 3)|
 |💸|[GutSlider Pro](https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026)| Slider & carousel blocks for the WordPress block editor: 70+ designs, WooCommerce carousels, no jQuery | Up to 40% OFF, lifetime from $69, no code needed (Nov 24 – Dec 1)|
 |🤑|[LandinTools](https://tools.landin.page/advertise?ref=black-friday-deals)| Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | **50% OFF** Featured listing for a full year with code **BF2026** ($49 → $24.50, until Dec 31)|
+|🤑|[PixelVault](https://pixelvault.dev/blackfriday/)| Image hosting for developers and AI agents. Upload via API, CLI or MCP, serve from a global CDN with zero egress fees | **50% OFF** Starter & Pro for the first 3 monthly invoices. New paying customers only. Code **BLACKFRIDAY2026**, automatically applied via the offer page. Nov 23–30, 2026. |
 
 
 ---
