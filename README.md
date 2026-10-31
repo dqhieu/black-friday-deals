@@ -28,6 +28,7 @@ Please follow the rules below:
 |💸|[FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY26)| macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY26**|
 |💸|[ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26)| macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY26**|
 |💸|[Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26)| MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY26**|
+|🤑|[AppsByMo](https://appsbymo.app/?ref=dqhieu-bf)| 14 Mac and iPhone apps from one independent developer: Atelier, Cue, Scry, Thurayya, Margin, Wick, Vigil, Mo, What Happened, Chute, Yonder, Soluna, Emojist and Pinvoy. Native, private, no accounts | **50% OFF every paid app**, Nov 27 - Nov 30, 2026. Mac apps bought direct: code **BLACKFRIDAY** at checkout (e.g. Cue ~~$29~~ $14.50, Scry ~~$24~~ $12). App Store apps already half price, no code (e.g. Wick ~~$15.99~~ $7.99, Margin for iPhone ~~$5.99~~ $2.99)|
 
 
 ---
