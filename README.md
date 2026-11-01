@@ -2,6 +2,8 @@
 
 You are welcome to add your deal with a Pull Request. New deals must be appended below the existing ones.
 
+Using an AI agent (Claude, ChatGPT, Codex, Copilot, opencode, Cursor...) to add your deal? Point it at [AGENTS.md](AGENTS.md).
+
 Please follow the rules below:
  
 | Emoji | % discount |
