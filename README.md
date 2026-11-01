@@ -41,6 +41,7 @@ Please follow the rules below:
 |🤑|[HackUtilities](https://hackutilities.com)| Desktop workspace for AI coding agents, dev servers, terminals and 46 developer tools, for macOS and Windows | **50% OFF** lifetime license with code **BFCM2026**|
 |💸|[ExtensionLaunch](https://extensionlaunch.com/?ref=black-friday-deals)| Launch directory for Chrome, Firefox and Edge extensions and mobile apps: free listings, community votes, and done-for-you submission to 25 or 50 high-authority directories | **20% OFF** all paid plans (listings, directory submissions, ads) with code **BF2026** · e.g. 50 directories ~~$229~~ $183|
 |🤑|[TextSniper](https://textsniper.app/) | Stop retyping text you can't select. Instantly grab text from anywhere on your Mac, scan QR codes, and listen to text with built-in text-to-speech. | 70% OFF with code **BFCM26** |
+|💸|[Beaming](https://trybeaming.app/?ref=black-friday-deals)| Mirror your real iPhone, iPad and Android devices on your Mac, in a frame that matches the actual device | **40% OFF** Pro (one-time purchase) with code **BLACKFRIDAY40** (Nov 2 – Dec 1)|
 
 ---
 
