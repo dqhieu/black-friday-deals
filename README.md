@@ -35,6 +35,10 @@ Please follow the rules below:
 |🤑|[Nano Banana](https://nanobanana.org/black-friday)| AI image generation and editing in the browser | **50% OFF** first month, or first year (incl. renewals). Preview: Black Friday 2026 dates TBA|
 |💸|[pwn.guide](https://pwn.guide)| Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training | **20% OFF** all plans, forever, including lifetime, with code **BLKFRI20** (Nov 1 – Dec 5)|
 |🤑|[Bimg AI](https://bimg.ai/black-friday)| AI image generator and photo tools: upscale, unblur, background removal | **50% OFF** first month, or first year (incl. renewals). Preview: Black Friday 2026 dates TBA|
+|💸|[MuteDeck](https://mutedeck.com)| One-press mute, camera, screen share and recording controls across Zoom, Teams, Meet and more, for macOS and Windows | **35% OFF** lifetime license with code **BFCM2026**|
+|💸|[WhatPulse](https://whatpulse.org)| Tracks keystrokes, clicks, app usage and bandwidth as personal stats and heatmaps, for Windows, macOS and Linux | **35% OFF** yearly with code **BFCM2026**|
+|💸|[MeetingDebrief](https://meetingdebrief.com)| Private meeting notes and dictation that run on your own device, no bot in the call, for macOS and Windows | **35% OFF** lifetime license with code **BFCM2026**|
+|🤑|[HackUtilities](https://hackutilities.com)| Desktop workspace for AI coding agents, dev servers, terminals and 46 developer tools, for macOS and Windows | **50% OFF** lifetime license with code **BFCM2026**|
 
 ---
 
