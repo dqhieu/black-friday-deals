@@ -39,6 +39,7 @@ Please follow the rules below:
 |💸|[WhatPulse](https://whatpulse.org)| Tracks keystrokes, clicks, app usage and bandwidth as personal stats and heatmaps, for Windows, macOS and Linux | **35% OFF** yearly with code **BFCM2026**|
 |💸|[MeetingDebrief](https://meetingdebrief.com)| Private meeting notes and dictation that run on your own device, no bot in the call, for macOS and Windows | **35% OFF** lifetime license with code **BFCM2026**|
 |🤑|[HackUtilities](https://hackutilities.com)| Desktop workspace for AI coding agents, dev servers, terminals and 46 developer tools, for macOS and Windows | **50% OFF** lifetime license with code **BFCM2026**|
+|🤑|[TextSniper](https://textsniper.app/) | Stop retyping text you can't select. Instantly grab text from anywhere on your Mac, scan QR codes, and listen to text with built-in text-to-speech. | 70% OFF with code **BFCM26** |
 
 ---
 
