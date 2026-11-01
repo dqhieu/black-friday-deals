@@ -39,6 +39,7 @@ Please follow the rules below:
 |💸|[WhatPulse](https://whatpulse.org)| Tracks keystrokes, clicks, app usage and bandwidth as personal stats and heatmaps, for Windows, macOS and Linux | **35% OFF** yearly with code **BFCM2026**|
 |💸|[MeetingDebrief](https://meetingdebrief.com)| Private meeting notes and dictation that run on your own device, no bot in the call, for macOS and Windows | **35% OFF** lifetime license with code **BFCM2026**|
 |🤑|[HackUtilities](https://hackutilities.com)| Desktop workspace for AI coding agents, dev servers, terminals and 46 developer tools, for macOS and Windows | **50% OFF** lifetime license with code **BFCM2026**|
+|💸|[ExtensionLaunch](https://extensionlaunch.com/?ref=black-friday-deals)| Launch directory for Chrome, Firefox and Edge extensions and mobile apps: free listings, community votes, and done-for-you submission to 25 or 50 high-authority directories | **20% OFF** all paid plans (listings, directory submissions, ads) with code **BF2026** · e.g. 50 directories ~~$229~~ $183|
 
 ---
 
