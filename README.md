@@ -2,6 +2,8 @@
 
 You are welcome to add your deal with a Pull Request. New deals must be appended below the existing ones.
 
+Using an AI agent (Claude, ChatGPT, Codex, Copilot, opencode, Cursor...) to add your deal? Point it at [AGENTS.md](AGENTS.md).
+
 Please follow the rules below:
  
 | Emoji | % discount |
@@ -29,6 +31,8 @@ Please follow the rules below:
 |💸|[ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26)| macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY26**|
 |💸|[Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26)| MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY26**|
 |🤑|[AppsByMo](https://appsbymo.app/?ref=dqhieu-bf)| 14 Mac and iPhone apps from one independent developer: Atelier, Cue, Scry, Thurayya, Margin, Wick, Vigil, Mo, What Happened, Chute, Yonder, Soluna, Emojist and Pinvoy. Native, private, no accounts | **50% OFF every paid app**, Nov 27 - Nov 30, 2026. Mac apps bought direct: code **BLACKFRIDAY** at checkout (e.g. Cue ~~$29~~ $14.50, Scry ~~$24~~ $12). App Store apps already half price, no code (e.g. Wick ~~$15.99~~ $7.99, Margin for iPhone ~~$5.99~~ $2.99)|
+|🤑|[Nano Banana](https://nanobanana.org/black-friday)| AI image generation and editing in the browser | **50% OFF** first month, or first year (incl. renewals). Preview: Black Friday 2026 dates TBA|
+|💸|[pwn.guide](https://pwn.guide)| Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training | **20% OFF** all plans, forever, including lifetime, with code **BLKFRI20** (Nov 1 – Dec 5)|
 |🤑|[Bimg AI](https://bimg.ai/black-friday)| AI image generator and photo tools: upscale, unblur, background removal | **50% OFF** first month, or first year (incl. renewals). Preview: Black Friday 2026 dates TBA|
 
 
