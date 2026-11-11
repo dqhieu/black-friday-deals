@@ -115,6 +115,7 @@ Please follow the rules below:
 |🤑|[Comic Weather](https://apps.apple.com/app/apple-store/id6816097524?pt=129027920&ct=bf26-dqhieu&mt=8)| Weather app for iPhone that turns your forecast into a comic book page. | **67% OFF** the paid app ($2.99 → $0.99), one-time purchase, no code needed (Nov 27 – Nov 30)|
 |🤑|[ClipUGC](https://clipugc.com/black-friday)| UGC style vertical videos for apps with AI influencers, ready to post on TikTok, Reels and Shorts. Web, iPhone and Android. | **50% OFF** the first 2 months with code **BLACKFRIDAY**, applied automatically from the link: Professional $14.99 → $7.50/mo, Business $49.99 → $25.00/mo, web subscriptions (until Dec 6, 2026)|
 |💸|[POSH](https://poshtui.com/black-friday?utm_source=dqhieu-bf&utm_campaign=bf2026)| Version-matched Ruby and Rails docs for your coding agent via CLI and MCP, with a free terminal browser, on macOS and Linux | **30% OFF** for as long as you stay subscribed with code **BLACKFRIDAY2026**: ~~€7~~ €4.90/month, ~~€60~~ €42/year, new subscriptions only (until Dec 2, 2026)|
+|🤑|[BlitzReels](https://blitzreels.com/black-friday?utm_source=dqhieu-bf)| AI clipping on the web: turns long videos into captioned vertical clips for TikTok, Reels and Shorts, then schedules them. | **60% less than paying monthly** on yearly plans, no code needed: first year $139 / $379 / $949 (Starter / Growth / Agency, vs $348 / $948 / $2,388 paid monthly), then the normal yearly price. +90 bonus credits, new subscriptions only (until Dec 1, 2026)|
 
 ---
 
