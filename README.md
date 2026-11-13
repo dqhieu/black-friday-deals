@@ -161,6 +161,7 @@ Please follow the rules below:
 |🤑|[Guard by OffSeq](https://guard.report/monitoring)| Website security and NIS2/GDPR compliance scanning with continuous monitoring (web) | **50% OFF** the full report and the first month of monitoring, no code needed: Full report €39.90 → €19.95, monitoring €25 → €12.50 first month per domain (incl. 21% VAT) (Nov 13 – Dec 1)|
 |🤑|[OffSeq Pulse](https://pulse.offseq.com/pricing)| EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux | **50% OFF** the first year or first month for new customers, no code needed: Pulse €4 → €2 per device/mo billed annually (€5 → €2.50 monthly), Managed €12 → €6 (excl. VAT), first 2 devices free (Nov 13 – Dec 2)|
 |🤑|[Orwellix](https://orwellix.com/lifetime-deal?utm_source=dqhieu-bf&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026)| AI writing editor for the web where an agent edits your document and you accept or reject each change. | **58% OFF** Lifetime introductory price ($599 → $249), no code needed, first 300 buyers (Nov 12 – Dec 31)|
+|💸|[Surfolks](https://surfolks.com/pricing?utm_source=black-friday-deals)| Relationship tool for LinkedIn and X: follow 50 people and read all their public posts in one focused feed (web app). | **$99 lifetime**, one payment instead of $49/mo — less than 2 months of the monthly plan, no code needed, first 100 (Nov 12 – Dec 1)|
 
 ---
 
