@@ -161,6 +161,8 @@ Please follow the rules below:
 |🤑|[Guard by OffSeq](https://guard.report/monitoring)| Website security and NIS2/GDPR compliance scanning with continuous monitoring (web) | **50% OFF** the full report and the first month of monitoring, no code needed: Full report €39.90 → €19.95, monitoring €25 → €12.50 first month per domain (incl. 21% VAT) (Nov 13 – Dec 1)|
 |🤑|[OffSeq Pulse](https://pulse.offseq.com/pricing)| EU-hosted device posture and NIS2/CIS compliance for Windows, macOS and Linux | **50% OFF** the first year or first month for new customers, no code needed: Pulse €4 → €2 per device/mo billed annually (€5 → €2.50 monthly), Managed €12 → €6 (excl. VAT), first 2 devices free (Nov 13 – Dec 2)|
 |🤑|[Orwellix](https://orwellix.com/lifetime-deal?utm_source=dqhieu-bf&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026)| AI writing editor for the web where an agent edits your document and you accept or reject each change. | **58% OFF** Lifetime introductory price ($599 → $249), no code needed, first 300 buyers (Nov 12 – Dec 31)|
+|🤑|[SaaSykit](https://saasykit.com/)| Production-ready Laravel SaaS boilerplate with billing, auth, admin panel and multi-tenancy (web, PHP) | **50% OFF** all versions with code **BLACKFRIDAY26** or no code needed: SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50, one-time purchase (Nov 14 – Dec 6)|
+|🤑|[CopyPasta](https://usecopypasta.com/)| Private-by-default clipboard manager for macOS that opens from the notch | **50% OFF** all licenses with code **BLACKFRIDAY26** or no code needed: Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20, one-time purchase (Nov 14 – Dec 6)|
 
 ---
 
