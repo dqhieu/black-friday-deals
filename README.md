@@ -163,6 +163,7 @@ Please follow the rules below:
 |🤑|[Orwellix](https://orwellix.com/lifetime-deal?utm_source=dqhieu-bf&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026)| AI writing editor for the web where an agent edits your document and you accept or reject each change. | **58% OFF** Lifetime introductory price ($599 → $249), no code needed, first 300 buyers (Nov 12 – Dec 31)|
 |💸|[SimpleFill](https://simplefill.app)| Text expansion, AI actions, and one-click form filling in your browser (Chrome, Firefox, Edge, and Safari). | **25% OFF** one-time purchase with code **LAUNCH** ($29 → $21.75), Chrome, Firefox, and Edge checkout (Nov 10 – Dec 7)|
 |🤑|[Aikeedo](https://aikeedo.com/black-friday/?utm_source=dqhieu&utm_medium=deal-listing&utm_campaign=bfcm2026)| Self-hosted, white-label AI SaaS platform for the web: launch your own ChatGPT-style business with chat, image, video and voice apps | **50% OFF** Core for 12 months, the Commercial License and every add-on, plus $100 off All-Access first year, no code needed (Nov 24 – Dec 1)|
+|🤑|[AppSec.training](https://appsec.training)| Application security, DevSecOps and secure SDLC training on the web. | **50% OFF** with code **blackfriday** (until Dec 31)|
 
 ---
 
