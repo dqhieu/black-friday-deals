@@ -173,6 +173,7 @@ Please follow the rules below:
 |🤑|[LiveReacting](https://www.livereacting.com/pricing)| Stream pre-recorded videos and 24/7 live channels to YouTube, Facebook, Twitch and more from the cloud, with no computer left on. | **50% OFF** your first year of annual plans (Small, Medium, Large, 24/7 Streaming) with code **BF2026**, new customers only (Nov 20 – Dec 4)|
 |🤑|[SaaSykit](https://saasykit.com/)| Production-ready Laravel SaaS boilerplate with billing, auth, admin panel and multi-tenancy (web, PHP) | **50% OFF** all versions with code **BLACKFRIDAY26** or no code needed: SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50, one-time purchase (Nov 14 – Dec 6)|
 |🤑|[CopyPasta](https://usecopypasta.com/)| Private-by-default clipboard manager for macOS that opens from the notch | **50% OFF** all licenses with code **BLACKFRIDAY26** or no code needed: Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20, one-time purchase (Nov 14 – Dec 6)|
+|💸|[Keyword Race](https://keywordrace.com/?ref=dq)| App Store keyword research for indie iOS developers (web), paid once. | **40% OFF** lifetime access ($59 → $35), no code needed (until Dec 2)|
 
 |🤑|[Wireless Operator](https://training.thexero.co.uk/blackfriday) | Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. | $197 instead of $599 (67% off, no code needed) Nov 10 – Dec 1 2026 |
 ---
