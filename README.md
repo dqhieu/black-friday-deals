@@ -174,6 +174,7 @@ Please follow the rules below:
 |🤑|[SaaSykit](https://saasykit.com/)| Production-ready Laravel SaaS boilerplate with billing, auth, admin panel and multi-tenancy (web, PHP) | **50% OFF** all versions with code **BLACKFRIDAY26** or no code needed: SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50, one-time purchase (Nov 14 – Dec 6)|
 |🤑|[CopyPasta](https://usecopypasta.com/)| Private-by-default clipboard manager for macOS that opens from the notch | **50% OFF** all licenses with code **BLACKFRIDAY26** or no code needed: Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20, one-time purchase (Nov 14 – Dec 6)|
 |💸|[Keyword Race](https://keywordrace.com/?ref=dq)| App Store keyword research for indie iOS developers (web), paid once. | **40% OFF** lifetime access ($59 → $35), no code needed (until Dec 2)|
+|🤑|[FileMinutes](https://www.fileminutes.com/?utm_source=dqhieu-bfdeals)| A Better Way to Find Files on Your Mac | **Up to 60% OFF** lifetime, code auto-applied at checkout (until Nov 30)|
 
 |🤑|[Wireless Operator](https://training.thexero.co.uk/blackfriday) | Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. | $197 instead of $599 (67% off, no code needed) Nov 10 – Dec 1 2026 |
 ---
