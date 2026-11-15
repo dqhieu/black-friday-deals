@@ -168,6 +168,7 @@ Please follow the rules below:
 |💸|[DailyRemote](https://dailyremote.com/get-started)| Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts (web) | **39% OFF** Premium monthly, quarterly and yearly plans with code **BFBNRTZSY**, new Premium subscribers (Nov 12 – Dec 1)|
 |🤑|[FlexiBackup](https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026)| Mac app to back up your iPhone and iPad straight to an external drive, freeing up Mac storage and relying less on iCloud. | **50% OFF** one-time purchase ($5.99 → $2.99) with code **BLACK2026** (Nov 8 – Dec 6)|
 
+|🤑|[Wireless Operator](https://training.thexero.co.uk/blackfriday) | Hands-on Wi-Fi pentesting course from TheXero Training Academy, covering 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching. | $197 instead of $599 (67% off, no code needed) Nov 10 – Dec 1 2026 |
 ---
 
 # Special Request 
