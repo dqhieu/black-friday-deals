@@ -165,6 +165,7 @@ Please follow the rules below:
 |🤑|[Aikeedo](https://aikeedo.com/black-friday/?utm_source=dqhieu&utm_medium=deal-listing&utm_campaign=bfcm2026)| Self-hosted, white-label AI SaaS platform for the web: launch your own ChatGPT-style business with chat, image, video and voice apps | **50% OFF** Core for 12 months, the Commercial License and every add-on, plus $100 off All-Access first year, no code needed (Nov 24 – Dec 1)|
 |🤑|[AppSec.training](https://appsec.training)| Application security, DevSecOps and secure SDLC training on the web. | **50% OFF** with code **blackfriday** (until Dec 31)|
 |💸|[MusicMV](https://musicmv.ai/black-friday)| Web app that turns a song and photo into a beat-synced music video with lip-sync and an editable storyboard | **Up to 40% OFF** one-time credit packs, no code needed; checkout from the deal page (Nov 13 – Dec 1, 2026 (Pacific Time))|
+|💸|[DailyRemote](https://dailyremote.com/get-started)| Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts (web) | **39% OFF** Premium monthly, quarterly and yearly plans with code **BFBNRTZSY**, new Premium subscribers (Nov 12 – Dec 1)|
 
 ---
 
