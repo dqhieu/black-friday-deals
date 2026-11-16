@@ -177,6 +177,7 @@ Please follow the rules below:
 |💸|[Keyword Race](https://keywordrace.com/?ref=dq)| App Store keyword research for indie iOS developers (web), paid once. | **40% OFF** lifetime access ($59 → $35), no code needed (until Dec 2)|
 |🤑|[FileMinutes](https://www.fileminutes.com/?utm_source=dqhieu-bfdeals)| A Better Way to Find Files on Your Mac | **Up to 60% OFF** lifetime, code auto-applied at checkout (until Nov 30)|
 |💸|[own.page](https://own.page/pricing?utm_source=dqhieu-bf&utm_medium=deal_list&utm_campaign=black_week_2026)| Personal website and link-in-bio builder on the web: sell products, take bookings, collect leads and play music from one page. | **40% OFF** the first year of Pro yearly ($79.90 → $47.94, €70 → €42) and **30% OFF** Business yearly ($199 → $139.30), no code needed (Nov 23 – Nov 30)|
+|💸|[Mailflare](https://mailflare.co/macos#black-friday)| Self-hosted email, calendar and Drive workspace with a native Mac mail app that also works with Gmail, Outlook and iCloud. | **40% OFF** Pro and Team licenses with code **HIEUBF2026**: Pro $29 → $17.40, Team $249 → $149.40 (Nov 20 – Dec 1)|
 
 ---
 
