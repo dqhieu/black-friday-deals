@@ -189,6 +189,7 @@ Please follow the rules below:
 |🤑|[Radar Lab](https://partnershipintel.com/?utm_source=dqhieu-bf#pricing)| Find newsletters to sponsor that reach your buyers, with the real ads as proof (web) | **67% OFF** Pro yearly: $299 → $99/year, locked for as long as you stay, no code needed (Nov 16 – Nov 30)|
 |🤑|[TypeBoost](https://typeboost.ai/?ref=black-friday-deals)| AI writing in every app on your Mac, plus an iPhone keyboard. Fix, rewrite or dictate text anywhere. Free plan available. | **50% OFF** the first year of Pro annual: $60 → $30 with code **TYPEBOOST50** (web checkout only, not in the App Store) (Nov 23 – Nov 30)|
 |🤑|[DigiCard Pro](https://digicard.pro/?ref=black-friday-deals)| Digital business card for Apple Wallet and Google Wallet: share your contact details with a QR code, no app or account needed for the recipient. One-time purchase, no subscription. | **50% OFF** Pro: $49.99 → $24.99, one-time, with code **DIGI50** (Nov 23 – Nov 30)|
+|🤑|[Sitely 8](https://sitely.app)| Sitely AI+Visual Website Builder for Mac & iPad. Build the website you always wanted, visually or using AI with MCP | 50% OFF one time purchase - 30% OFF subs first year (automatically applied; Nov 17 – Dec 8) |
 
 ---
 
