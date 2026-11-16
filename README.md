@@ -186,6 +186,7 @@ Please follow the rules below:
 |🤑|[DeskRest](https://deskrest.com/offers)| Break reminder for Mac that nudges you to rest your eyes, stretch and take regular breaks | **80% OFF** lifetime licenses with code **BLACKFRIDAY80** (Nov 9 – Dec 10)|
 |🤑|[SupaYatta](https://supayatta.com?ref=dq)| Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) · code `YATTADEAL`|
 |💸|[Mailflare](https://mailflare.co/macos#black-friday)| Self-hosted email, calendar and Drive workspace with a native Mac mail app that also works with Gmail, Outlook and iCloud. | **40% OFF** Pro and Team licenses with code **HIEUBF2026**: Pro $29 → $17.40, Team $249 → $149.40 (Nov 20 – Dec 1)|
+|🤑|[Radar Lab](https://partnershipintel.com/?utm_source=dqhieu-bf#pricing)| Find newsletters to sponsor that reach your buyers, with the real ads as proof (web) | **67% OFF** Pro yearly: $299 → $99/year, locked for as long as you stay, no code needed (Nov 16 – Nov 30)|
 
 ---
 
