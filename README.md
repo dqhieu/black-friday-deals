@@ -185,6 +185,7 @@ Please follow the rules below:
 |💸|[Renderly](https://renderly.video/pricing?code=BLACKFRIDAY2026)| Video rendering API for the web: send a JSON template and your data, get an MP4 back, with a browser editor and AI captions. | **30% OFF** the first payment of a new Creator or Business subscription with code **BLACKFRIDAY2026**: Creator $29 → $20.30, Business $99 → $69.30 for the first month (Nov 27 - Dec 1)|
 |🤑|[DeskRest](https://deskrest.com/offers)| Break reminder for Mac that nudges you to rest your eyes, stretch and take regular breaks | **80% OFF** lifetime licenses with code **BLACKFRIDAY80** (Nov 9 – Dec 10)|
 |🤑|[SupaYatta](https://supayatta.com?ref=dq)| Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) · code `YATTADEAL`|
+|💸|[Mailflare](https://mailflare.co/macos#black-friday)| Self-hosted email, calendar and Drive workspace with a native Mac mail app that also works with Gmail, Outlook and iCloud. | **40% OFF** Pro and Team licenses with code **HIEUBF2026**: Pro $29 → $17.40, Team $249 → $149.40 (Nov 20 – Dec 1)|
 
 ---
 
