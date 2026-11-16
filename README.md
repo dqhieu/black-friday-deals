@@ -179,6 +179,8 @@ Please follow the rules below:
 |💸|[own.page](https://own.page/pricing?utm_source=dqhieu-bf&utm_medium=deal_list&utm_campaign=black_week_2026)| Personal website and link-in-bio builder on the web: sell products, take bookings, collect leads and play music from one page. | **40% OFF** the first year of Pro yearly ($79.90 → $47.94, €70 → €42) and **30% OFF** Business yearly ($199 → $139.30), no code needed (Nov 23 – Nov 30)|
 |🤑|[Radiantly](https://radiantly.space/pricing)| Web app for experts to create branded AI agents with interactive experiences and personalized responses. | **60% OFF** the first annual payment for new users with code **BF60**.<br>Pro: $91.20 (normally $228/year).<br>Max: $283.20 (normally $708/year).<br>Regular price on renewals (Nov 15 – Dec 15, 2026 UTC)|
 |💸|[Recut](https://getrecut.com/)| Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically. Mac/Windows/Linux | **$50 OFF**, one-time purchase ($149 → $99), no code needed (Nov 12 – Dec 4)|
+|💸|[Modern Security - Hands-on AI Security Certification](https://www.modernsecurity.io/courses/ai-security-certification)|Hands-on AI security training with labs covering agents, MCP, RAG, prompt injection, red teaming, guardrails and AI supply chain security.|**20% OFF** with code **msec-bf20** (Nov 10 – Dec 10, 2026)|
+
 
 ---
 
