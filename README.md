@@ -194,6 +194,7 @@ Please follow the rules below:
 |🤑|[LottieGo](https://lottiego.com/black-friday?utm_source=gh-dqhieu&utm_medium=github&utm_campaign=bf2026)| macOS app that shrinks Lottie JSON and exports MP4, transparent MOV or GIF | **50% OFF** Pro lifetime ($4.99 → $2.49), no code needed (Nov 20 – Dec 6)|
 |🤑|[TimeGo Clock](https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-gh-dqhieu&mt=12)| Minimalist timer for macOS with a countdown HUD and timer groups | **50% OFF** ($3.99 → $1.99) on the Mac App Store, no code needed (Nov 20 – Dec 6)|
 |🤑|[Wishbar](https://wishbar.app/black-friday?ref=dqhieu-bf)| Mac menu bar app: type what you want in plain English and your own ChatGPT or Claude builds a live widget | **50% OFF** every one-time licence, no code needed: 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34 (Nov 16 – Dec 7)|
+|💸|[ScreenShield](https://sky-blue1111.github.io/screenshield-site/?utm_source=bfdeals-dqhieu#pricing)| Chrome extension that hides emails, phone numbers, card numbers and API keys while you share your screen | **41% OFF** lifetime Pro, $49 → $29 one-time, no code needed (until Nov 30)|
 
 ---
 
