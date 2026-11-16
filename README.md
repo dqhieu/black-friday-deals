@@ -190,6 +190,11 @@ Please follow the rules below:
 |🤑|[TypeBoost](https://typeboost.ai/?ref=black-friday-deals)| AI writing in every app on your Mac, plus an iPhone keyboard. Fix, rewrite or dictate text anywhere. Free plan available. | **50% OFF** the first year of Pro annual: $60 → $30 with code **TYPEBOOST50** (web checkout only, not in the App Store) (Nov 23 – Nov 30)|
 |🤑|[DigiCard Pro](https://digicard.pro/?ref=black-friday-deals)| Digital business card for Apple Wallet and Google Wallet: share your contact details with a QR code, no app or account needed for the recipient. One-time purchase, no subscription. | **50% OFF** Pro: $49.99 → $24.99, one-time, with code **DIGI50** (Nov 23 – Nov 30)|
 |🤑|[Sitely 8](https://sitely.app)| Sitely AI+Visual Website Builder for Mac & iPad. Build the website you always wanted, visually or using AI with MCP | 50% OFF one time purchase - 30% OFF subs first year (automatically applied; Nov 17 – Dec 8) |
+|💸|[Zipic](https://zipic.app/black-friday?utm_source=gh-dqhieu&utm_medium=github&utm_campaign=bf2026)| Image compression for Mac and Windows, with a JSON-output CLI on Mac for scripts, CI and AI agents | **33% OFF** one-time licenses with code **BF2026** (Nov 20 – Dec 6)|
+|💸|[Orchard](https://orchard.5km.tech/black-friday?utm_source=gh-dqhieu&utm_medium=github&utm_campaign=bf2026)| macOS app that lets AI assistants use 11 Apple apps locally via MCP, Agent Skills or a CLI | **33% OFF** Lifetime and first year of Annual with code **BF2026** (Nov 20 – Dec 6)|
+|🤑|[KeygenGo](https://keygengo.5km.tech/black-friday?utm_source=gh-dqhieu&utm_medium=github&utm_campaign=bf2026)| Native macOS client for Keygen.sh licensing, cloud or self-hosted | **50% OFF** Lifetime ($39.99 → $19.99), no code needed · Annual $9.99 first year with code **BF2026YEAR** (Nov 20 – Dec 6)|
+|🤑|[LottieGo](https://lottiego.com/black-friday?utm_source=gh-dqhieu&utm_medium=github&utm_campaign=bf2026)| macOS app that shrinks Lottie JSON and exports MP4, transparent MOV or GIF | **50% OFF** Pro lifetime ($4.99 → $2.49), no code needed (Nov 20 – Dec 6)|
+|🤑|[TimeGo Clock](https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-gh-dqhieu&mt=12)| Minimalist timer for macOS with a countdown HUD and timer groups | **50% OFF** ($3.99 → $1.99) on the Mac App Store, no code needed (Nov 20 – Dec 6)|
 
 ---
 
