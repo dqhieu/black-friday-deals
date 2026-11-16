@@ -187,6 +187,8 @@ Please follow the rules below:
 |🤑|[SupaYatta](https://supayatta.com?ref=dq)| Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) · code `YATTADEAL`|
 |💸|[Mailflare](https://mailflare.co/macos#black-friday)| Self-hosted email, calendar and Drive workspace with a native Mac mail app that also works with Gmail, Outlook and iCloud. | **40% OFF** Pro and Team licenses with code **HIEUBF2026**: Pro $29 → $17.40, Team $249 → $149.40 (Nov 20 – Dec 1)|
 |🤑|[Radar Lab](https://partnershipintel.com/?utm_source=dqhieu-bf#pricing)| Find newsletters to sponsor that reach your buyers, with the real ads as proof (web) | **67% OFF** Pro yearly: $299 → $99/year, locked for as long as you stay, no code needed (Nov 16 – Nov 30)|
+|🤑|[TypeBoost](https://typeboost.ai/?ref=black-friday-deals)| AI writing in every app on your Mac, plus an iPhone keyboard. Fix, rewrite or dictate text anywhere. Free plan available. | **50% OFF** the first year of Pro annual: $60 → $30 with code **TYPEBOOST50** (web checkout only, not in the App Store) (Nov 23 – Nov 30)|
+|🤑|[DigiCard Pro](https://digicard.pro/?ref=black-friday-deals)| Digital business card for Apple Wallet and Google Wallet: share your contact details with a QR code, no app or account needed for the recipient. One-time purchase, no subscription. | **50% OFF** Pro: $49.99 → $24.99, one-time, with code **DIGI50** (Nov 23 – Nov 30)|
 
 ---
 
