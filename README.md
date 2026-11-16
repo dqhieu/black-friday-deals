@@ -177,6 +177,7 @@ Please follow the rules below:
 |💸|[Keyword Race](https://keywordrace.com/?ref=dq)| App Store keyword research for indie iOS developers (web), paid once. | **40% OFF** lifetime access ($59 → $35), no code needed (until Dec 2)|
 |🤑|[FileMinutes](https://www.fileminutes.com/?utm_source=dqhieu-bfdeals)| A Better Way to Find Files on Your Mac | **Up to 60% OFF** lifetime, code auto-applied at checkout (until Nov 30)|
 |💸|[own.page](https://own.page/pricing?utm_source=dqhieu-bf&utm_medium=deal_list&utm_campaign=black_week_2026)| Personal website and link-in-bio builder on the web: sell products, take bookings, collect leads and play music from one page. | **40% OFF** the first year of Pro yearly ($79.90 → $47.94, €70 → €42) and **30% OFF** Business yearly ($199 → $139.30), no code needed (Nov 23 – Nov 30)|
+|🤑|[Launch Agent Kit](https://swipetolaunch.com/kit)| A kit your AI agent uses to submit your product to 300+ launch directories, on macOS, Windows and Linux. | **$29 one-time** Black Friday price, $99 from Dec 2, no code needed (until Dec 1)|
 
 ---
 
