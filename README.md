@@ -177,6 +177,11 @@ Please follow the rules below:
 |💸|[Keyword Race](https://keywordrace.com/?ref=dq)| App Store keyword research for indie iOS developers (web), paid once. | **40% OFF** lifetime access ($59 → $35), no code needed (until Dec 2)|
 |🤑|[FileMinutes](https://www.fileminutes.com/?utm_source=dqhieu-bfdeals)| A Better Way to Find Files on Your Mac | **Up to 60% OFF** lifetime, code auto-applied at checkout (until Nov 30)|
 |💸|[own.page](https://own.page/pricing?utm_source=dqhieu-bf&utm_medium=deal_list&utm_campaign=black_week_2026)| Personal website and link-in-bio builder on the web: sell products, take bookings, collect leads and play music from one page. | **40% OFF** the first year of Pro yearly ($79.90 → $47.94, €70 → €42) and **30% OFF** Business yearly ($199 → $139.30), no code needed (Nov 23 – Nov 30)|
+|💸|[Zipic](https://zipic.app/black-friday?utm_source=gh-dqhieu&utm_medium=github&utm_campaign=bf2026)| Image compression for Mac and Windows, with a JSON-output CLI on Mac for scripts, CI and AI agents | **33% OFF** one-time licenses with code **BF2026** (Nov 20 – Dec 6)|
+|💸|[Orchard](https://orchard.5km.tech/black-friday?utm_source=gh-dqhieu&utm_medium=github&utm_campaign=bf2026)| macOS app that lets AI assistants use 11 Apple apps locally via MCP, Agent Skills or a CLI | **33% OFF** Lifetime and first year of Annual with code **BF2026** (Nov 20 – Dec 6)|
+|🤑|[KeygenGo](https://keygengo.5km.tech/black-friday?utm_source=gh-dqhieu&utm_medium=github&utm_campaign=bf2026)| Native macOS client for Keygen.sh licensing, cloud or self-hosted | **50% OFF** Lifetime ($39.99 → $19.99), no code needed · Annual $9.99 first year with code **BF2026YEAR** (Nov 20 – Dec 6)|
+|🤑|[LottieGo](https://lottiego.com/black-friday?utm_source=gh-dqhieu&utm_medium=github&utm_campaign=bf2026)| macOS app that shrinks Lottie JSON and exports MP4, transparent MOV or GIF | **50% OFF** Pro lifetime ($4.99 → $2.49), no code needed (Nov 20 – Dec 6)|
+|🤑|[TimeGo Clock](https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-gh-dqhieu&mt=12)| Minimalist timer for macOS with a countdown HUD and timer groups | **50% OFF** ($3.99 → $1.99) on the Mac App Store, no code needed (Nov 20 – Dec 6)|
 
 ---
 
