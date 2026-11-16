@@ -177,6 +177,8 @@ Please follow the rules below:
 |💸|[Keyword Race](https://keywordrace.com/?ref=dq)| App Store keyword research for indie iOS developers (web), paid once. | **40% OFF** lifetime access ($59 → $35), no code needed (until Dec 2)|
 |🤑|[FileMinutes](https://www.fileminutes.com/?utm_source=dqhieu-bfdeals)| A Better Way to Find Files on Your Mac | **Up to 60% OFF** lifetime, code auto-applied at checkout (until Nov 30)|
 |💸|[own.page](https://own.page/pricing?utm_source=dqhieu-bf&utm_medium=deal_list&utm_campaign=black_week_2026)| Personal website and link-in-bio builder on the web: sell products, take bookings, collect leads and play music from one page. | **40% OFF** the first year of Pro yearly ($79.90 → $47.94, €70 → €42) and **30% OFF** Business yearly ($199 → $139.30), no code needed (Nov 23 – Nov 30)|
+|🤑|[TypeBoost](https://typeboost.ai/?ref=black-friday-deals)| AI writing in every app on your Mac, plus an iPhone keyboard. Fix, rewrite or dictate text anywhere. Free plan available. | **50% OFF** the first year of Pro annual: $60 → $30 with code **TYPEBOOST50** (web checkout only, not in the App Store) (Nov 23 – Nov 30)|
+|🤑|[DigiCard Pro](https://digicard.pro/?ref=black-friday-deals)| Digital business card for Apple Wallet and Google Wallet: share your contact details with a QR code, no app or account needed for the recipient. One-time purchase, no subscription. | **50% OFF** Pro: $49.99 → $24.99, one-time, with code **DIGI50** (Nov 23 – Nov 30)|
 
 ---
 
