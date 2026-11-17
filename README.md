@@ -201,6 +201,7 @@ Please follow the rules below:
 |💸|[Scribbble](https://www.scribbble.app)| Draw and annotate anywhere on your Mac screen: pen, arrows, highlighter, spotlight, magnify and whiteboard. One-time purchase | **35% OFF** with code **BFCMSCRIB** ($12 → $7.80), one-time purchase (Nov 20 – Dec 2)|
 |💸|[Refine](https://refine.sh)| Offline AI writing assistant for macOS: grammar, autocomplete, rewrites and translation in 36 languages across your apps. | **35% OFF** one-time license, no code needed, applied at checkout (Nov 15 - Nov 30)|
 |💸|[EzyStudio](https://ezystudio.com)| AI website and app builder for the web. Bring your own Claude, ChatGPT or Gemini plan: no credits and no AI markup. | **10% OFF** every payment, for good, on every regular plan (monthly, yearly or lifetime) with code **EARLYBF26** (Nov 16 – Nov 22)|
+|🤑|[DockMagic](https://dockmagic.app/?utm_source=bf_dqhieu&utm_medium=directory&utm_campaign=bf2026#dm-pricing)| A second macOS Dock with Claude and Codex limits, Cloudflare alerts, screen recording, Pomodoro and system stats. | **Up to 50% OFF** lifetime licenses with lifetime updates, no code needed: 1 Mac $25 → $12.99 (48%), 2 Macs $40 → $19.99 (50%), 3 Macs $60 → $29.99 (50%) (USD) (Nov 3 – Nov 30, 2026 UTC)|
 
 ---
 
