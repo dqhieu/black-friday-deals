@@ -200,6 +200,7 @@ Please follow the rules below:
 |💸|[ScreenShield](https://sky-blue1111.github.io/screenshield-site/?utm_source=bfdeals-dqhieu#pricing)| Chrome extension that hides emails, phone numbers, card numbers and API keys while you share your screen | **41% OFF** lifetime Pro, $49 → $29 one-time, no code needed (until Nov 30)|
 |💸|[Scribbble](https://www.scribbble.app)| Draw and annotate anywhere on your Mac screen: pen, arrows, highlighter, spotlight, magnify and whiteboard. One-time purchase | **35% OFF** with code **BFCMSCRIB** ($12 → $7.80), one-time purchase (Nov 20 – Dec 2)|
 |💸|[Refine](https://refine.sh)| Offline AI writing assistant for macOS: grammar, autocomplete, rewrites and translation in 36 languages across your apps. | **35% OFF** one-time license, no code needed, applied at checkout (Nov 15 - Nov 30)|
+|💸|[EzyStudio](https://ezystudio.com)| AI website and app builder for the web. Bring your own Claude, ChatGPT or Gemini plan: no credits and no AI markup. | **10% OFF** every payment, for good, on every regular plan (monthly, yearly or lifetime) with code **EARLYBF26** (Nov 16 – Nov 22)|
 
 ---
 
