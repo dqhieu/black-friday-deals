@@ -199,6 +199,7 @@ Please follow the rules below:
 |🤑|[DuoTyping](https://duotyping.com/pricing?ref=dqhieu-bf)| Fixes your writing as you type in any app, predicts your next words, rewrites, translates and answers questions. Mac, Windows, Chrome/Edge, web. | **50% OFF** the first payment of Pro with code **BFCM2026** ($9.90 → $4.95 first month, $89.90 → $44.95 first year) · 300 rewrites, 1,000 translations, 200 asks a day · first Pro purchase only (Nov 13 to Dec 13)|
 |💸|[ScreenShield](https://sky-blue1111.github.io/screenshield-site/?utm_source=bfdeals-dqhieu#pricing)| Chrome extension that hides emails, phone numbers, card numbers and API keys while you share your screen | **41% OFF** lifetime Pro, $49 → $29 one-time, no code needed (until Nov 30)|
 |💸|[Scribbble](https://www.scribbble.app)| Draw and annotate anywhere on your Mac screen: pen, arrows, highlighter, spotlight, magnify and whiteboard. One-time purchase | **35% OFF** with code **BFCMSCRIB** ($12 → $7.80), one-time purchase (Nov 20 – Dec 2)|
+|💸|[Refine](https://refine.sh)| Offline AI writing assistant for macOS: grammar, autocomplete, rewrites and translation in 36 languages across your apps. | **35% OFF** one-time license, no code needed, applied at checkout (Nov 15 - Nov 30)|
 
 ---
 
