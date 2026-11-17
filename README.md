@@ -194,6 +194,11 @@ Please follow the rules below:
 |🤑|[LottieGo](https://lottiego.com/black-friday?utm_source=gh-dqhieu&utm_medium=github&utm_campaign=bf2026)| macOS app that shrinks Lottie JSON and exports MP4, transparent MOV or GIF | **50% OFF** Pro lifetime ($4.99 → $2.49), no code needed (Nov 20 – Dec 6)|
 |🤑|[TimeGo Clock](https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-gh-dqhieu&mt=12)| Minimalist timer for macOS with a countdown HUD and timer groups | **50% OFF** ($3.99 → $1.99) on the Mac App Store, no code needed (Nov 20 – Dec 6)|
 |🤑|[Wishbar](https://wishbar.app/black-friday?ref=dqhieu-bf)| Mac menu bar app: type what you want in plain English and your own ChatGPT or Claude builds a live widget | **50% OFF** every one-time licence, no code needed: 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34 (Nov 16 – Dec 7)|
+|💸|[Static.app](https://static.app/black-friday)| Static website hosting on the web: upload HTML or edit in the browser, custom domain and free SSL. | **35% OFF** the first payment with code **BLACKFRIDAY35**, 40% if you win the game on the deal page · new subscriptions (Nov 16 – Dec 1)|
+|💸|[Pulsetic](https://pulsetic.com/black-friday)| Web app for uptime monitoring, alerts and status pages for websites, APIs, SSL and cron jobs. | **35% OFF** the first payment with code **BLACKFRIDAY35**, 40% if you win the game on the deal page · new subscriptions (Nov 16 – Dec 3)|
+|💸|[Siter.io](https://siter.io/black-friday)| No-code website builder on the web with a free-form canvas, Figma import, AI pages and hosting. | **35% OFF** the first payment with code **BLACKFRIDAY35**, 40% if you win the game on the deal page · Solo, Plus and Pro (Nov 16 – Dec 1)|
+|💸|[Designmodo](https://designmodo.com/black-friday/)| Postcards (web AI email template builder) and Slides (web no-code website builder with hosting). | **Up to 40% OFF** yearly plans with code **BLACK** · 3 drops of 100 coupons at 40%, 35%, 30% (until Nov 30)|
+|💸|[Unspam.email](https://unspam.email/black-friday)| Web email spam checker with spam score, inbox placement tests, blacklist checks and previews on 60+ clients. | **35% OFF** the first invoice with code **BLACKFRIDAY35**, 40% if you win the game on the deal page · new Custom plans (Nov 16 – Dec 1)|
 
 ---
 
