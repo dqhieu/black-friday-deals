@@ -212,6 +212,8 @@ Please follow the rules below:
 |💸|[Designmodo](https://designmodo.com/black-friday/)| Postcards (web AI email template builder) and Slides (web no-code website builder with hosting). | **Up to 40% OFF** yearly plans with code **BLACK** · 3 drops of 100 coupons at 40%, 35%, 30% (until Nov 30)|
 |💸|[Unspam.email](https://unspam.email/black-friday)| Web email spam checker with spam score, inbox placement tests, blacklist checks and previews on 60+ clients. | **35% OFF** the first invoice with code **BLACKFRIDAY35**, 40% if you win the game on the deal page · new Custom plans (Nov 16 – Dec 1)|
 
+|🤑|[FreshJobs](https://freshjobs.tech/#black-friday)| All latest job postings in place, ATS score check and ATS resume generation | **60% OFF for 2 Months** with code **MS86L5ZK5VSU** (Nov 17 – Dec 17)|
+|🤑|[SaaSecure](https://saasecure.dev/#black-friday)| Fully offline code security scanner - Scan your source code for vulnerabilities | **50% OFF on Lifetime License** with code **QO388JR0COPL** (Nov 17 – Dec 17)|
 ---
 
 # Special Request 
