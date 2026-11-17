@@ -194,6 +194,13 @@ Please follow the rules below:
 |🤑|[LottieGo](https://lottiego.com/black-friday?utm_source=gh-dqhieu&utm_medium=github&utm_campaign=bf2026)| macOS app that shrinks Lottie JSON and exports MP4, transparent MOV or GIF | **50% OFF** Pro lifetime ($4.99 → $2.49), no code needed (Nov 20 – Dec 6)|
 |🤑|[TimeGo Clock](https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-gh-dqhieu&mt=12)| Minimalist timer for macOS with a countdown HUD and timer groups | **50% OFF** ($3.99 → $1.99) on the Mac App Store, no code needed (Nov 20 – Dec 6)|
 |🤑|[Wishbar](https://wishbar.app/black-friday?ref=dqhieu-bf)| Mac menu bar app: type what you want in plain English and your own ChatGPT or Claude builds a live widget | **50% OFF** every one-time licence, no code needed: 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34 (Nov 16 – Dec 7)|
+|🤑|[AirCalendar](https://apps.apple.com/app/id6761035745?utm_source=dqhieu)| Menu bar calendar for Mac: check the date, see what is coming up and keep your tasks close | **50% OFF** Lifetime Unlock ($1.99 → $0.99) · no code needed (Nov 27 – Nov 30, 2026)|
+|🤑|[PasteNook](https://apps.apple.com/app/id6762595649?utm_source=dqhieu)| Clipboard history manager for macOS | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
+|🤑|[Clipture](https://apps.apple.com/app/id6787685075?utm_source=dqhieu)| Lightweight screenshot tool for macOS | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
+|🤑|[TeachingInk](https://apps.apple.com/app/id6761326660?utm_source=dqhieu)| Screen annotation and whiteboard for Mac | **50% OFF** Lifetime Unlock ($4.99 → $2.49) · no code needed (Nov 27 – Nov 30, 2026)|
+|🤑|[LociMark](https://apps.apple.com/app/id6808972699?utm_source=dqhieu)| Local-first bookmark manager for Mac | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
+|🤑|[Tagnivo](https://apps.apple.com/app/id6804351905?utm_source=dqhieu)| Manage assets, employee assignments, supplies and inventory audits in one Mac app | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
+|🤑|[EchoKeys](https://apps.apple.com/app/id6764276614?utm_source=dqhieu)| Shows your keyboard shortcuts on screen as you press them | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
 
 ---
 
