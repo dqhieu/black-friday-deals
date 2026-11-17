@@ -224,6 +224,7 @@ Please follow the rules below:
 |🤑|[Tagnivo](https://apps.apple.com/app/id6804351905?utm_source=dqhieu)| Manage assets, employee assignments, supplies and inventory audits in one Mac app | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
 |🤑|[EchoKeys](https://apps.apple.com/app/id6764276614?utm_source=dqhieu)| Shows your keyboard shortcuts on screen as you press them | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
 |🤑|[CyberWarFare Labs](https://cyberwarfare.live/)| Hands-on cybersecurity training with labs and certifications for Red Team, Blue Team, Cloud Security, AI Security and more (web) | **Up to 90% OFF** course bundles · certifications from $5 · Infinity Yearly $49 with 2 free certifications, codes **INFINITY49** (yearly) and **INFINITY5** (monthly)|
+|💸|[Akev](https://akev.dev/pricing)| Open-source HTTP(S) debugging proxy for macOS, Windows and Linux | **30% OFF** the Pro licence (one-time, $49 → $34.30) with code **BLACKFRIDAY** (Nov 15 - Dec 6)|
 
 ---
 
