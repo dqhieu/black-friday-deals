@@ -222,6 +222,7 @@ Please follow the rules below:
 |🤑|[LociMark](https://apps.apple.com/app/id6808972699?utm_source=dqhieu)| Local-first bookmark manager for Mac | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
 |🤑|[Tagnivo](https://apps.apple.com/app/id6804351905?utm_source=dqhieu)| Manage assets, employee assignments, supplies and inventory audits in one Mac app | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
 |🤑|[EchoKeys](https://apps.apple.com/app/id6764276614?utm_source=dqhieu)| Shows your keyboard shortcuts on screen as you press them | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
+|💸|[**CyberWarFare Labs**](https://cyberwarfare.live/) | Hands-on cybersecurity training platform offering practical labs and industry-relevant certifications across Red Team, Blue Team, Cloud Security, AI Security, and more. [More details](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026) | **Up to 90% OFF** course bundles · Certifications from $5 · Infinity Yearly $49 with 2 free certifications (Coupons: `INFINITY49` yearly, `INFINITY5` monthly).
 
 |🤑|[FreshJobs](https://freshjobs.tech/#black-friday)| All latest job postings in place, ATS score check and ATS resume generation | **60% OFF for 2 Months** with code **MS86L5ZK5VSU** (Nov 17 – Dec 17)|
 |🤑|[SaaSecure](https://saasecure.dev/#black-friday)| Fully offline code security scanner - Scan your source code for vulnerabilities | **50% OFF on Lifetime License** with code **QO388JR0COPL** (Nov 17 – Dec 17)|
