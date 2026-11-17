@@ -195,6 +195,7 @@ Please follow the rules below:
 |🤑|[TimeGo Clock](https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-gh-dqhieu&mt=12)| Minimalist timer for macOS with a countdown HUD and timer groups | **50% OFF** ($3.99 → $1.99) on the Mac App Store, no code needed (Nov 20 – Dec 6)|
 |🤑|[Wishbar](https://wishbar.app/black-friday?ref=dqhieu-bf)| Mac menu bar app: type what you want in plain English and your own ChatGPT or Claude builds a live widget | **50% OFF** every one-time licence, no code needed: 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34 (Nov 16 – Dec 7)|
 |🤑|[FreshJobs](https://freshjobs.tech/#black-friday)| All latest job postings in place, ATS score check and ATS resume generation | **60% OFF for 2 Months** with code **MS86L5ZK5VSU** (Nov 17 – Dec 17)|
+|🤑|[SaaSecure](https://saasecure.dev/#black-friday)| Fully offline code security scanner - Scan your source code for vulnerabilities | **50% OFF on Lifetime License** with code **QO388JR0COPL** (Nov 17 – Dec 17)|
 ---
 
 # Special Request 
