@@ -212,6 +212,7 @@ Please follow the rules below:
 |💸|[Designmodo](https://designmodo.com/black-friday/)| Postcards (web AI email template builder) and Slides (web no-code website builder with hosting). | **Up to 40% OFF** yearly plans with code **BLACK** · 3 drops of 100 coupons at 40%, 35%, 30% (until Nov 30)|
 |💸|[Unspam.email](https://unspam.email/black-friday)| Web email spam checker with spam score, inbox placement tests, blacklist checks and previews on 60+ clients. | **35% OFF** the first invoice with code **BLACKFRIDAY35**, 40% if you win the game on the deal page · new Custom plans (Nov 16 – Dec 1)|
 |💸|[Perisclaw](https://perisclaw.com/pricing?utm_source=github-bf-deals&utm_medium=deal-listing&utm_campaign=cyber-monday-2026)| AI assistant that automates your work on WhatsApp: follow-ups, reminders and tasks, with full chat context | **40% OFF** the annual plan ($200 → $120/yr), no code needed (Nov 27 – Dec 1)|
+|🤑|[PortDroid](https://portdroid.net/sale)| Android network toolkit for port scanning, ping, traceroute, DNS, WHOIS and LAN device discovery | **50% OFF** Pro Lifetime with code **CYBER_2026** · $9.49 → $4.69 USD (Nov 5 - Dec 4)|
 
 |🤑|[FreshJobs](https://freshjobs.tech/#black-friday)| All latest job postings in place, ATS score check and ATS resume generation | **60% OFF for 2 Months** with code **MS86L5ZK5VSU** (Nov 17 – Dec 17)|
 |🤑|[SaaSecure](https://saasecure.dev/#black-friday)| Fully offline code security scanner - Scan your source code for vulnerabilities | **50% OFF on Lifetime License** with code **QO388JR0COPL** (Nov 17 – Dec 17)|
