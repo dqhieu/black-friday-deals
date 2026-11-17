@@ -203,6 +203,7 @@ Please follow the rules below:
 |💸|[EzyStudio](https://ezystudio.com)| AI website and app builder for the web. Bring your own Claude, ChatGPT or Gemini plan: no credits and no AI markup. | **10% OFF** every payment, for good, on every regular plan (monthly, yearly or lifetime) with code **EARLYBF26** (Nov 16 – Nov 22)|
 |🤑|[DockMagic](https://dockmagic.app/?utm_source=bf_dqhieu&utm_medium=directory&utm_campaign=bf2026#dm-pricing)| A second macOS Dock with Claude and Codex limits, Cloudflare alerts, screen recording, Pomodoro and system stats. | **Up to 50% OFF** lifetime licenses with lifetime updates, no code needed: 1 Mac $25 → $12.99 (48%), 2 Macs $40 → $19.99 (50%), 3 Macs $60 → $29.99 (50%) (USD) (Nov 3 – Nov 30, 2026 UTC)|
 |🤑|[Timesheet](https://timesheet.io/en/pricing)| Time tracking for freelancers and teams on iPhone, iPad, Android and the web, with invoices, reports and an MCP server | **50% OFF** the first year of every annual plan on the web, App Store and Google Play, no code needed, new customers only: Pro $99.99 → $49.99 per user, Business $179.99 → $89.99 per user, Plus $59.99 → $29.99 (Nov 23 – Nov 30)|
+|💸|[AntShot](https://antshot.com/?ref=black-friday-deals)| Full-page screenshots for Chrome and Edge, including tables and lists that scroll inside a page | **35% OFF** Pro Lifetime ($39 → $25.35) with code **BLACKFRIDAY26** (Nov 12 – Dec 2)|
 
 ---
 
