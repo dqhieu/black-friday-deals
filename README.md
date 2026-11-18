@@ -224,6 +224,7 @@ Please follow the rules below:
 |🤑|[Tagnivo](https://apps.apple.com/app/id6804351905?utm_source=dqhieu)| Manage assets, employee assignments, supplies and inventory audits in one Mac app | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
 |🤑|[EchoKeys](https://apps.apple.com/app/id6764276614?utm_source=dqhieu)| Shows your keyboard shortcuts on screen as you press them | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
 |🤑|[CyberWarFare Labs](https://cyberwarfare.live/)| Hands-on cybersecurity training with labs and certifications for Red Team, Blue Team, Cloud Security, AI Security and more (web) | **Up to 90% OFF** course bundles · certifications from $5 · Infinity Yearly $49 with 2 free certifications, codes **INFINITY49** (yearly) and **INFINITY5** (monthly)|
+|📡|[Social Fetch](https://socialfetch.dev/black-friday)| Web API and hosted MCP server that returns public TikTok, Instagram, YouTube, X and Reddit data as JSON. | **Double credits on every plan**, applied automatically, no code, new plans only (19 Nov 00:00 UTC to 1 Dec 08:00 UTC)|
 
 ---
 
