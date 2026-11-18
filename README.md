@@ -223,7 +223,7 @@ Please follow the rules below:
 |🤑|[LociMark](https://apps.apple.com/app/id6808972699?utm_source=dqhieu)| Local-first bookmark manager for Mac | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
 |🤑|[Tagnivo](https://apps.apple.com/app/id6804351905?utm_source=dqhieu)| Manage assets, employee assignments, supplies and inventory audits in one Mac app | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
 |🤑|[EchoKeys](https://apps.apple.com/app/id6764276614?utm_source=dqhieu)| Shows your keyboard shortcuts on screen as you press them | **50% OFF** Lifetime Unlock · no code needed (Nov 27 – Nov 30, 2026)|
-|🤑|[CyberWarFare Labs](https://cyberwarfare.live/)| Hands-on cybersecurity training with labs and certifications for Red Team, Blue Team, Cloud Security, AI Security and more (web) | **Up to 90% OFF** course bundles · certifications from $5 · Infinity Yearly $49 with 2 free certifications, codes **INFINITY49** (yearly) and **INFINITY5** (monthly)|
+|🤑|[CyberWarFare Labs](https://cyberwarfare.live/)| Hands-on cybersecurity training with labs and certifications for Red Team, Blue Team, Cloud Security, AI Security and [more] (https://github.com/RedTeamOperations/black-friday-cyber-sale-2026) | **Up to 90% OFF** course bundles · certifications from $5 · Infinity Yearly $49 with 2 free certifications, codes **INFINITY49** (yearly) and **INFINITY5** (monthly)|
 
 ---
 
