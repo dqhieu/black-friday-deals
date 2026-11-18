@@ -226,6 +226,7 @@ Please follow the rules below:
 |🤑|[CyberWarFare Labs](https://cyberwarfare.live/)| Hands-on cybersecurity training with labs and certifications for Red Team, Blue Team, Cloud Security, AI Security and more (web) | **Up to 90% OFF** course bundles · certifications from $5 · Infinity Yearly $49 with 2 free certifications, codes **INFINITY49** (yearly) and **INFINITY5** (monthly)|
 |💸|[Akev](https://akev.dev/pricing)| Open-source HTTP(S) debugging proxy for macOS, Windows and Linux | **30% OFF** the Pro licence (one-time, $49 → $34.30) with code **BLACKFRIDAY** (Nov 15 - Dec 6)|
 |🤑|[Faivelo](https://faivelo.com/black-friday?utm_source=github&utm_medium=deal_listing&utm_campaign=dqhieu)| Email hosting for your own domain with unlimited mailboxes, aliases and domains (web) | **80% OFF** the yearly plan, $12 instead of $60, renews at $12 · no code needed · new customers only, first 500 accounts (until Dec 1, 2026)|
+|🤑|[Paste](https://pasteapp.io/black-friday-2026?ref=dqhieu)| Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | **50% OFF** the first year of Annual ($29.99 → $14.99) with code **BLACKFRIDAY2026** (Nov 20 – Dec 1, 2026)|
 
 ---
 
