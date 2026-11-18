@@ -233,6 +233,9 @@ Please follow the rules below:
 |🤑|[Sunrise](https://hapday.app/black-friday-2026/sunrise/)| ADHD routines, habits and AI coaching on iOS | **60% OFF** (rounded) first annual year: $3.99, then $9.99/year until canceled; code **BF2026SUNRISE**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
 |🤑|[Dopy](https://hapday.app/black-friday-2026/dopy/)| Pomodoro focus sessions and habits on iOS | **60% OFF** (rounded) first annual year: $11.99, then $29.99/year until canceled; code **BF2026DOPY**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
 |🤑|[Breakup AI](https://hapday.app/black-friday-2026/breakup/)| No-contact tools and AI support after a breakup on iOS | **60% OFF** (rounded) first annual year: $15.99, then $39.99/year until canceled; code **BF2026BREAKUP**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
+|🤑|[Sponge](https://sponge.computer/pricing)| Local-first read-later library for Mac and Linux, with sync to the web and iPhone | **50% OFF** Sponge Plus for your first 12 months with code **SPONGEBF26**, $2.50 a month instead of $5 on the web, new subscribers only (Nov 18 – Dec 2)|
+|🤑|[Yaptake](https://yaptake.com/#pricing)| Video editor for macOS that works like a document: cut the video by editing its transcript | **50% OFF** your first year with code **YAPTAKEBF26**: Monthly $4.99 instead of $9.99, Yearly $39.50 instead of $79, new subscribers only (Nov 18 – Dec 2)|
+|🤑|[Textmock](https://textmock.com/pricing)| iMessage-style conversation mockups on the web and macOS, saved as images or videos | **50% OFF** Textmock Pro for your first 12 months with code **TEXTMOCKBF26**, $2.50 a month instead of $5, new subscribers only (Nov 18 – Dec 2)|
 
 ---
 
