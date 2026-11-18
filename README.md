@@ -233,6 +233,7 @@ Please follow the rules below:
 |🤑|[Sunrise](https://hapday.app/black-friday-2026/sunrise/)| ADHD routines, habits and AI coaching on iOS | **60% OFF** (rounded) first annual year: $3.99, then $9.99/year until canceled; code **BF2026SUNRISE**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
 |🤑|[Dopy](https://hapday.app/black-friday-2026/dopy/)| Pomodoro focus sessions and habits on iOS | **60% OFF** (rounded) first annual year: $11.99, then $29.99/year until canceled; code **BF2026DOPY**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
 |🤑|[Breakup AI](https://hapday.app/black-friday-2026/breakup/)| No-contact tools and AI support after a breakup on iOS | **60% OFF** (rounded) first annual year: $15.99, then $39.99/year until canceled; code **BF2026BREAKUP**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
+|🤑|[App14](https://app14.appetite.studio/black-friday)| Custom iOS and Android app for your business, designed, built and submitted to both stores in 14 days by a UK studio | 75% off: Starter app £3,999 → £999, Advanced £6,999 → £1,999. No code needed. Ends Nov 30, 2026|
 
 ---
 
