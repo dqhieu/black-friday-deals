@@ -233,6 +233,9 @@ Please follow the rules below:
 |🤑|[Sunrise](https://hapday.app/black-friday-2026/sunrise/)| ADHD routines, habits and AI coaching on iOS | **60% OFF** (rounded) first annual year: $3.99, then $9.99/year until canceled; code **BF2026SUNRISE**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
 |🤑|[Dopy](https://hapday.app/black-friday-2026/dopy/)| Pomodoro focus sessions and habits on iOS | **60% OFF** (rounded) first annual year: $11.99, then $29.99/year until canceled; code **BF2026DOPY**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
 |🤑|[Breakup AI](https://hapday.app/black-friday-2026/breakup/)| No-contact tools and AI support after a breakup on iOS | **60% OFF** (rounded) first annual year: $15.99, then $39.99/year until canceled; code **BF2026BREAKUP**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
+|🤑|[Itemlist](https://www.getitemlist.app/black-friday/)| Home inventory for iPhone and iPad. | **50% OFF** lifetime PRO: $29.99, down from $59.99, no code needed (Nov 18 – Dec 4, 2026)|
+|🤑|[QRGenie](https://qrgenie.app/black-friday)| QR code generator for iPhone, iPad and Mac. | **50% OFF** lifetime: $9.99, down from $19.99, no code needed (Nov 18 – Dec 4, 2026)|
+|🤑|[BarcodeCraft](https://www.barcodecraft.com/black-friday)| Barcode generator for iPhone and iPad. | **50% OFF** lifetime: $4.99, down from $9.99, no code needed (Nov 18 – Dec 4, 2026)|
 
 ---
 
