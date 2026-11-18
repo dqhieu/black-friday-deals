@@ -227,6 +227,7 @@ Please follow the rules below:
 |💸|[Akev](https://akev.dev/pricing)| Open-source HTTP(S) debugging proxy for macOS, Windows and Linux | **30% OFF** the Pro licence (one-time, $49 → $34.30) with code **BLACKFRIDAY** (Nov 15 - Dec 6)|
 |🤑|[Faivelo](https://faivelo.com/black-friday?utm_source=github&utm_medium=deal_listing&utm_campaign=dqhieu)| Email hosting for your own domain with unlimited mailboxes, aliases and domains (web) | **80% OFF** the yearly plan, $12 instead of $60, renews at $12 · no code needed · new customers only, first 500 accounts (until Dec 1, 2026)|
 |🤑|[Paste](https://pasteapp.io/black-friday-2026?ref=dqhieu)| Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | **50% OFF** the first year of Annual ($29.99 → $14.99) with code **BLACKFRIDAY2026** (Nov 20 – Dec 1, 2026)|
+|📡|[Social Fetch](https://socialfetch.dev/black-friday)| Web API and hosted MCP server that returns public TikTok, Instagram, YouTube, X and Reddit data as JSON. | **Double credits on every plan**, applied automatically, no code, new plans only (19 Nov 00:00 UTC to 1 Dec 08:00 UTC)|
 
 ---
 
