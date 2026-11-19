@@ -237,6 +237,9 @@ Please follow the rules below:
 |💸|[Ricly](https://usericly.com/?utm_source=github&utm_campaign=felix)| Finder right-click tools for macOS: remove backgrounds, convert images and audio, compress and merge PDFs. | **40% OFF** Founding lifetime license ($99 → $59, or 59 € in the EU; lowest price in the last 30 days: $69) with code **FOUNDERBF26** (Nov 27 – Nov 30)|
 |💸|[Float](https://float.gilla.fun/?utm_source=dqhieu#pricing)| Floating Markdown scratchpad for macOS on a global hotkey. Stays over full-screen apps and saves notes as plain .md files. | **40% OFF** Pro lifetime ($4.99 → $2.99) with code **BF26FLOAT** (Nov 26 – Dec 1)|
 |💸|[data-peek](https://www.datapeek.dev/pricing?utm_source=dqhieu)| Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on macOS, Windows and Linux. | **40% OFF** Pro yearly ($29 → $17.40), no code needed, applied at checkout (Nov 26 – Dec 1)|
+|🤑|[Itemlist](https://www.getitemlist.app/black-friday/)| Home inventory for iPhone and iPad. | **50% OFF** lifetime PRO: $29.99, down from $59.99, no code needed (Nov 18 – Dec 4, 2026)|
+|🤑|[QRGenie](https://qrgenie.app/black-friday)| QR code generator for iPhone, iPad and Mac. | **50% OFF** lifetime: $9.99, down from $19.99, no code needed (Nov 18 – Dec 4, 2026)|
+|🤑|[BarcodeCraft](https://www.barcodecraft.com/black-friday)| Barcode generator for iPhone and iPad. | **50% OFF** lifetime: $4.99, down from $9.99, no code needed (Nov 18 – Dec 4, 2026)|
 
 ---
 
