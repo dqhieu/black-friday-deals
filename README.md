@@ -234,6 +234,7 @@ Please follow the rules below:
 |🤑|[Dopy](https://hapday.app/black-friday-2026/dopy/)| Pomodoro focus sessions and habits on iOS | **60% OFF** (rounded) first annual year: $11.99, then $29.99/year until canceled; code **BF2026DOPY**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
 |🤑|[Breakup AI](https://hapday.app/black-friday-2026/breakup/)| No-contact tools and AI support after a breakup on iOS | **60% OFF** (rounded) first annual year: $15.99, then $39.99/year until canceled; code **BF2026BREAKUP**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
 |🤑|[App14](https://app14.appetite.studio/black-friday)| Custom iOS and Android app for your business, designed, built and submitted to both stores in 14 days by a UK studio | 75% off: Starter app £3,999 → £999, Advanced £6,999 → £1,999. No code needed. Ends Nov 30, 2026|
+|💸|[Ricly](https://usericly.com/?utm_source=github&utm_campaign=felix)| Finder right-click tools for macOS: remove backgrounds, convert images and audio, compress and merge PDFs. | **40% OFF** Founding lifetime license ($99 → $59, or 59 € in the EU; lowest price in the last 30 days: $69) with code **FOUNDERBF26** (Nov 27 – Nov 30)|
 
 ---
 
