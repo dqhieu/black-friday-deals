@@ -250,6 +250,7 @@ Please follow the rules below:
 |💸|[SoarStarter](https://soarstarter.com/?utm_source=dqhieu-bf&utm_campaign=bf2026#pricing)| Starter kits for Next.js, Nuxt, TanStack, SwiftUI, Kotlin, Expo, Electron and Tauri with auth and payments built in | **20% OFF** the All-Access Bundle (all 8 kits, $249 → $199) with code **BF2026** (Nov 24 – Dec 1, 2026)|
 |🤑|[Skillry](https://skillry.dev/pricing)| Curated creative Agent Skills for Claude Code, Codex & Cursor via web, CLI & MCP | **50% OFF** Pro ($9.99 first mo / $79 first yr) + Founding Lifetime $169 (was $249), no code needed, first billing period only (Nov 19 – Nov 30)|
 |🤑|[BizPeel](https://bizpeel.com/pricing)| Verified revenue, traffic, SEO & ad breakdowns for 700+ real startups on web & MCP | **50% OFF** first month across all plans ($14.95–$49.95) + 20% OFF first year, no code needed, first period only (Nov 19 – Nov 30)|
+|💸|[Wavedance](https://wave.dance)| 20 generative live wallpapers for macOS, behind your icons, click-through, on every Space | **30% OFF** with code **BLACKFRIDAY30** (Nov 23 – Dec 1)|
 
 ---
 
