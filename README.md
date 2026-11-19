@@ -248,6 +248,8 @@ Please follow the rules below:
 |💸|[Relaybrook](https://relaybrook.bytesell.app)| Ready-to-import n8n workflow packs for lead enrichment, inbox triage, content repurposing and crypto alerts (web, n8n) | **40% OFF** store-wide with code **BLACKFRIDAY40** (until Dec 1), crypto checkout only|
 |🤑|[Roads Audio](https://roadsaudio.com/black-friday)| Roads turns voice memos into conversations, so you and your friends stay close without needing to schedule a call. Available on iPhone and Android | **50% OFF** Roads Audio Plus Lifetime ~~$99.99~~ $49.99, one-time purchase, no code needed (Nov 26 – Dec 1)|
 |💸|[SoarStarter](https://soarstarter.com/?utm_source=dqhieu-bf&utm_campaign=bf2026#pricing)| Starter kits for Next.js, Nuxt, TanStack, SwiftUI, Kotlin, Expo, Electron and Tauri with auth and payments built in | **20% OFF** the All-Access Bundle (all 8 kits, $249 → $199) with code **BF2026** (Nov 24 – Dec 1, 2026)|
+|🤑|[Skillry](https://skillry.dev/pricing)| Curated creative Agent Skills for Claude Code, Codex & Cursor via web, CLI & MCP | **50% OFF** Pro ($9.99 first mo / $79 first yr) + Founding Lifetime $169 (was $249), no code needed, first billing period only (Nov 19 – Nov 30)|
+|🤑|[BizPeel](https://bizpeel.com/pricing)| Verified revenue, traffic, SEO & ad breakdowns for 700+ real startups on web & MCP | **50% OFF** first month across all plans ($14.95–$49.95) + 20% OFF first year, no code needed, first period only (Nov 19 – Nov 30)|
 
 ---
 
