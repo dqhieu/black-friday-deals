@@ -240,6 +240,9 @@ Please follow the rules below:
 |🤑|[Itemlist](https://www.getitemlist.app/black-friday/)| Home inventory for iPhone and iPad. | **50% OFF** lifetime PRO: $29.99, down from $59.99, no code needed (Nov 18 – Dec 4, 2026)|
 |🤑|[QRGenie](https://qrgenie.app/black-friday)| QR code generator for iPhone, iPad and Mac. | **50% OFF** lifetime: $9.99, down from $19.99, no code needed (Nov 18 – Dec 4, 2026)|
 |🤑|[BarcodeCraft](https://www.barcodecraft.com/black-friday)| Barcode generator for iPhone and iPad. | **50% OFF** lifetime: $4.99, down from $9.99, no code needed (Nov 18 – Dec 4, 2026)|
+|🤑|[Sponge](https://sponge.computer/pricing)| Local-first read-later library for Mac and Linux, with sync to the web and iPhone | **50% OFF** Sponge Plus for your first 12 months with code **SPONGEBF26**, $2.50 a month instead of $5 on the web, new subscribers only (Nov 18 – Dec 2)|
+|🤑|[Yaptake](https://yaptake.com/#pricing)| Video editor for macOS that works like a document: cut the video by editing its transcript | **50% OFF** your first year with code **YAPTAKEBF26**: Monthly $4.99 instead of $9.99, Yearly $39.50 instead of $79, new subscribers only (Nov 18 – Dec 2)|
+|🤑|[Textmock](https://textmock.com/pricing)| iMessage-style conversation mockups on the web and macOS, saved as images or videos | **50% OFF** Textmock Pro for your first 12 months with code **TEXTMOCKBF26**, $2.50 a month instead of $5, new subscribers only (Nov 18 – Dec 2)|
 
 ---
 
