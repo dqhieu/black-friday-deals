@@ -233,6 +233,8 @@ Please follow the rules below:
 |🤑|[Sunrise](https://hapday.app/black-friday-2026/sunrise/)| ADHD routines, habits and AI coaching on iOS | **60% OFF** (rounded) first annual year: $3.99, then $9.99/year until canceled; code **BF2026SUNRISE**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
 |🤑|[Dopy](https://hapday.app/black-friday-2026/dopy/)| Pomodoro focus sessions and habits on iOS | **60% OFF** (rounded) first annual year: $11.99, then $29.99/year until canceled; code **BF2026DOPY**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
 |🤑|[Breakup AI](https://hapday.app/black-friday-2026/breakup/)| No-contact tools and AI support after a breakup on iOS | **60% OFF** (rounded) first annual year: $15.99, then $39.99/year until canceled; code **BF2026BREAKUP**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
+|🤑|[Skillry](https://skillry.dev/pricing)| Curated creative Agent Skills for Claude Code, Codex & Cursor via web, CLI & MCP | **50% OFF** Pro ($9.99 first mo / $79 first yr) + Founding Lifetime $169 (was $249), no code needed, first billing period only (Nov 19 – Nov 30)|
+|🤑|[BizPeel](https://bizpeel.com/pricing)| Verified revenue, traffic, SEO & ad breakdowns for 700+ real startups on web & MCP | **50% OFF** first month across all plans ($14.95–$49.95) + 20% OFF first year, no code needed, first period only (Nov 19 – Nov 30)|
 
 ---
 
