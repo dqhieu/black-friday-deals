@@ -243,6 +243,7 @@ Please follow the rules below:
 |🤑|[Sponge](https://sponge.computer/pricing)| Local-first read-later library for Mac and Linux, with sync to the web and iPhone | **50% OFF** Sponge Plus for your first 12 months with code **SPONGEBF26**, $2.50 a month instead of $5 on the web, new subscribers only (Nov 18 – Dec 2)|
 |🤑|[Yaptake](https://yaptake.com/#pricing)| Video editor for macOS that works like a document: cut the video by editing its transcript | **50% OFF** your first year with code **YAPTAKEBF26**: Monthly $4.99 instead of $9.99, Yearly $39.50 instead of $79, new subscribers only (Nov 18 – Dec 2)|
 |🤑|[Textmock](https://textmock.com/pricing)| iMessage-style conversation mockups on the web and macOS, saved as images or videos | **50% OFF** Textmock Pro for your first 12 months with code **TEXTMOCKBF26**, $2.50 a month instead of $5, new subscribers only (Nov 18 – Dec 2)|
+|💸|[Spacepal](https://getspacepal.com/black-friday/)| Mac menu bar app that names your desktops (Spaces), previews them all and switches without the slide | **20% OFF** Pro ($9.99 → $7.99, one-time); code **BLACKFRIDAY**, applied automatically; Nov 27 – Dec 1, 2026|
 
 ---
 
