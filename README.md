@@ -245,6 +245,7 @@ Please follow the rules below:
 |🤑|[Textmock](https://textmock.com/pricing)| iMessage-style conversation mockups on the web and macOS, saved as images or videos | **50% OFF** Textmock Pro for your first 12 months with code **TEXTMOCKBF26**, $2.50 a month instead of $5, new subscribers only (Nov 18 – Dec 2)|
 |💸|[Spacepal](https://getspacepal.com/black-friday/)| Mac menu bar app that names your desktops (Spaces), previews them all and switches without the slide | **20% OFF** Pro ($9.99 → $7.99, one-time); code **BLACKFRIDAY**, applied automatically; Nov 27 – Dec 1, 2026|
 |💸|[Craft](https://www.craft.do/pricing)| Notes, docs and tasks in one native app for Mac, iPhone and iPad, also on Windows, Android and the web | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/month for Plus, US price, local prices vary), **20% OFF** monthly plans with code **BLACKFRIDAY26-M**. The discount stays on every renewal (Nov 16 – Dec 9)|
+|💸|[Relaybrook](https://relaybrook.bytesell.app)| Ready-to-import n8n workflow packs for lead enrichment, inbox triage, content repurposing and crypto alerts (web, n8n) | **40% OFF** store-wide with code **BLACKFRIDAY40** (until Dec 1), crypto checkout only|
 
 ---
 
