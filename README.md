@@ -247,6 +247,7 @@ Please follow the rules below:
 |💸|[Craft](https://www.craft.do/pricing)| Notes, docs and tasks in one native app for Mac, iPhone and iPad, also on Windows, Android and the web | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/month for Plus, US price, local prices vary), **20% OFF** monthly plans with code **BLACKFRIDAY26-M**. The discount stays on every renewal (Nov 16 – Dec 9)|
 |💸|[Relaybrook](https://relaybrook.bytesell.app)| Ready-to-import n8n workflow packs for lead enrichment, inbox triage, content repurposing and crypto alerts (web, n8n) | **40% OFF** store-wide with code **BLACKFRIDAY40** (until Dec 1), crypto checkout only|
 |🤑|[Roads Audio](https://roadsaudio.com/black-friday)| Roads turns voice memos into conversations, so you and your friends stay close without needing to schedule a call. Available on iPhone and Android | **50% OFF** Roads Audio Plus Lifetime ~~$99.99~~ $49.99, one-time purchase, no code needed (Nov 26 – Dec 1)|
+|💸|[SoarStarter](https://soarstarter.com/?utm_source=dqhieu-bf&utm_campaign=bf2026#pricing)| Starter kits for Next.js, Nuxt, TanStack, SwiftUI, Kotlin, Expo, Electron and Tauri with auth and payments built in | **20% OFF** the All-Access Bundle (all 8 kits, $249 → $199) with code **BF2026** (Nov 24 – Dec 1, 2026)|
 
 ---
 
