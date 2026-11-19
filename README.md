@@ -246,6 +246,7 @@ Please follow the rules below:
 |💸|[Spacepal](https://getspacepal.com/black-friday/)| Mac menu bar app that names your desktops (Spaces), previews them all and switches without the slide | **20% OFF** Pro ($9.99 → $7.99, one-time); code **BLACKFRIDAY**, applied automatically; Nov 27 – Dec 1, 2026|
 |💸|[Craft](https://www.craft.do/pricing)| Notes, docs and tasks in one native app for Mac, iPhone and iPad, also on Windows, Android and the web | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/month for Plus, US price, local prices vary), **20% OFF** monthly plans with code **BLACKFRIDAY26-M**. The discount stays on every renewal (Nov 16 – Dec 9)|
 |💸|[Relaybrook](https://relaybrook.bytesell.app)| Ready-to-import n8n workflow packs for lead enrichment, inbox triage, content repurposing and crypto alerts (web, n8n) | **40% OFF** store-wide with code **BLACKFRIDAY40** (until Dec 1), crypto checkout only|
+|🤑|[Roads Audio](https://roadsaudio.com/black-friday)| Roads turns voice memos into conversations, so you and your friends stay close without needing to schedule a call. Available on iPhone and Android | **50% OFF** Roads Audio Plus Lifetime ~~$99.99~~ $49.99, one-time purchase, no code needed (Nov 26 – Dec 1)|
 
 ---
 
