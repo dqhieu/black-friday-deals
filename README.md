@@ -233,6 +233,10 @@ Please follow the rules below:
 |🤑|[Sunrise](https://hapday.app/black-friday-2026/sunrise/)| ADHD routines, habits and AI coaching on iOS | **60% OFF** (rounded) first annual year: $3.99, then $9.99/year until canceled; code **BF2026SUNRISE**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
 |🤑|[Dopy](https://hapday.app/black-friday-2026/dopy/)| Pomodoro focus sessions and habits on iOS | **60% OFF** (rounded) first annual year: $11.99, then $29.99/year until canceled; code **BF2026DOPY**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
 |🤑|[Breakup AI](https://hapday.app/black-friday-2026/breakup/)| No-contact tools and AI support after a breakup on iOS | **60% OFF** (rounded) first annual year: $15.99, then $39.99/year until canceled; code **BF2026BREAKUP**; US App Store/iOS only; new or expired subscribers; first 1,000 redemptions; no trial (ends Nov 30, 2026 at 21:00 UTC)|
+|💸|[Exploit Pack](https://www.exploitpack.com/products/exploit-pack)| AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME**, through Nov 30, 2026 |
+|💸|[Control Pack](https://www.exploitpack.com/products/control-pack)| Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME**, through Nov 30, 2026 |
+|💸|[Kernel Pack](https://www.exploitpack.com/products/kernel-pack)| Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling. | **20% OFF** (€1,200 → €960) and Lifetime licence with code **LIFETIME**, through Nov 30, 2026 |
+|💸|[Ultimate Pack + AI](https://www.exploitpack.com/products/ultimate-pack-discount)| All-in-one offensive-security suite combining exploitation, C2 and kernel operations with integrated AI. | **Black Friday bundle €4,000**, no coupon, through Nov 30, 2026 |
 
 ---
 
