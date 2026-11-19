@@ -244,6 +244,7 @@ Please follow the rules below:
 |🤑|[Yaptake](https://yaptake.com/#pricing)| Video editor for macOS that works like a document: cut the video by editing its transcript | **50% OFF** your first year with code **YAPTAKEBF26**: Monthly $4.99 instead of $9.99, Yearly $39.50 instead of $79, new subscribers only (Nov 18 – Dec 2)|
 |🤑|[Textmock](https://textmock.com/pricing)| iMessage-style conversation mockups on the web and macOS, saved as images or videos | **50% OFF** Textmock Pro for your first 12 months with code **TEXTMOCKBF26**, $2.50 a month instead of $5, new subscribers only (Nov 18 – Dec 2)|
 |💸|[Spacepal](https://getspacepal.com/black-friday/)| Mac menu bar app that names your desktops (Spaces), previews them all and switches without the slide | **20% OFF** Pro ($9.99 → $7.99, one-time); code **BLACKFRIDAY**, applied automatically; Nov 27 – Dec 1, 2026|
+|💸|[Craft](https://www.craft.do/pricing)| Notes, docs and tasks in one native app for Mac, iPhone and iPad, also on Windows, Android and the web | **40% OFF** yearly Plus and Family with code **BLACKFRIDAY26-A** ($8 → $4.80/month for Plus, US price, local prices vary), **20% OFF** monthly plans with code **BLACKFRIDAY26-M**. The discount stays on every renewal (Nov 16 – Dec 9)|
 
 ---
 
