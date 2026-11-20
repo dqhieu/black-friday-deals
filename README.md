@@ -263,7 +263,7 @@ Please follow the rules below:
 |💸|[WordPress.com](https://wordpress.com/black-friday-2026/)| Describe your idea and get a secure WordPress site built for it, with hosting and a domain name in one plan | **25% OFF** extra on new annual and multi-year plans, with code **BFWPCOM2026**, new plans only (Nov 27 – Dec 1)|
 |💸|[3DRoomDesign.ai](https://3droomdesign.ai/pricing)| AI home design web app for drawing floor plans, converting them to 3D and visualizing rooms. | **~33% OFF per credit** (50% bonus credits on non-expiring one-time packs, $9.90: 50 → 75 credits) + up to 300 bonus credits in the first month for new/returning subscribers without an active plan; same prices, no code needed, one redemption per category per account, both combinable (Nov 17 – Nov 27, ends 11:59 PM PT)|
 |💸|[Next.js Launch Skills](https://nandohusni.gumroad.com/l/nextjs-launch-skills)| Agent skills for Claude Code, Cursor and Codex that take a Next.js web project from build to launch | **40% OFF** with code **BF40** (Nov 19 – Dec 1)|
-|:money_mouth_face:|[BundleWP](https://bundlewp.com/complete-business-software-bundle/)| All 11 business software products in one lifetime bundle for WordPress, WooCommerce and Windows. | **87% OFF** the Complete Business Software Bundle ($1,029 → $129) with code **BUNDLE129** (until Dec 1, 2026).|
+|🤑|[BundleWP](https://bundlewp.com/complete-business-software-bundle/)| All 11 business software products in one lifetime bundle for WordPress, WooCommerce and Windows. | **87% OFF** the Complete Business Software Bundle ($1,029 → $129) with code **BUNDLE129** (until Dec 1, 2026).|
 
 ---
 
