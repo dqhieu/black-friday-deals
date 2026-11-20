@@ -254,6 +254,7 @@ Please follow the rules below:
 |💸|[HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz&utm_source=dqhieu&utm_medium=referral&utm_campaign=black_friday_2026)| HeySummit helps you reach new people and sell tickets by hosting a workshop or summit on the web. | **40% OFF** the first year of annual Starter, Growth or Success with code **V3UlY3Iz**. New customers only. Extra attendee capacity and renewals are charged at the standard rate (Nov 19 – Nov 30, 2026 GMT)|
 |💸|[HeyStream](https://heystream.com/pricing?coupon=BF2026)| Marketing teams run branded webinars on the web, capture audience signals and trigger smarter follow-up. | **40% OFF** your first year on an annual Launch, Growth or Scale plan with code **BF2026**. New customers must start a seven-day trial through the offer link. Plans renew at the regular annual price (live, Nov 19 – Nov 30, 2026 inclusive, GMT)|
 |💸|[Wavedance](https://wave.dance)| 20 generative live wallpapers for macOS, behind your icons, click-through, on every Space | **30% OFF** with code **BLACKFRIDAY30** (Nov 23 – Dec 1)|
+|💸|[Odie](https://apps.apple.com/app/id6804490803)| Automatic mileage log for iPhone with no account, your trips stay on the phone | **30% OFF** the first year of Pro with code **BLACKFRIDAY** (Nov 27 – Nov 30) · new subscribers, Canada and US, renews at the regular price|
 
 ---
 
