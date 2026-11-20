@@ -255,6 +255,7 @@ Please follow the rules below:
 |💸|[HeyStream](https://heystream.com/pricing?coupon=BF2026)| Marketing teams run branded webinars on the web, capture audience signals and trigger smarter follow-up. | **40% OFF** your first year on an annual Launch, Growth or Scale plan with code **BF2026**. New customers must start a seven-day trial through the offer link. Plans renew at the regular annual price (live, Nov 19 – Nov 30, 2026 inclusive, GMT)|
 |💸|[Wavedance](https://wave.dance)| 20 generative live wallpapers for macOS, behind your icons, click-through, on every Space | **30% OFF** with code **BLACKFRIDAY30** (Nov 23 – Dec 1)|
 |💸|[Odie](https://apps.apple.com/app/id6804490803)| Automatic mileage log for iPhone with no account, your trips stay on the phone | **30% OFF** the first year of Pro with code **BLACKFRIDAY** (Nov 27 – Nov 30) · new subscribers, Canada and US, renews at the regular price|
+|💸|[Treader](https://www.treader.ca/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm2026)| Web trip planner where friends vote on dates and plan together on one live map, with a built-in AI trip assistant. | **30% OFF** the first year of Pro annual: $34.99 CAD, then renews at $49.99 CAD a year, with code **BFRIDAY30** (Nov 20 – Dec 1)|
 
 ---
 
