@@ -253,6 +253,7 @@ Please follow the rules below:
 |💸|[ZeroRank](https://zerorank.ai)| AI visibility tracking across 39 model and search-mode options, with web app, API and MCP access. | **28% OFF** the first 3 monthly payments, or about **35% OFF** the first annual year vs standard annual pricing; standard pricing afterward; first paid subscriptions or eligible monthly-to-annual upgrades; no code needed (Nov 2–30, 2026)|
 |💸|[HeySummit](https://heysummit.com/pricing?coupon=V3UlY3Iz&utm_source=dqhieu&utm_medium=referral&utm_campaign=black_friday_2026)| HeySummit helps you reach new people and sell tickets by hosting a workshop or summit on the web. | **40% OFF** the first year of annual Starter, Growth or Success with code **V3UlY3Iz**. New customers only. Extra attendee capacity and renewals are charged at the standard rate (Nov 19 – Nov 30, 2026 GMT)|
 |💸|[HeyStream](https://heystream.com/pricing?coupon=BF2026)| Marketing teams run branded webinars on the web, capture audience signals and trigger smarter follow-up. | **40% OFF** your first year on an annual Launch, Growth or Scale plan with code **BF2026**. New customers must start a seven-day trial through the offer link. Plans renew at the regular annual price (live, Nov 19 – Nov 30, 2026 inclusive, GMT)|
+|💸|[Wavedance](https://wave.dance)| 20 generative live wallpapers for macOS, behind your icons, click-through, on every Space | **30% OFF** with code **BLACKFRIDAY30** (Nov 23 – Dec 1)|
 
 ---
 
