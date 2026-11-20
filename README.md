@@ -256,6 +256,7 @@ Please follow the rules below:
 |💸|[Wavedance](https://wave.dance)| 20 generative live wallpapers for macOS, behind your icons, click-through, on every Space | **30% OFF** with code **BLACKFRIDAY30** (Nov 23 – Dec 1)|
 |💸|[Odie](https://apps.apple.com/app/id6804490803)| Automatic mileage log for iPhone with no account, your trips stay on the phone | **30% OFF** the first year of Pro with code **BLACKFRIDAY** (Nov 27 – Nov 30) · new subscribers, Canada and US, renews at the regular price|
 |💸|[Treader](https://www.treader.ca/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm2026)| Web trip planner where friends vote on dates and plan together on one live map, with a built-in AI trip assistant. | **30% OFF** the first year of Pro annual: $34.99 CAD, then renews at $49.99 CAD a year, with code **BFRIDAY30** (Nov 20 – Dec 1)|
+|🤑|[Kipzy](https://kipzy.app/?ref=black-friday-deals)| Fast, private web browser for iPhone with a built-in ad and tracker blocker and offline video saving | **50% OFF** Pro Lifetime ($49.99 → $24.99), no code needed (Nov 13 – Nov 30)|
 
 ---
 
