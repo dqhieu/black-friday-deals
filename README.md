@@ -264,6 +264,7 @@ Please follow the rules below:
 |💸|[3DRoomDesign.ai](https://3droomdesign.ai/pricing)| AI home design web app for drawing floor plans, converting them to 3D and visualizing rooms. | **~33% OFF per credit** (50% bonus credits on non-expiring one-time packs, $9.90: 50 → 75 credits) + up to 300 bonus credits in the first month for new/returning subscribers without an active plan; same prices, no code needed, one redemption per category per account, both combinable (Nov 17 – Nov 27, ends 11:59 PM PT)|
 |💸|[Next.js Launch Skills](https://nandohusni.gumroad.com/l/nextjs-launch-skills)| Agent skills for Claude Code, Cursor and Codex that take a Next.js web project from build to launch | **40% OFF** with code **BF40** (Nov 19 – Dec 1)|
 |🤑|[BundleWP](https://bundlewp.com/complete-business-software-bundle/)| All 11 business software products in one lifetime bundle for WordPress, WooCommerce and Windows. | **87% OFF** the Complete Business Software Bundle ($1,029 → $129) with code **BUNDLE129** (until Dec 1, 2026).|
+|💸|[APIKO](https://apiko.app/)| Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models. | **10% extra API credits** on every paid top-up: pay $100, get $110 in API credits. Automatically applied, no code. Ends Nov 27 at 11:59 p.m. Pacific Time.|
 
 ---
 
