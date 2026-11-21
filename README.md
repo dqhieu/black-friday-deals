@@ -265,6 +265,7 @@ Please follow the rules below:
 |🤑|[Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday)| Options strategy visualizer, scanners and trade journal for retail options traders on the web. | **50% OFF** every plan: first year on annual, first 3 months on monthly, no code needed (Nov 23 – Nov 30)|
 |💸|[Oil Studio](https://studio.oiloil.org/en/)| Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript editing, and a built-in CLI + Agent Skill for Claude Code / Codex | **20% OFF** one-time license for 2 Macs ($31.20 on top of the $39 launch price, regular $49) with code **BFCM2026** (Nov 20 – Dec 2, 2026)|
 |💸|[Oil UI Pro](https://ui.oiloil.org/en/pro/)| Full UI/UX design workflow skill for Claude Code, Codex, Cursor & AI coding agents with 3-direction HTML comparison, DESIGN.md governance, and real-browser screenshot review | **20% OFF** one-time purchase with lifetime updates + 100 bonus image credits ($14.99 → $11.99) with code **BFCM2026** (Nov 20 – Dec 2, 2026)|
+|💸|[post2all](https://www.post2all.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm2026)| Manage your socials with AI agents: a web social media scheduler for 15 networks, with an API, CLI and MCP | **25% OFF** the first year of any annual plan with code **BFCM25** (Nov 18 – Dec 7)|
 
 ---
 
