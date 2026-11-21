@@ -280,6 +280,7 @@ Please follow the rules below:
 |🤑|[Krumzi](https://www.krumzi.com/pricing)| Web app that designs editable flyers, social posts, carousels and video from a one-line description | **60% OFF** first year of yearly plans: Starter $76, Pro $156, Studio $356 (was $190 / $390 / $890), no code needed, new customers and monthly users switching (Nov 20 – Dec 1)|
 |💸|[FastScribe](https://fastscribe.org/pricing)| Web app for audio/video and social-link transcription, subtitles and AI summaries. | **25.83% OFF** Pro first year ($120 → $89), then $120/year; 6,500 bonus credits valid 365 days; accounts without an active subscription only; no code needed (Nov 17–30, 2026; ends 11:59 PM Pacific)|
 
+|💸|[Placify](https://apps.apple.com/us/app/placify-map-trip-planner/id6739698007)| A personal map and trip planner for iPhone and iPad: save places from any link, tag them your way, and turn them into day-by-day trips. | **40% OFF** Pro Lifetime, $49.99 → $29.99, no code needed, lifetime plan only (until Dec 1)|
 ---
 
 # Special Request 
