@@ -263,6 +263,8 @@ Please follow the rules below:
 |🤑|[BundleWP](https://bundlewp.com/complete-business-software-bundle/)| All 11 business software products in one lifetime bundle for WordPress, WooCommerce and Windows. | **87% OFF** the Complete Business Software Bundle ($1,029 → $129) with code **BUNDLE129** (until Dec 1, 2026).|
 |🤑|[Bolsillo de Dos](https://apps.apple.com/app/apple-store/id6832746412?pt=129771379&ct=bf26-gh-dqhieu&mt=8)| iPhone app to split household expenses with your partner, family or roommates | **100% OFF Lifetime Pro** for new accounts, claim it in the app, no code needed (Nov 23 – Dec 1)|
 |🤑|[Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday)| Options strategy visualizer, scanners and trade journal for retail options traders on the web. | **50% OFF** every plan: first year on annual, first 3 months on monthly, no code needed (Nov 23 – Nov 30)|
+|💸|[Oil Studio](https://studio.oiloil.org/en/)| Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript editing, and a built-in CLI + Agent Skill for Claude Code / Codex | **20% OFF** one-time license for 2 Macs ($31.20 on top of the $39 launch price, regular $49) with code **BFCM2026** (Nov 20 – Dec 2, 2026)|
+|💸|[Oil UI Pro](https://ui.oiloil.org/en/pro/)| Full UI/UX design workflow skill for Claude Code, Codex, Cursor & AI coding agents with 3-direction HTML comparison, DESIGN.md governance, and real-browser screenshot review | **20% OFF** one-time purchase with lifetime updates + 100 bonus image credits ($14.99 → $11.99) with code **BFCM2026** (Nov 20 – Dec 2, 2026)|
 
 ---
 
