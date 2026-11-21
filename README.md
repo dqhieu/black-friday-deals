@@ -267,6 +267,8 @@ Please follow the rules below:
 |💸|[Oil UI Pro](https://ui.oiloil.org/en/pro/)| Full UI/UX design workflow skill for Claude Code, Codex, Cursor & AI coding agents with 3-direction HTML comparison, DESIGN.md governance, and real-browser screenshot review | **20% OFF** one-time purchase with lifetime updates + 100 bonus image credits ($14.99 → $11.99) with code **BFCM2026** (Nov 20 – Dec 2, 2026)|
 |💸|[post2all](https://www.post2all.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bfcm2026)| Manage your socials with AI agents: a web social media scheduler for 15 networks, with an API, CLI and MCP | **25% OFF** the first year of any annual plan with code **BFCM25** (Nov 18 – Dec 7)|
 |🤑|[Sabi](https://meetsabi.com/pages/blackfriday?utm_source=github&utm_medium=deal-list&utm_campaign=blackfriday2026&utm_content=dqhieu)| AI employee you text like a person: email, calendar, lead follow-up and social posts. SMS, web and iOS | **50% OFF** 6 months of Sabi Pro ($995 → $495), no code needed (Nov 20 – Nov 30)|
+|🤑|[SecretShot](https://secretshot.zorrinapps.com/#black-friday)| A PIN-protected vault for private photos and videos on iPhone, disguised as a calculator, currency converter, or puzzle. | **50% OFF** Pro Lifetime launch offer ($29.99 → $14.99 USD) with code **BFCM26**; U.S. App Store pricing, local prices and availability may vary (through Dec 1, 2026 PT)|
+|🤑|[Deletti](https://deletti.app/#black-friday)| Free up iPhone space by starting with your biggest videos and photos, then swiping to keep or trash them. | **50% OFF** Single Lifetime launch offer ($17.99 → $8.99 USD) with code **BFCM26**; U.S. App Store pricing, local prices and availability may vary (through Dec 1, 2026 PT)|
 
 ---
 
