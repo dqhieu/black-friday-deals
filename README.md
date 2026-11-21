@@ -269,6 +269,7 @@ Please follow the rules below:
 |🤑|[Sabi](https://meetsabi.com/pages/blackfriday?utm_source=github&utm_medium=deal-list&utm_campaign=blackfriday2026&utm_content=dqhieu)| AI employee you text like a person: email, calendar, lead follow-up and social posts. SMS, web and iOS | **50% OFF** 6 months of Sabi Pro ($995 → $495), no code needed (Nov 20 – Nov 30)|
 |🤑|[SecretShot](https://secretshot.zorrinapps.com/#black-friday)| A PIN-protected vault for private photos and videos on iPhone, disguised as a calculator, currency converter, or puzzle. | **50% OFF** Pro Lifetime launch offer ($29.99 → $14.99 USD) with code **BFCM26**; U.S. App Store pricing, local prices and availability may vary (through Dec 1, 2026 PT)|
 |🤑|[Deletti](https://deletti.app/#black-friday)| Free up iPhone space by starting with your biggest videos and photos, then swiping to keep or trash them. | **50% OFF** Single Lifetime launch offer ($17.99 → $8.99 USD) with code **BFCM26**; U.S. App Store pricing, local prices and availability may vary (through Dec 1, 2026 PT)|
+|💸|[TranslateManga](https://translatemanga.net/?pricing_mode=annual#pricing)| Read raw manga, manhwa and webtoons in your language, with AI translation inside the original speech bubbles (web + Chrome extension) | **40% OFF**, plans from $6/mo, no code needed. Standard and Pro, billed yearly, first year (Nov 20 – Dec 1)|
 
 ---
 
