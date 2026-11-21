@@ -272,6 +272,7 @@ Please follow the rules below:
 |💸|[TranslateManga](https://translatemanga.net/?pricing_mode=annual#pricing)| Read raw manga, manhwa and webtoons in your language, with AI translation inside the original speech bubbles (web + Chrome extension) | **40% OFF**, plans from $6/mo, no code needed. Standard and Pro, billed yearly, first year (Nov 20 – Dec 1)|
 |🤑|[Devkito](https://devkito.com/pricing?ref=dqhieu)| 122 offline developer tools in one desktop app for macOS, Windows and Linux: JSON, JWT, regex, Base64, hashes and more. | **50% OFF** every one-time licence ($10 → $5) with code **BF2026** (Nov 20 – Dec 2)|
 |🤑|[BibiGPT](https://bibigpt.co/en/shop?ref=BLACKFRIDAY&utm_source=black-friday-deals&utm_medium=github&utm_campaign=bf2026)| AI summaries, transcripts and Q&A for YouTube videos, podcasts and articles, on the web and as a browser extension. | **50% OFF** Plus and Pro, first payment, with code **BLACKFRIDAY** (applied automatically from this link) · Plus yearly ~~$142.56~~ $71.28 (Nov 12 – Dec 1)|
+|🤑|[Effect Video](https://effect.video/black-friday)| AI video maker on the web: turn photos into short cinematic video effects with 29+ ready-made templates | **+50% bonus credits** on every credit pack and annual plan at the same prices, no code needed, auto-applied at purchase, bonus credits never expire (Nov 24 – Dec 1)|
 
 ---
 
