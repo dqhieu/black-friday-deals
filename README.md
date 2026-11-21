@@ -262,6 +262,7 @@ Please follow the rules below:
 |💸|[Next.js Launch Skills](https://nandohusni.gumroad.com/l/nextjs-launch-skills)| Agent skills for Claude Code, Cursor and Codex that take a Next.js web project from build to launch | **40% OFF** with code **BF40** (Nov 19 – Dec 1)|
 |🤑|[BundleWP](https://bundlewp.com/complete-business-software-bundle/)| All 11 business software products in one lifetime bundle for WordPress, WooCommerce and Windows. | **87% OFF** the Complete Business Software Bundle ($1,029 → $129) with code **BUNDLE129** (until Dec 1, 2026).|
 |🤑|[Bolsillo de Dos](https://apps.apple.com/app/apple-store/id6832746412?pt=129771379&ct=bf26-gh-dqhieu&mt=8)| iPhone app to split household expenses with your partner, family or roommates | **100% OFF Lifetime Pro** for new accounts, claim it in the app, no code needed (Nov 23 – Dec 1)|
+|🤑|[Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday)| Options strategy visualizer, scanners and trade journal for retail options traders on the web. | **50% OFF** every plan: first year on annual, first 3 months on monthly, no code needed (Nov 23 – Nov 30)|
 
 ---
 
