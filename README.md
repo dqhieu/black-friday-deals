@@ -278,6 +278,7 @@ Please follow the rules below:
 |🤑|[DramaSo](https://drama.so/en/pricing?promo=DRAMABF2026&billing=yearly&utm_source=black-friday-deals&utm_medium=github&utm_campaign=bf2026)| AI short drama generator on the web: beat sheet, dialogue audio preview, then 9:16 vertical video. | **50% OFF** the first year of Pro yearly with code **DRAMABF2026** (applied automatically from this link) · ~~$280.80~~ $140.40 (Nov 13 – Dec 1)|
 |💸|[APIKO](https://apiko.app/)| Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models. | **10% extra API credits** on every paid top-up: pay $100, get $110 in API credits. Automatically applied, no code. Ends Nov 27 at 11:59 p.m. Pacific Time.|
 |🤑|[Krumzi](https://www.krumzi.com/pricing)| Web app that designs editable flyers, social posts, carousels and video from a one-line description | **60% OFF** first year of yearly plans: Starter $76, Pro $156, Studio $356 (was $190 / $390 / $890), no code needed, new customers and monthly users switching (Nov 20 – Dec 1)|
+|💸|[FastScribe](https://fastscribe.org/pricing)| Web app for audio/video and social-link transcription, subtitles and AI summaries. | **25.83% OFF** Pro first year ($120 → $89), then $120/year; 6,500 bonus credits valid 365 days; accounts without an active subscription only; no code needed (Nov 17–30, 2026; ends 11:59 PM Pacific)|
 
 ---
 
