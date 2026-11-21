@@ -276,6 +276,7 @@ Please follow the rules below:
 |💸|[PermWatch](https://permwatch.com/alerts/)| Green card tracker on the web: PERM decision estimates, live PERM status from FLAG and Visa Bulletin alerts | **10% OFF** the first year of Pro yearly ($49 → $44.10), Until green card $79 → $71.10, no code needed (Nov 20 – Dec 1)|
 |💸|[Read My Dream](https://readmydream.com/plus)| Dream journal with AI readings on the web, in five languages | **10% OFF** the first year or first month of Plus ($39.99 → $35.99 a year, $6.99 → $6.29 a month), no code needed (Nov 20 – Dec 1)|
 |🤑|[DramaSo](https://drama.so/en/pricing?promo=DRAMABF2026&billing=yearly&utm_source=black-friday-deals&utm_medium=github&utm_campaign=bf2026)| AI short drama generator on the web: beat sheet, dialogue audio preview, then 9:16 vertical video. | **50% OFF** the first year of Pro yearly with code **DRAMABF2026** (applied automatically from this link) · ~~$280.80~~ $140.40 (Nov 13 – Dec 1)|
+|💸|[APIKO](https://apiko.app/)| Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models. | **10% extra API credits** on every paid top-up: pay $100, get $110 in API credits. Automatically applied, no code. Ends Nov 27 at 11:59 p.m. Pacific Time.|
 
 ---
 
