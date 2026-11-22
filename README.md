@@ -371,6 +371,7 @@ Please follow the rules below:
 |🤑|[Seedance AI Video Generator](https://www.seeddance.io/pricing)| AI video and image generator on the web with Seedance 2.5, Kling, Veo, Hailuo, Seedream and GPT Image in one workspace. | **50% OFF** Pro with annual billing ($29/mo → $14.5/mo billed yearly, $174/yr), auto-applied when you choose Yearly, no code needed. Renews at the same yearly price|
 |💸|[ConceptViz](https://conceptviz.app/pricing)| AI scientific figures and diagrams for researchers (web): turn text or papers into editable, publication-ready figures. | **$299 lifetime deal**, one-time payment, no monthly fee. Includes 1,500 permanent credits (about $499 at credit-pack pricing), Ultra features for life, 50% off Studio credit packs, commercial use. No code needed (ends Dec 1, 11:59 PM PT)|
 |💸|[CursorClip](https://cursorclip.com/pricing/?ref=bf-dqhieu)| Mac screen recorder for tutorials and product demos that zooms in where you click while you record (macOS) | **$49 Lifetime**, one-time payment, no subscription, no code needed (until Nov 30)|
+|💸|[TailThemes](https://tailthemes.com/?utm_source=dqhieu-black-friday&utm_medium=listing&utm_campaign=black-friday-2026#all-access)| 26 Tailwind CSS site themes for the web, each in a Next.js edition and a plain HTML edition, light and dark. | **39% OFF** all-access: every theme for $79 instead of $129, one payment, no code needed (Nov 21 to Dec 1, 2026)|
 
 ---
 
