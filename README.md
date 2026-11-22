@@ -323,6 +323,7 @@ Please follow the rules below:
 |💸|[Mast](https://mastrules.com/en/founders?utm_source=github-dqhieu&utm_medium=launch&utm_campaign=bf2026)| Rule locks for traders (web, MT5, futures, crypto): set your loss limits while calm, and loosening them waits 24 hours | **Founders 300**: 2 years of Core for **$249 / €239** once (Core yearly lists at $239 / €219 a year), then $99 / €99 a year · or **30% OFF** the first 3 months of Core monthly, no code needed (Nov 27 – Nov 30, Paris time). Pre-launch: Founders is refundable until launch and runs to Dec 31 or 300 seats; monthly billing starts on opening day. Not combinable|
 |🤑|[TanStarter](https://tanstarter.dev/#pricing)| Full-stack SaaS starter built on TanStack Start and Cloudflare Workers. | **50% OFF** lifetime (US$199 → US$99) with code **2026-BLACKFRIDAY**, applied automatically (Nov 21 – Nov 30)|
 |🤑|[OpenFree](https://openfree.tools/advertise)| Book banner, listing-grid, or detail-page ads on a web directory for AI tools. | **50% OFF** daily ad reservations (US$10/day → US$5/day); no code needed, subject to availability (reserve Nov 21–30, 2026, UTC+8)|
+|🤑|[Doubles](https://doubles.dev/pricing)| Remote pair programming app for Mac: share your screen sharp enough to read code and let your pair drive. | **50% OFF** with code **DOUBLES50**, pay once $169 → $84.50 (Nov 20 – Dec 1)|
 
 ---
 
