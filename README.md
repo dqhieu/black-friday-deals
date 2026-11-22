@@ -368,6 +368,7 @@ Please follow the rules below:
 |💸|[Toplify](https://toplify.app/)| Track App Store chart positions for iOS and Mac apps in 175 countries. | **About 45% OFF** Pro Lifetime: $89.99 → $49.99 with code **BLKFR2026** (Nov 15 – Dec 1, 2026)|
 |💸|[DeskMinder](https://deskminder.appps.od.ua/)| Set quick desktop reminders, timers and tasks on macOS. | **Over 40% OFF** Pro Lifetime: $6.99 → $3.99 with code **BLKFR2026** (Nov 15 – Dec 1, 2026)|
 |💸|[Waitlyze](https://waitlyze.com/pricing)| Waitlist software for founders and creators: branded pages, referral rewards, launch emails and signup analytics. | **40% OFF** Pro Annual for year one ($119 → $71.40) with code **BFCM2026**; renews at $119/year (Nov 22 – Dec 3, 2026)|
+|🤑|[Seedance AI Video Generator](https://www.seeddance.io/pricing)| AI video and image generator on the web with Seedance 2.5, Kling, Veo, Hailuo, Seedream and GPT Image in one workspace. | **50% OFF** Pro with annual billing ($29/mo → $14.5/mo billed yearly, $174/yr), auto-applied when you choose Yearly, no code needed. Renews at the same yearly price|
 
 ---
 
