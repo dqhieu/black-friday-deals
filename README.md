@@ -336,6 +336,9 @@ Please follow the rules below:
 |🤑|[WHMSPro](https://whmspro.com/)| QR-powered warehouse management on the web for inventory, orders, storage and fulfillment, no special hardware | **1 month FREE** for up to 5 users with code **BLACKFRIDAY26** (Nov 21 – Dec 1)|
 |🤑|[LiquidationRoute](https://liquidationroute.com/)| Web warehouse software for liquidation auction operators: manifests, grading, auction lots and buyer pickups | **1 month FREE** for up to 5 users with code **BLACKFRIDAY26** (Nov 21 – Dec 1)|
 |🤑|[EquipRoute](https://equiproute.com/)| Web consignment software for used equipment dealers: collect, QR-tag, list and deliver, with a free driver app | **1 month FREE** for up to 5 users with code **BLACKFRIDAY26** (Nov 21 – Dec 1)|
+|🤑|[ByteSweep](https://bytesweep.app/)| Disk cleaner for macOS, Windows and Linux that shows what fills your disk and lets you undo every clean for 7 days | **50% OFF** one-time purchase ($29.99 → $15), no code needed (Nov 17 – Dec 31)|
+|🤑|[Earmix](https://earmix.app/)| Volume mixer for the macOS menu bar with per-app and per-tab volume, an output per app and EQ | **50% OFF** one-time purchase ($12.99 → $6.50) with code **BLACKFRIDAY50** (until Dec 1)|
+|🤑|[Findow](https://findowmac.com/)| Scrolling window manager for macOS with tiling, a window switcher and saved workspaces | **75% OFF** one-time purchase ($19.99 → $5), no code needed (until Dec 1)|
 
 ---
 
