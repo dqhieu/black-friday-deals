@@ -356,6 +356,7 @@ Please follow the rules below:
 |🤑|[SaaScaffold](https://saascaffold.com/pricing)| Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 coding-agent runbooks, 4 payment and 4 AI providers. | **50% OFF** one-time license ($99 → $49), no code needed (Nov 21 – Dec 6, 2026 PST)|
 |💸|[SerpWrap](https://serpwrap.com)| SERP API returning structured JSON from live search results; pay-once credit packs, no subscription | 40% OFF every credit pack with code **BLACKF40** (until Nov 30, 2026)|
 |🤑|[Pitchlist](https://pitchlist.serpwrap.com)| Local business leads by city and business type as CSV, XLSX or JSON, with Claude Code integration support; pay once | 60% OFF every lead pack with code **BLACKFRIDAY60** (until Nov 30, 2026)|
+|🤑|[WPOS](https://wpos.ai/black-friday/?utm_source=dqhieu&utm_medium=deals&utm_campaign=bf2026)| AI agent inside wp-admin that builds and edits your WordPress sites on any host, in Gutenberg, Elementor or Divi | **50% OFF** site licences for the first 2 months with code **FRIDAY50** ($25 → $12.50/site/month) + 15,000 free credits for new accounts, no card · new paying customers, one per customer (Nov 11 – Nov 30, 23:59 PT)|
 
 ---
 
