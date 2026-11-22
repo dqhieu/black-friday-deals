@@ -330,6 +330,12 @@ Please follow the rules below:
 |🤑|[BatchMark](https://batchmark.dispatchcat.com/holiday-sale/)| Batch watermark up to 100 photos at once, art frames, Color Walk cards and Photo Stories for iPhone and iPad, on-device | **50% OFF** Lifetime $39.99 (was $79.99), no code needed, auto-applied (Nov 15 – Dec 25). Annual first year $19.99 (then $39.99/yr) (Nov 20 – Jan 1)|
 |🤑|[Erla](https://erla.app/black-friday)| Language-learning app for iPhone and iPad: listen to and read short stories, watch short videos, then talk with an AI teacher. 22 languages, one app each. | **70% OFF** the first year of Erla PRO ($59.99 → $18) after a 7-day free trial, with code **BLACKFRIDAY**, new subscribers only, redeem via erla.app/black-friday (Nov 12 – Nov 30)|
 |🤑|[Timemator](https://timemator.com)| Automatic time tracking for macOS that records work from your project files, apps and websites and creates timesheets | **50% OFF** the lifetime licence with code **TM-BLACKFRIDAY26**, also auto-applied on timemator.com: $39 → $19.50, one-time purchase, direct purchase only (Nov 21 – Dec 5)|
+|💸|[BankStatementsCSV](https://bankstatementscsv.com/)| Convert PDF bank statements to clean CSV with AI extraction on the web, free preview before you pay | **10% OFF** your first 10 conversions with code **BLACKFRIDAY26** (Nov 21 – Dec 1)|
+|💸|[CardStatementCSV](https://cardstatementcsv.com/)| Convert PDF credit card statements to clean CSV with AI extraction on the web, free preview before you pay | **10% OFF** your first 10 conversions with code **BLACKFRIDAY26** (Nov 21 – Dec 1)|
+|🤑|[DataStandardize](https://datastandardize.com/)| AI-powered data cleaning, column mapping and normalization for messy CSV files, on the web | **1 month FREE** with code **BlackFriday26** (Nov 21 – Dec 1)|
+|🤑|[WHMSPro](https://whmspro.com/)| QR-powered warehouse management on the web for inventory, orders, storage and fulfillment, no special hardware | **1 month FREE** for up to 5 users with code **BLACKFRIDAY26** (Nov 21 – Dec 1)|
+|🤑|[LiquidationRoute](https://liquidationroute.com/)| Web warehouse software for liquidation auction operators: manifests, grading, auction lots and buyer pickups | **1 month FREE** for up to 5 users with code **BLACKFRIDAY26** (Nov 21 – Dec 1)|
+|🤑|[EquipRoute](https://equiproute.com/)| Web consignment software for used equipment dealers: collect, QR-tag, list and deliver, with a free driver app | **1 month FREE** for up to 5 users with code **BLACKFRIDAY26** (Nov 21 – Dec 1)|
 
 ---
 
