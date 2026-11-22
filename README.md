@@ -372,6 +372,8 @@ Please follow the rules below:
 |💸|[ConceptViz](https://conceptviz.app/pricing)| AI scientific figures and diagrams for researchers (web): turn text or papers into editable, publication-ready figures. | **$299 lifetime deal**, one-time payment, no monthly fee. Includes 1,500 permanent credits (about $499 at credit-pack pricing), Ultra features for life, 50% off Studio credit packs, commercial use. No code needed (ends Dec 1, 11:59 PM PT)|
 |💸|[CursorClip](https://cursorclip.com/pricing/?ref=bf-dqhieu)| Mac screen recorder for tutorials and product demos that zooms in where you click while you record (macOS) | **$49 Lifetime**, one-time payment, no subscription, no code needed (until Nov 30)|
 |💸|[TailThemes](https://tailthemes.com/?utm_source=dqhieu-black-friday&utm_medium=listing&utm_campaign=black-friday-2026#all-access)| 26 Tailwind CSS site themes for the web, each in a Next.js edition and a plain HTML edition, light and dark. | **39% OFF** all-access: every theme for $79 instead of $129, one payment, no code needed (Nov 21 to Dec 1, 2026)|
+|🤑|[AY Grants](https://grants.ayskilllab.com/#pricing)| Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts (web) | **50% OFF** the first month of the monthly plan ($9 → $4.50), no code needed, then renews at the normal price (Nov 22 – Nov 30, ends 11:59 PM US Pacific)|
+|🤑|[AY Tenders](https://tenders.ayskilllab.com/#pricing)| Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with alerts (web) | **50% OFF** the first month of monthly plans (Tenders $19 → $9.50, Tenders + Grants $24 → $12), no code needed, then renews at the normal price (Nov 22 – Nov 30, ends 11:59 PM US Pacific)|
 
 ---
 
