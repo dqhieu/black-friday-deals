@@ -357,6 +357,7 @@ Please follow the rules below:
 |💸|[SerpWrap](https://serpwrap.com)| SERP API returning structured JSON from live search results; pay-once credit packs, no subscription | 40% OFF every credit pack with code **BLACKF40** (until Nov 30, 2026)|
 |🤑|[Pitchlist](https://pitchlist.serpwrap.com)| Local business leads by city and business type as CSV, XLSX or JSON, with Claude Code integration support; pay once | 60% OFF every lead pack with code **BLACKFRIDAY60** (until Nov 30, 2026)|
 |🤑|[WPOS](https://wpos.ai/black-friday/?utm_source=dqhieu&utm_medium=deals&utm_campaign=bf2026)| AI agent inside wp-admin that builds and edits your WordPress sites on any host, in Gutenberg, Elementor or Divi | **50% OFF** site licences for the first 2 months with code **FRIDAY50** ($25 → $12.50/site/month) + 15,000 free credits for new accounts, no card · new paying customers, one per customer (Nov 11 – Nov 30, 23:59 PT)|
+|💸|[Yoohoo](https://yoohoo.buzz/?ref=bf-dqhieu)| Gathers alerts from the apps and services you use, for iPhone, Android and web | **40% OFF** the first year of Plus yearly ($14.99 → $8.99), no code needed, new subscribers only (Nov 27 – Dec 1, web until Nov 30)|
 
 ---
 
