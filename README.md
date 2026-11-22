@@ -375,6 +375,7 @@ Please follow the rules below:
 |💸|[TailThemes](https://tailthemes.com/?utm_source=dqhieu-black-friday&utm_medium=listing&utm_campaign=black-friday-2026#all-access)| 26 Tailwind CSS site themes for the web, each in a Next.js edition and a plain HTML edition, light and dark. | **39% OFF** all-access: every theme for $79 instead of $129, one payment, no code needed (Nov 21 to Dec 1, 2026)|
 |🤑|[AY Grants](https://grants.ayskilllab.com/#pricing)| Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts (web) | **50% OFF** the first month of the monthly plan ($9 → $4.50), no code needed, then renews at the normal price (Nov 22 – Nov 30, ends 11:59 PM US Pacific)|
 |🤑|[AY Tenders](https://tenders.ayskilllab.com/#pricing)| Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with alerts (web) | **50% OFF** the first month of monthly plans (Tenders $19 → $9.50, Tenders + Grants $24 → $12), no code needed, then renews at the normal price (Nov 22 – Nov 30, ends 11:59 PM US Pacific)|
+|💸|[Helix](https://tryhelix.app/?utm_source=github&utm_campaign=dqhieu-bf)| Radial menu for Mac: hold Option + Space and your tools pop up in a circle. | **30% OFF** one-time for 2 Macs ($9 → $6.30) with code **BLACKFRIDAY30** (Nov 20 – Dec 1, 2026)|
 
 ---
 
