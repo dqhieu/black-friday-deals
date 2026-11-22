@@ -363,6 +363,7 @@ Please follow the rules below:
 |🤑|[AppGrid](https://appgridmac.com/pricing/)| Launchpad replacement for macOS: free app grid with pages and folders. Pro adds multi-select, sorting across pages and saved layouts. | **50% OFF** lifetime Direct Pro for up to 5 Macs ($25 → $12.50 before tax), code **BF2026**, auto-applied from the pricing page (Nov 20 – Nov 30, code expires Dec 1 12:00 UTC)|
 |🤑|[Stashkin](https://stashkin.com/pricing?ref=dqhieu)| Chrome extension that exports ChatGPT chats to editable Word (.docx), PDF, Markdown, PNG and JSON with tables and equations intact | **50% OFF** first year of Pro Annual ($46.56 → $23.28, annual only) with code **BF2026** (Nov 22 – Dec 1, 2026)|
 |🤑|[Oasis: Sleep & Nature Sounds](https://apps.apple.com/app/apple-store/id6759493932?pt=124024007&ct=bf_lists&mt=8)| Nature sound mixer for iPhone with 120 field recordings from 43 countries, binaural beats and a sleep timer | **100% OFF** Lifetime (Oasis Infinite, $24.99 → $0 US pricing), claim it in the app, no code needed (Nov 19 – Dec 1)|
+|🤑|[Right Suite](https://rightsuite.co/?ref=black-friday-deals)| Test your price, landing page, cold email or ad on 100+ AI-simulated buyers before real ones see it. | First month of Starter free with code **BLACKFRIDAY** (then $4.99/mo), first 100 founders, until Dec 31, 2026|
 
 ---
 
