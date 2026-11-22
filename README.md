@@ -325,6 +325,7 @@ Please follow the rules below:
 |🤑|[OpenFree](https://openfree.tools/advertise)| Book banner, listing-grid, or detail-page ads on a web directory for AI tools. | **50% OFF** daily ad reservations (US$10/day → US$5/day); no code needed, subject to availability (reserve Nov 21–30, 2026, UTC+8)|
 |🤑|[Doubles](https://doubles.dev/pricing)| Remote pair programming app for Mac: share your screen sharp enough to read code and let your pair drive. | **50% OFF** with code **DOUBLES50**, pay once $169 → $84.50 (Nov 20 – Dec 1)|
 |🤑|[MkSaaS](https://mksaas.com/#pricing)| Next.js starter for building SaaS web apps with authentication, payments and AI examples. | **50% OFF** Lifetime: $99 instead of $199, no code needed (through Nov 30, 2026)|
+| 💸 | [ChartScout](https://chartscout.io/black-friday) | Chart-pattern detection and alerts for crypto traders. | **40% OFF Pro monthly for the next 3 paid months** — $23.40 USD/month, then $39 USD/month. Discount automatically applied through the offer page; code `BLACKFRIDAY2026` if needed. Ends Nov 30, 2026 at 11:59 p.m. CET. |
 
 ---
 
