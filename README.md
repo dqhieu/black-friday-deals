@@ -342,6 +342,8 @@ Please follow the rules below:
 |💸|[SpriteCanvas](https://spritecanvas.com/pricing/)| AI sprite sheet generator for 2D games on the web: animate a character and export PNG sheets with JSON atlases. | **30% OFF** the first month of Starter or Pro monthly (Starter $12 → $8.40, Pro $29 → $20.30), then regular price, no code needed, first subscription only (Nov 21 – Dec 1)|
 |💸|[Roost](https://roostmail.app/black-friday)| Native Mac mail app for many inboxes: several Gmails, Outlook, iCloud, Zoho, Yandex and any IMAP in one window. Mail stays on your Mac. | **14% OFF** Lifetime, $29 → $25 once, no code needed · 3 Macs, every future update (Nov 27 – Dec 1)|
 |🤑|[Motionflare](https://motionflare.ai/pricing)| Paste your URL and get an on-brand marketing video built from your real screenshots, logo, colors and copy. Web app. | **50% OFF** the first month of Pro or Max ($29 → $14.50, $99 → $49.50), no code needed, new subscribers (Nov 21 – Dec 1)|
+|🤑|[CVder](https://cvder.app/pricing)| AI job application tool on the web: paste a job posting and it tailors your CV to it and writes the cover letter. | **50% OFF** your first payment on any Pro plan with code **BF2026**: monthly €14 → €7, annual €84 → €42 (Nov 27 – Dec 1)|
+|🤑|[Wispim: Voice Teleprompter](https://wispim.com/black-friday)| Teleprompter for iPhone, iPad and Mac that scrolls your script as you speak. | **50% OFF** Lifetime Pro, a one-time purchase: $199.99 → $99.99, no code needed (Nov 27 – Nov 30)|
 
 ---
 
