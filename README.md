@@ -345,6 +345,7 @@ Please follow the rules below:
 |🤑|[CVder](https://cvder.app/pricing)| AI job application tool on the web: paste a job posting and it tailors your CV to it and writes the cover letter. | **50% OFF** your first payment on any Pro plan with code **BF2026**: monthly €14 → €7, annual €84 → €42 (Nov 27 – Dec 1)|
 |🤑|[Wispim: Voice Teleprompter](https://wispim.com/black-friday)| Teleprompter for iPhone, iPad and Mac that scrolls your script as you speak. | **50% OFF** Lifetime Pro, a one-time purchase: $199.99 → $99.99, no code needed (Nov 27 – Nov 30)|
 |💸|[Timeless](https://timeless-app.github.io/#pricing)| Stage timer for Windows: a big countdown on the TV or projector, run-of-show schedules and a phone remote | 30% OFF the one-time license with code **BLACKFRIDAY26** (Individual $29 → $20.30, Team $79 → $55.30), Nov 19 – Nov 30, 2026|
+|💸|[Directory Ideas](https://directoryideas.ai/?ref=black-friday-deals)| Web app that finds directory website ideas people actually search for, with real Google search numbers and a launch plan. | **33% OFF** lifetime ($89 → $59), no code needed (Nov 21 – Nov 30)|
 
 ---
 
