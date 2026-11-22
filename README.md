@@ -360,6 +360,7 @@ Please follow the rules below:
 |💸|[Yoohoo](https://yoohoo.buzz/?ref=bf-dqhieu)| Gathers alerts from the apps and services you use, for iPhone, Android and web | **40% OFF** the first year of Plus yearly ($14.99 → $8.99), no code needed, new subscribers only (Nov 27 – Dec 1, web until Nov 30)|
 |💸|[ScribeToAny](https://scribetoany.com/pricing)| Turn audio and video files and links into transcripts, SRT/VTT subtitles and AI summaries in about 98 languages, on the web | **30% OFF** the first month of monthly plans with code **FIRST_30_OFF**, or **$20 OFF** the first year of yearly plans with code **FIRST_20_OFF**, plus up to 1,000 bonus minutes on the first subscription (Nov 17 – Nov 30)|
 |💸|[MakeMidas](https://makemidas.com/pricing)| AI image, video and music generator on the web with GPT Image, Nano Banana, Veo, Kling and Suno | **Up to 25% more credits** on every one-time credit pack (125 credits per $1, $10 → 1,250 credits instead of 1,000), no code needed, no subscription (Nov 20 – Dec 1)|
+|🤑|[AppGrid](https://appgridmac.com/pricing/)| Launchpad replacement for macOS: free app grid with pages and folders. Pro adds multi-select, sorting across pages and saved layouts. | **50% OFF** lifetime Direct Pro for up to 5 Macs ($25 → $12.50 before tax), code **BF2026**, auto-applied from the pricing page (Nov 20 – Nov 30, code expires Dec 1 12:00 UTC)|
 
 ---
 
