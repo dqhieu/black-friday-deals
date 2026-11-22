@@ -380,6 +380,7 @@ Please follow the rules below:
 |💸|[Paperkeep](https://paperkeep.be/pro.html)| Free browser extension for Chrome, Edge and Firefox that downloads and renames your SaaS invoices for your accountant | **30% OFF** first year of Pro (€39 → €27.30) with code **PAPERKEEP30**, new subscribers (Nov 24 – Dec 1)|
 |💸|[Clipboard AI](https://clipboardai.app/black-friday)| Remember everything you copy on your iPhone and Mac, forever: clipboard history for iPhone, iPad and Mac | **30% OFF** Lifetime Pro, pay once ($34.99 → $24.99) with code **BLACKFRIDAY**, applied automatically from the link (Nov 23 – Dec 1)|
 |💸|[Toolbox for Mac](https://mactoolbox.app)| 102 native Mac tools in one app: compress and convert video and images, PDF tools, screenshots, download video, remove backgrounds, transcribe. Runs on your Mac, nothing uploaded | **30% OFF** every licence with code **BLACKFRIDAY30**, one-time purchase ($19 → $13.30) (Nov 25 – Dec 2)|
+|💸|[Highseat](https://highseat.com/pricing?billing=yearly&utm_source=dqhieu&utm_medium=deal-list&utm_campaign=black-friday-2026)| Cookieless web analytics on the web, with revenue on every breakdown so you see which traffic makes money. | **40% OFF** the first year of any yearly plan, no code needed (10k events $90 → $54/yr), new customers only (Nov 23 – Dec 1, 2026)|
 
 ---
 
