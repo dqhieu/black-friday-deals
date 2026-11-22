@@ -368,6 +368,7 @@ Please follow the rules below:
 |💸|[Toplify](https://toplify.app/)| Track App Store chart positions for iOS and Mac apps in 175 countries. | **About 45% OFF** Pro Lifetime: $89.99 → $49.99 with code **BLKFR2026** (Nov 15 – Dec 1, 2026)|
 |💸|[DeskMinder](https://deskminder.appps.od.ua/)| Set quick desktop reminders, timers and tasks on macOS. | **Over 40% OFF** Pro Lifetime: $6.99 → $3.99 with code **BLKFR2026** (Nov 15 – Dec 1, 2026)|
 |💸|[Waitlyze](https://waitlyze.com/pricing)| Waitlist software for founders and creators: branded pages, referral rewards, launch emails and signup analytics. | **40% OFF** Pro Annual for year one ($119 → $71.40) with code **BFCM2026**; renews at $119/year (Nov 22 – Dec 3, 2026)|
+|💸|[Clipboard AI](https://clipboardai.app/black-friday)| Remember everything you copy on your iPhone and Mac, forever: clipboard history for iPhone, iPad and Mac | **30% OFF** Lifetime Pro, pay once ($34.99 → $24.99) with code **BLACKFRIDAY**, applied automatically from the link (Nov 23 – Dec 1)|
 
 ---
 
