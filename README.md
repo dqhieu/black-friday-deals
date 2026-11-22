@@ -361,6 +361,7 @@ Please follow the rules below:
 |💸|[ScribeToAny](https://scribetoany.com/pricing)| Turn audio and video files and links into transcripts, SRT/VTT subtitles and AI summaries in about 98 languages, on the web | **30% OFF** the first month of monthly plans with code **FIRST_30_OFF**, or **$20 OFF** the first year of yearly plans with code **FIRST_20_OFF**, plus up to 1,000 bonus minutes on the first subscription (Nov 17 – Nov 30)|
 |💸|[MakeMidas](https://makemidas.com/pricing)| AI image, video and music generator on the web with GPT Image, Nano Banana, Veo, Kling and Suno | **Up to 25% more credits** on every one-time credit pack (125 credits per $1, $10 → 1,250 credits instead of 1,000), no code needed, no subscription (Nov 20 – Dec 1)|
 |🤑|[AppGrid](https://appgridmac.com/pricing/)| Launchpad replacement for macOS: free app grid with pages and folders. Pro adds multi-select, sorting across pages and saved layouts. | **50% OFF** lifetime Direct Pro for up to 5 Macs ($25 → $12.50 before tax), code **BF2026**, auto-applied from the pricing page (Nov 20 – Nov 30, code expires Dec 1 12:00 UTC)|
+|🤑|[Stashkin](https://stashkin.com/pricing?ref=dqhieu)| Chrome extension that exports ChatGPT chats to editable Word (.docx), PDF, Markdown, PNG and JSON with tables and equations intact | **50% OFF** first year of Pro Annual ($46.56 → $23.28, annual only) with code **BF2026** (Nov 22 – Dec 1, 2026)|
 
 ---
 
