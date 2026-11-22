@@ -376,6 +376,7 @@ Please follow the rules below:
 |🤑|[AY Grants](https://grants.ayskilllab.com/#pricing)| Open government grants in the US, EU and UK in one list, by deadline, with saved searches and nightly alerts (web) | **50% OFF** the first month of the monthly plan ($9 → $4.50), no code needed, then renews at the normal price (Nov 22 – Nov 30, ends 11:59 PM US Pacific)|
 |🤑|[AY Tenders](https://tenders.ayskilllab.com/#pricing)| Public tender notices from the EU (TED), UK, Ireland and US federal, sorted into seven sectors, with alerts (web) | **50% OFF** the first month of monthly plans (Tenders $19 → $9.50, Tenders + Grants $24 → $12), no code needed, then renews at the normal price (Nov 22 – Nov 30, ends 11:59 PM US Pacific)|
 |💸|[Helix](https://tryhelix.app/?utm_source=github&utm_campaign=dqhieu-bf)| Radial menu for Mac: hold Option + Space and your tools pop up in a circle. | **30% OFF** one-time for 2 Macs ($9 → $6.30) with code **BLACKFRIDAY30** (Nov 20 – Dec 1, 2026)|
+|💸|[Storewire](https://plugins.hackerman.ge)| Laravel package that lets an online store answer shoppers inside AI assistants (search, compare, cart handoff), on laravel/mcp | **40% OFF** single store ($149 → $89) and unlimited ($349 → $209), no code needed. Free MIT version: hackerman/storewire-lite (Nov 27 – Dec 2, 2026)|
 
 ---
 
