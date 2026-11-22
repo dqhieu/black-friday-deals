@@ -346,6 +346,7 @@ Please follow the rules below:
 |🤑|[Wispim: Voice Teleprompter](https://wispim.com/black-friday)| Teleprompter for iPhone, iPad and Mac that scrolls your script as you speak. | **50% OFF** Lifetime Pro, a one-time purchase: $199.99 → $99.99, no code needed (Nov 27 – Nov 30)|
 |💸|[Timeless](https://timeless-app.github.io/#pricing)| Stage timer for Windows: a big countdown on the TV or projector, run-of-show schedules and a phone remote | 30% OFF the one-time license with code **BLACKFRIDAY26** (Individual $29 → $20.30, Team $79 → $55.30), Nov 19 – Nov 30, 2026|
 |💸|[Directory Ideas](https://directoryideas.ai/?ref=black-friday-deals)| Web app that finds directory website ideas people actually search for, with real Google search numbers and a launch plan. | **33% OFF** lifetime ($89 → $59), no code needed (Nov 21 – Nov 30)|
+|🤑|[ZeroDirs](https://zerodirs.com/#pricing)| SEO-first directory sites with AI agents & $0/mo Cloudflare hosting. | One-time payment for lifetime access ~~$179~~ $49 with **73% off**.|
 
 ---
 
