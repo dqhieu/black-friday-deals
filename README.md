@@ -381,6 +381,7 @@ Please follow the rules below:
 |💸|[Clipboard AI](https://clipboardai.app/black-friday)| Remember everything you copy on your iPhone and Mac, forever: clipboard history for iPhone, iPad and Mac | **30% OFF** Lifetime Pro, pay once ($34.99 → $24.99) with code **BLACKFRIDAY**, applied automatically from the link (Nov 23 – Dec 1)|
 |💸|[Toolbox for Mac](https://mactoolbox.app)| 102 native Mac tools in one app: compress and convert video and images, PDF tools, screenshots, download video, remove backgrounds, transcribe. Runs on your Mac, nothing uploaded | **30% OFF** every licence with code **BLACKFRIDAY30**, one-time purchase ($19 → $13.30) (Nov 25 – Dec 2)|
 |💸|[Highseat](https://highseat.com/pricing?billing=yearly&utm_source=dqhieu&utm_medium=deal-list&utm_campaign=black-friday-2026)| Cookieless web analytics on the web, with revenue on every breakdown so you see which traffic makes money. | **40% OFF** the first year of any yearly plan, no code needed (10k events $90 → $54/yr), new customers only (Nov 23 – Dec 1, 2026)|
+|🤑|[12happy](https://www.12hpy.com/deals/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black-friday-2026)| Uptime monitoring for websites, APIs and cron jobs, with alerts and status pages (web, iPhone, Android). | **3 months of Pro free** with code **BLACKFRIDAY**, no card needed, new and Free accounts, first 100 (Nov 22 – Dec 1)|
 
 ---
 
