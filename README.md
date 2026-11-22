@@ -341,6 +341,7 @@ Please follow the rules below:
 |🤑|[Findow](https://findowmac.com/)| Scrolling window manager for macOS with tiling, a window switcher and saved workspaces | **75% OFF** one-time purchase ($19.99 → $5), no code needed (until Dec 1)|
 |💸|[SpriteCanvas](https://spritecanvas.com/pricing/)| AI sprite sheet generator for 2D games on the web: animate a character and export PNG sheets with JSON atlases. | **30% OFF** the first month of Starter or Pro monthly (Starter $12 → $8.40, Pro $29 → $20.30), then regular price, no code needed, first subscription only (Nov 21 – Dec 1)|
 |💸|[Roost](https://roostmail.app/black-friday)| Native Mac mail app for many inboxes: several Gmails, Outlook, iCloud, Zoho, Yandex and any IMAP in one window. Mail stays on your Mac. | **14% OFF** Lifetime, $29 → $25 once, no code needed · 3 Macs, every future update (Nov 27 – Dec 1)|
+|🤑|[Motionflare](https://motionflare.ai/pricing)| Paste your URL and get an on-brand marketing video built from your real screenshots, logo, colors and copy. Web app. | **50% OFF** the first month of Pro or Max ($29 → $14.50, $99 → $49.50), no code needed, new subscribers (Nov 21 – Dec 1)|
 
 ---
 
