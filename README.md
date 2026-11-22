@@ -348,6 +348,10 @@ Please follow the rules below:
 |💸|[Directory Ideas](https://directoryideas.ai/?ref=black-friday-deals)| Web app that finds directory website ideas people actually search for, with real Google search numbers and a launch plan. | **33% OFF** lifetime ($89 → $59), no code needed (Nov 21 – Nov 30)|
 |🤑|[ZeroDirs](https://zerodirs.com/#pricing)| SEO-first directory sites with AI agents & $0/mo Cloudflare hosting. | One-time payment for lifetime access ~~$179~~ $49 with **73% off**.|
 |💸|[8kSec Academy](https://academy.8ksec.io/)| Mobile and AI security training with five certification tracks and hands-on labs | **15% off** all on-demand courses with code **8KSECBLACKFRIDAY** (Nov 20 – Dec 4, 2026)|
+|🤑|[PureScribe](https://appsthere.com/apps/purescribe)| On-device speech to text for Mac, iPhone and iPad: timestamped transcripts, nothing uploaded, no account | **50% OFF** Pro one-time purchase ($9.99 → $4.99), App Store price, no code needed (Nov 27 – Dec 1)|
+|💸|[Pilot – Flight Logbook](https://appsthere.com/apps/pilote)| Offline flight logbook for EASA and FAA pilots on iPhone, iPad and Mac | **33% OFF** Pro one-time purchase ($29.99 → $19.99), App Store price, no code needed (Nov 27 – Dec 1)|
+|💸|[SeaTally – Sea Time Logbook](https://appsthere.com/apps/seatally)| Sea time logbook for sailors and yacht crew (RYA and USCG) on iPhone, iPad and Mac | **33% OFF** Pro one-time purchase ($29.99 → $19.99), App Store price, no code needed (Nov 27 – Dec 1)|
+|💸|[Serviced – Maintenance Log](https://appsthere.com/apps/serviced)| Maintenance log with reminders for home, car and boat on iPhone, iPad and Mac | **33% OFF** Pro one-time purchase ($14.99 → $9.99), App Store price, no code needed (Nov 27 – Dec 1)|
 
 ---
 
