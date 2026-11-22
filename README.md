@@ -368,6 +368,8 @@ Please follow the rules below:
 |💸|[Toplify](https://toplify.app/)| Track App Store chart positions for iOS and Mac apps in 175 countries. | **About 45% OFF** Pro Lifetime: $89.99 → $49.99 with code **BLKFR2026** (Nov 15 – Dec 1, 2026)|
 |💸|[DeskMinder](https://deskminder.appps.od.ua/)| Set quick desktop reminders, timers and tasks on macOS. | **Over 40% OFF** Pro Lifetime: $6.99 → $3.99 with code **BLKFR2026** (Nov 15 – Dec 1, 2026)|
 |💸|[Waitlyze](https://waitlyze.com/pricing)| Waitlist software for founders and creators: branded pages, referral rewards, launch emails and signup analytics. | **40% OFF** Pro Annual for year one ($119 → $71.40) with code **BFCM2026**; renews at $119/year (Nov 22 – Dec 3, 2026)|
+|🤑|[ShipReady 2026](https://sprintcraft-studio.netlify.app/shipready/)| 5 zero-build SaaS landing page templates (HTML/Tailwind/JS, no build step) with live interactive previews. | **61% OFF** All-Access Bundle ($49 → $19) or $7 per template, no code needed (Nov 22 – Dec 1, 2026)|
+|🤑|[Founder Launch OS 2026](https://sprintcraft-studio.netlify.app/founder-os/)| Notion launch system + interactive 2x PNG Graphics Studio for Product Hunt, X, and LinkedIn assets. | **64% OFF** Complete OS ($39 → $14), no code needed (Nov 22 – Dec 1, 2026)|
 
 ---
 
