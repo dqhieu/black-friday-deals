@@ -364,6 +364,9 @@ Please follow the rules below:
 |🤑|[Stashkin](https://stashkin.com/pricing?ref=dqhieu)| Chrome extension that exports ChatGPT chats to editable Word (.docx), PDF, Markdown, PNG and JSON with tables and equations intact | **50% OFF** first year of Pro Annual ($46.56 → $23.28, annual only) with code **BF2026** (Nov 22 – Dec 1, 2026)|
 |🤑|[Oasis: Sleep & Nature Sounds](https://apps.apple.com/app/apple-store/id6759493932?pt=124024007&ct=bf_lists&mt=8)| Nature sound mixer for iPhone with 120 field recordings from 43 countries, binaural beats and a sleep timer | **100% OFF** Lifetime (Oasis Infinite, $24.99 → $0 US pricing), claim it in the app, no code needed (Nov 19 – Dec 1)|
 |🤑|[Right Suite](https://rightsuite.co/?ref=black-friday-deals)| Test your price, landing page, cold email or ad on 100+ AI-simulated buyers before real ones see it. | First month of Starter free with code **BLACKFRIDAY** (then $4.99/mo), first 100 founders, until Dec 31, 2026|
+|💸|[SubsDay](https://subsday.appps.od.ua/)| Track subscriptions and upcoming payments on iPhone, iPad and Mac. | **About 40% OFF** Lifetime: Single $19.99 → $11.99 with code **BLKFR2026**; Family $26.99 → $15.99 with code **BLKFR2026FAMILY** (Nov 15 – Dec 1, 2026)|
+|💸|[Toplify](https://toplify.app/)| Track App Store chart positions for iOS and Mac apps in 175 countries. | **About 45% OFF** Pro Lifetime: $89.99 → $49.99 with code **BLKFR2026** (Nov 15 – Dec 1, 2026)|
+|💸|[DeskMinder](https://deskminder.appps.od.ua/)| Set quick desktop reminders, timers and tasks on macOS. | **Over 40% OFF** Pro Lifetime: $6.99 → $3.99 with code **BLKFR2026** (Nov 15 – Dec 1, 2026)|
 
 ---
 
