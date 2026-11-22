@@ -359,6 +359,7 @@ Please follow the rules below:
 |🤑|[WPOS](https://wpos.ai/black-friday/?utm_source=dqhieu&utm_medium=deals&utm_campaign=bf2026)| AI agent inside wp-admin that builds and edits your WordPress sites on any host, in Gutenberg, Elementor or Divi | **50% OFF** site licences for the first 2 months with code **FRIDAY50** ($25 → $12.50/site/month) + 15,000 free credits for new accounts, no card · new paying customers, one per customer (Nov 11 – Nov 30, 23:59 PT)|
 |💸|[Yoohoo](https://yoohoo.buzz/?ref=bf-dqhieu)| Gathers alerts from the apps and services you use, for iPhone, Android and web | **40% OFF** the first year of Plus yearly ($14.99 → $8.99), no code needed, new subscribers only (Nov 27 – Dec 1, web until Nov 30)|
 |💸|[ScribeToAny](https://scribetoany.com/pricing)| Turn audio and video files and links into transcripts, SRT/VTT subtitles and AI summaries in about 98 languages, on the web | **30% OFF** the first month of monthly plans with code **FIRST_30_OFF**, or **$20 OFF** the first year of yearly plans with code **FIRST_20_OFF**, plus up to 1,000 bonus minutes on the first subscription (Nov 17 – Nov 30)|
+|💸|[MakeMidas](https://makemidas.com/pricing)| AI image, video and music generator on the web with GPT Image, Nano Banana, Veo, Kling and Suno | **Up to 25% more credits** on every one-time credit pack (125 credits per $1, $10 → 1,250 credits instead of 1,000), no code needed, no subscription (Nov 20 – Dec 1)|
 
 ---
 
