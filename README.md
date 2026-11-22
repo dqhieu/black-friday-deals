@@ -368,6 +368,7 @@ Please follow the rules below:
 |💸|[Toplify](https://toplify.app/)| Track App Store chart positions for iOS and Mac apps in 175 countries. | **About 45% OFF** Pro Lifetime: $89.99 → $49.99 with code **BLKFR2026** (Nov 15 – Dec 1, 2026)|
 |💸|[DeskMinder](https://deskminder.appps.od.ua/)| Set quick desktop reminders, timers and tasks on macOS. | **Over 40% OFF** Pro Lifetime: $6.99 → $3.99 with code **BLKFR2026** (Nov 15 – Dec 1, 2026)|
 |💸|[Waitlyze](https://waitlyze.com/pricing)| Waitlist software for founders and creators: branded pages, referral rewards, launch emails and signup analytics. | **40% OFF** Pro Annual for year one ($119 → $71.40) with code **BFCM2026**; renews at $119/year (Nov 22 – Dec 3, 2026)|
+|🤑|[VibeShield](https://vibe-checker.appwrite.network/)| Passive 6-phase pre-launch security scanner (116 checks) for modern & AI-built web apps (Next.js, Vercel, Lovable, Bolt, Cursor, Supabase): detects client JS secret leaks, missing security headers, weak CSP, exposed paths & Supabase RLS issues with zero signup | **78% OFF** one-time Fix Unlock ($9 → $2) & **83% OFF** 3-App Suite ($29 → $5), auto-applied, no code needed (Nov 22 – Dec 2, 2026)|
 
 ---
 
