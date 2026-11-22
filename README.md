@@ -328,6 +328,7 @@ Please follow the rules below:
 | 💸 | [ChartScout](https://chartscout.io/black-friday) | Chart-pattern detection and alerts for crypto traders. | **40% OFF Pro monthly for the next 3 paid months** — $23.40 USD/month, then $39 USD/month. Discount automatically applied through the offer page; code `BLACKFRIDAY2026` if needed. Ends Nov 30, 2026 at 11:59 p.m. CET. |
 |💸|[Unraster](https://unraster.ai/pricing)| Turn slide, chart and diagram screenshots into editable PowerPoint or SVG, in your browser. | **45% OFF** the 150-credit pack ($79.90 → $43.95) with code **BLACKFRIDAY45** (ends Dec 1)|
 |🤑|[BatchMark](https://batchmark.dispatchcat.com/holiday-sale/)| Batch watermark up to 100 photos at once, art frames, Color Walk cards and Photo Stories for iPhone and iPad, on-device | **50% OFF** Lifetime $39.99 (was $79.99), no code needed, auto-applied (Nov 15 – Dec 25). Annual first year $19.99 (then $39.99/yr) (Nov 20 – Jan 1)|
+|🤑|[Erla](https://erla.app/black-friday)| Language-learning app for iPhone and iPad: listen to and read short stories, watch short videos, then talk with an AI teacher. 22 languages, one app each. | **70% OFF** the first year of Erla PRO ($59.99 → $18) after a 7-day free trial, with code **BLACKFRIDAY**, new subscribers only, redeem via erla.app/black-friday (Nov 12 – Nov 30)|
 
 ---
 
