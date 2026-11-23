@@ -386,6 +386,7 @@ Please follow the rules below:
 |🤑|[Founder Launch OS 2026](https://sprintcraft-studio.netlify.app/founder-os/)| Notion launch system + interactive 2x PNG Graphics Studio for Product Hunt, X, and LinkedIn assets. | **64% OFF** Complete OS ($39 → $14), no code needed (Nov 22 – Dec 1, 2026)|
 |🤑|[Narration Box](https://narrationbox.com/pricing)| AI voices for audiobooks and voiceovers: multi-voice casting, voice cloning and 80+ languages from a PDF, EPUB, DOCX or URL. | **55% OFF** the first year of all annual plans, no coupon code needed, auto-applied at checkout. Plus $9/mo (was $20), Pro $18/mo (was $40), Scale $45/mo (was $100) (Nov 22 – Dec 2, 2026)|
 |🤑|[VibeShield](https://vibe-checker.appwrite.network/)| Passive 6-phase pre-launch security scanner (116 checks) for modern & AI-built web apps (Next.js, Vercel, Lovable, Bolt, Cursor, Supabase): detects client JS secret leaks, missing security headers, weak CSP, exposed paths & Supabase RLS issues with zero signup | **78% OFF** one-time Fix Unlock ($9 → $2) & **83% OFF** 3-App Suite ($29 → $5), auto-applied, no code needed (Nov 22 – Dec 2, 2026)|
+| 💸 |[GlowLink](https://useglowlink.com/?utm_source=github&utm_medium=listing&utm_campaign=bf2026)| 10 small pay-once tools for small businesses and landlords (quotes, rental expenses for Schedule E, Google review replies, subscription reminders). | **25% OFF** All 10 for $149 through Nov 30 (normally $199). No subscription, no code needed.|
 
 ---
 
