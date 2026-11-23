@@ -387,6 +387,7 @@ Please follow the rules below:
 |🤑|[Narration Box](https://narrationbox.com/pricing)| AI voices for audiobooks and voiceovers: multi-voice casting, voice cloning and 80+ languages from a PDF, EPUB, DOCX or URL. | **55% OFF** the first year of all annual plans, no coupon code needed, auto-applied at checkout. Plus $9/mo (was $20), Pro $18/mo (was $40), Scale $45/mo (was $100) (Nov 22 – Dec 2, 2026)|
 |🤑|[VibeShield](https://vibe-checker.appwrite.network/)| Passive 6-phase pre-launch security scanner (116 checks) for modern & AI-built web apps (Next.js, Vercel, Lovable, Bolt, Cursor, Supabase): detects client JS secret leaks, missing security headers, weak CSP, exposed paths & Supabase RLS issues with zero signup | **78% OFF** one-time Fix Unlock ($9 → $2) & **83% OFF** 3-App Suite ($29 → $5), auto-applied, no code needed (Nov 22 – Dec 2, 2026)|
 |💸|[ASO Atlas](https://asoatlas.com/?ref=github-dqhieu)| App Store keyword research and rank tracking for iOS, Mac and Google Play apps (web app, native Mac app and MCP for AI agents). | **30% OFF** the first year of the Yearly plan (~~$100~~ **$70**), applied automatically at checkout or with code `BLACKWEEK30`. Renews at $100/year. Nov 23 - Nov 30, 2026|
+|💸|[Narva](https://narva.app/#pricing)| Turn a topic, script or voiceover into a finished faceless YouTube video | **30% OFF** the first month of any plan with code **NARVA30**: Starter $29 → $20.30, Creator $79 → $55.30, Pro $199 → $139.30 (Nov 23 - Nov 30)|
 
 ---
 
