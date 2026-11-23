@@ -386,6 +386,8 @@ Please follow the rules below:
 |🤑|[Founder Launch OS 2026](https://sprintcraft-studio.netlify.app/founder-os/)| Notion launch system + interactive 2x PNG Graphics Studio for Product Hunt, X, and LinkedIn assets. | **64% OFF** Complete OS ($39 → $14), no code needed (Nov 22 – Dec 1, 2026)|
 |🤑|[Narration Box](https://narrationbox.com/pricing)| AI voices for audiobooks and voiceovers: multi-voice casting, voice cloning and 80+ languages from a PDF, EPUB, DOCX or URL. | **55% OFF** the first year of all annual plans, no coupon code needed, auto-applied at checkout. Plus $9/mo (was $20), Pro $18/mo (was $40), Scale $45/mo (was $100) (Nov 22 – Dec 2, 2026)|
 |🤑|[VibeShield](https://vibe-checker.appwrite.network/)| Passive 6-phase pre-launch security scanner (116 checks) for modern & AI-built web apps (Next.js, Vercel, Lovable, Bolt, Cursor, Supabase): detects client JS secret leaks, missing security headers, weak CSP, exposed paths & Supabase RLS issues with zero signup | **78% OFF** one-time Fix Unlock ($9 → $2) & **83% OFF** 3-App Suite ($29 → $5), auto-applied, no code needed (Nov 22 – Dec 2, 2026)|
+|🤑|[CiteReady](https://citeready-checker.appwrite.network/)| Web AI search visibility & GEO auditor checking 10 AI crawlers, Schema.org graphs and /llms.txt. | **83% OFF** one-time ($2 instead of $12), no code needed (Nov 22 – Dec 2)|
+|🤑|[InboxShield](https://inbox-checker.appwrite.network/)| Web email DNS deliverability auditor checking SPF 10-lookup limits, 24 DKIM selectors, DMARC and 5 DNSBLs. | **78% OFF** one-time ($2 instead of $9), no code needed (Nov 22 – Dec 2)|
 
 ---
 
