@@ -384,6 +384,7 @@ Please follow the rules below:
 |🤑|[12happy](https://www.12hpy.com/deals/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black-friday-2026)| Uptime monitoring for websites, APIs and cron jobs, with alerts and status pages (web, iPhone, Android). | **100% OFF** 3 months of Pro (normally $15/month) with code **BLACKFRIDAY**, no card needed, new and Free accounts, first 100 (Nov 22 – Dec 1)|
 |🤑|[ShipReady 2026](https://sprintcraft-studio.netlify.app/shipready/)| 5 zero-build SaaS landing page templates (HTML/Tailwind/JS, no build step) with live interactive previews. | **61% OFF** All-Access Bundle ($49 → $19) or $7 per template, no code needed (Nov 22 – Dec 1, 2026)|
 |🤑|[Founder Launch OS 2026](https://sprintcraft-studio.netlify.app/founder-os/)| Notion launch system + interactive 2x PNG Graphics Studio for Product Hunt, X, and LinkedIn assets. | **64% OFF** Complete OS ($39 → $14), no code needed (Nov 22 – Dec 1, 2026)|
+|🤑|[Narration Box](https://narrationbox.com/pricing)| AI voices for audiobooks and voiceovers: multi-voice casting, voice cloning and 80+ languages from a PDF, EPUB, DOCX or URL. | **55% OFF** the first year of all annual plans, no coupon code needed, auto-applied at checkout. Plus $9/mo (was $20), Pro $18/mo (was $40), Scale $45/mo (was $100) (Nov 22 – Dec 2, 2026)|
 
 ---
 
