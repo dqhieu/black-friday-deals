@@ -382,6 +382,8 @@ Please follow the rules below:
 |💸|[Toolbox for Mac](https://mactoolbox.app)| 102 native Mac tools in one app: compress and convert video and images, PDF tools, screenshots, download video, remove backgrounds, transcribe. Runs on your Mac, nothing uploaded | **30% OFF** every licence with code **BLACKFRIDAY30**, one-time purchase ($19 → $13.30) (Nov 25 – Dec 2)|
 |💸|[Highseat](https://highseat.com/pricing?billing=yearly&utm_source=dqhieu&utm_medium=deal-list&utm_campaign=black-friday-2026)| Cookieless web analytics on the web, with revenue on every breakdown so you see which traffic makes money. | **40% OFF** the first year of any yearly plan, no code needed (10k events $90 → $54/yr), new customers only (Nov 23 – Dec 1, 2026)|
 |🤑|[12happy](https://www.12hpy.com/deals/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black-friday-2026)| Uptime monitoring for websites, APIs and cron jobs, with alerts and status pages (web, iPhone, Android). | **100% OFF** 3 months of Pro (normally $15/month) with code **BLACKFRIDAY**, no card needed, new and Free accounts, first 100 (Nov 22 – Dec 1)|
+|🤑|[ShipReady 2026](https://sprintcraft-studio.netlify.app/shipready/)| 5 zero-build SaaS landing page templates (HTML/Tailwind/JS, no build step) with live interactive previews. | **61% OFF** All-Access Bundle ($49 → $19) or $7 per template, no code needed (Nov 22 – Dec 1, 2026)|
+|🤑|[Founder Launch OS 2026](https://sprintcraft-studio.netlify.app/founder-os/)| Notion launch system + interactive 2x PNG Graphics Studio for Product Hunt, X, and LinkedIn assets. | **64% OFF** Complete OS ($39 → $14), no code needed (Nov 22 – Dec 1, 2026)|
 
 ---
 
