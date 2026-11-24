@@ -401,6 +401,7 @@ Please follow the rules below:
 |💸|[BoxAudit](https://getboxaudit.com)| USPS Cubic & UPS/FedEx DIM-139 shipping box optimizer for Shopify, Etsy, ShipStation, and Pirate Ship sellers (buyer info stripped in browser) | **41% OFF** one-time 90-day box audit, no code needed: ~~$49~~ **$29** once (200/day limit, Nov 23 – Nov 30, 2026 11:59 PM PST)|
 |🤑|[MailMaven](https://smallcubed.com/pricing)| The email app for professionals. Make email management more effective by tagging messages,  automating tasks, customizing templates and signatures and Automate with AI via AppleScript and our MCP. | **50% OFF** one-time ($75 → $37.50). No code needed (Nov 26 – Dec 1, 2026)|
 |🤑|[HeyNews](https://app.heynews.co/register?coupon_code=BLACKFRIDAY50&trial_mode=card&utm_source=github-dqhieu&utm_medium=referral&utm_campaign=bf2026)| AI newsletter tool on the web that drafts your newsletter in your voice from the blogs, RSS feeds and news sites you follow. | **50% OFF** any plan for 12 months with code **BLACKFRIDAY50** (Hobbyist $39 → $19.50/mo), monthly plans included, new subscriptions only (Nov 24 – Nov 30)|
+|🤑|[ShieldFive](https://shieldfive.com/pricing?utm_source=github&utm_medium=listing&utm_campaign=dqhieu-bf-2026)| Encrypted cloud storage on web, Android, Windows and Mac: files are encrypted on your device before upload. | **Up to 50% OFF** the first year of annual plans, no code needed (1 TB €30, 2 TB €48, 5 TB €115), new customers only · or 5 TB lifetime €249 one-time until Nov 30 (until Dec 7)|
 
 ---
 
