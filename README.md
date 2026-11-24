@@ -410,6 +410,8 @@ Please follow the rules below:
 |💸|[SocialAPIs](https://socialapis.io/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026&utm_content=dqhieu)| REST API for public Facebook and Instagram data (pages, posts, Marketplace, Meta Ad Library ads), on the web, with a free plan | **30% OFF** the first 3 months of monthly plans (Pro $4.99 → $3.49/mo, Ultra $49 → $34.30/mo, Mega $179 → $125.30/mo) or 17% OFF the first year of yearly plans with code **BLACKDATA30**, new customers only (Nov 24 – Dec 1)|
 |💸|[Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098)| iOS app that turns your phone into a live microphone for any Bluetooth speaker, for karaoke and announcements. | **40% OFF** lifetime ($49.99 → $29.99), no code needed (Nov 21 – Nov 30)|
 |🤑|[PeekTheDay](https://peektheday.com?ref=dq)| A thin line under your Mac's menu bar shows your whole day. Peek to see what's next, drag on it to block time. | **67% OFF** one-time ($15 → $5), no code needed (Nov 24 – Nov 30)|
+|🎬|[KineticSprint Launch Video Code Kit](https://kineticsprint-studio.vercel.app/kit.html)| 5 editable HyperFrames + GSAP SaaS/DevTool/9:16 launch video templates + procedural -14 LUFS stereo SFX engine | **50% OFF** Lifetime ($149 → **$79**), auto-applied (Nov 24 – Nov 30, 2026) |
+|📚|[BookForge CLI](https://kineticsprint-studio.vercel.app/bookforge.html)| Local-first Markdown-to-PDF commercial book typesetting engine with 6 editorial styles, auto-TOC, and layout QC | **50% OFF** Lifetime ($119 → **$59**), auto-applied (Nov 24 – Nov 30, 2026) |
 
 ---
 
