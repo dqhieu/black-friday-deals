@@ -387,6 +387,7 @@ Please follow the rules below:
 |🤑|[Narration Box](https://narrationbox.com/pricing)| AI voices for audiobooks and voiceovers: multi-voice casting, voice cloning and 80+ languages from a PDF, EPUB, DOCX or URL. | **55% OFF** the first year of all annual plans, no coupon code needed, auto-applied at checkout. Plus $9/mo (was $20), Pro $18/mo (was $40), Scale $45/mo (was $100) (Nov 22 – Dec 2, 2026)|
 |🤑|[VibeShield](https://vibe-checker.appwrite.network/)| Passive 6-phase pre-launch security scanner (116 checks) for modern & AI-built web apps (Next.js, Vercel, Lovable, Bolt, Cursor, Supabase): detects client JS secret leaks, missing security headers, weak CSP, exposed paths & Supabase RLS issues with zero signup | **78% OFF** one-time Fix Unlock ($9 → $2) & **83% OFF** 3-App Suite ($29 → $5), auto-applied, no code needed (Nov 22 – Dec 2, 2026)|
 |🤑|[CheckCam](https://checkcam.zorrinapps.com/#black-friday)| Take temporary photo reminders on iPhone without cluttering your camera roll. | **50% OFF** Lifetime ($14.99 → $7.49 USD) with code **BFCM26**; U.S. App Store pricing, local prices may vary (through Dec 1, 2026 PT)|
+|💸|[datacheck.cc](https://datacheck.cc/en/pricing)| Research table verification platform featuring DataCheck: rule-driven duplicate, shift & anomaly checks with source-cell evidence (Web & Windows) | **30% OFF** one-time packs (HK$116 → HK$81.20 / ~$10.35+) & perpetual Windows licenses (HK$15,288 → HK$10,701.60+), no code needed, auto-applied at checkout (Nov 23 – Dec 5, 2026)|
 
 ---
 
