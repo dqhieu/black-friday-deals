@@ -407,6 +407,7 @@ Please follow the rules below:
 |💸|[Knitting Chart](https://knittingchart.com/pricing)| Draw knitting charts for colorwork, lace, and cable patterns, turn photos into charts, and export PDFs in your browser. | **32% OFF** Lifetime Pro: $40.12 once (was $59). No code needed (Nov 23–30, 2026, Pacific time).|
 |💸|[The Cross Stitch Pattern Maker](https://thecrossstitchpatternmaker.com/pricing)| Turn a photo into a cross-stitch chart in your browser, edit stitches, and export a PDF with a DMC floss list. | **32% OFF** Lifetime Pro: $40.12 once (was $59). No code needed (Nov 23–30, 2026, Pacific time).|
 |💸|[VibeFather](https://vibefather.ai/pricing)| Original website templates for vibe coding on the web: a live demo, the exact AI prompt and a DESIGN.md for each | **35% OFF** Lifetime Pro ($199 → $129) and the first year of Pro Yearly for $49 (was $69), no code needed (Nov 25 – Nov 30)|
+|💸|[SocialAPIs](https://socialapis.io/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026&utm_content=dqhieu)| REST API for public Facebook and Instagram data (pages, posts, Marketplace, Meta Ad Library ads), on the web, with a free plan | **30% OFF** the first 3 months of monthly plans (Pro $4.99 → $3.49/mo, Ultra $49 → $34.30/mo, Mega $179 → $125.30/mo) or 17% OFF the first year of yearly plans with code **BLACKDATA30**, new customers only (Nov 24 – Dec 1)|
 
 ---
 
