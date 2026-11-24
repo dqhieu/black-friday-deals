@@ -398,6 +398,7 @@ Please follow the rules below:
 |🤑|[HookTide](https://hooktide.io/pricing)| AI that learns your LinkedIn writing voice and drafts posts, comments and DMs that sound like you. | **50% OFF** the first year of the Pipeline yearly plan ($294 instead of $588, renews at $588) with code **BLACKFRIDAY50**, applied automatically at yearly checkout (Nov 23 – Dec 1)|
 |💸|[ASO Atlas](https://asoatlas.com/?ref=github-dqhieu)| App Store keyword research and rank tracking for iOS, Mac and Google Play apps (web app, native Mac app and MCP for AI agents). | **30% OFF** the first year of the Yearly plan (~~$100~~ **$70**), applied automatically at checkout or with code `BLACKWEEK30`. Renews at $100/year. Nov 23 - Nov 30, 2026|
 |💸|[Narva](https://narva.app/#pricing)| Turn a topic, script or voiceover into a finished faceless YouTube video | **30% OFF** the first month of any plan with code **NARVA30**: Starter $29 → $20.30, Creator $79 → $55.30, Pro $199 → $139.30 (Nov 23 - Nov 30)|
+|💸|[BoxAudit](https://getboxaudit.com)| USPS Cubic & UPS/FedEx DIM-139 shipping box optimizer for Shopify, Etsy, ShipStation, and Pirate Ship sellers (buyer info stripped in browser) | **41% OFF** one-time 90-day box audit, no code needed: ~~$49~~ **$29** once (200/day limit, Nov 23 – Nov 30, 2026 11:59 PM PST)|
 
 ---
 
