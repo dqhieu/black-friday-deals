@@ -423,6 +423,7 @@ Please follow the rules below:
 |💸|[Sorapuff](https://sorapuff.app/holiday-sale?ref=bf26-dqhieu)| Fear-of-flying help for iPhone and iPad: likely bumps on your route before you board, then calm help in the air, offline. | **Sorapuff Pro $9.99** until Jan 4, 2027, then $14.99, one-time in-app purchase, free download, no code needed (Nov 27 – Jan 4)|
 |💸|[Jireh](https://getjireh.com/?ref=bf26-dqhieu)| Bible app for iPhone and iPad: today's verse, passage and prayer, with the whole Bible offline in eleven translations. | **First year of Jireh Plus Yearly for $14.99**, then $29.99 a year, with code **JIREHBF26** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6831838362&code=JIREHBF26)), new subscribers only (until Nov 30)|
 |💸|[PageThen](https://pagethen.com/#pricing)| Visual changelog for the web: capture any page or element on a schedule, keep every version and drag between two captures to see what changed (web, Chrome extension) | **$79 lifetime deal**, one-time payment with 5GB cloud storage, no code needed|
+|🤑|[BizPeel](https://bizpeel.com)| Revenue, traffic and keyword teardowns of 700+ profitable SaaS products, plus MCP tools for coding agents (web) | **50% OFF** your first month on every plan, auto-applied at checkout, no code needed, new accounts only (Nov 7 – Nov 30)|
 
 ---
 
