@@ -415,6 +415,8 @@ Please follow the rules below:
 |🤑|[CiteReady](https://citeready-checker.appwrite.network/)| Web AI search visibility & GEO auditor checking 10 AI crawlers, Schema.org graphs and /llms.txt. | **83% OFF** one-time ($2 instead of $12), no code needed (Nov 22 – Dec 2)|
 |🤑|[InboxShield](https://inbox-checker.appwrite.network/)| Web email DNS deliverability auditor checking SPF 10-lookup limits, 24 DKIM selectors, DMARC and 5 DNSBLs. | **78% OFF** one-time ($2 instead of $9), no code needed (Nov 22 – Dec 2)|
 | 💸 |[GlowLink](https://useglowlink.com/?utm_source=github&utm_medium=listing&utm_campaign=bf2026)| 10 small pay-once tools for small businesses and landlords (quotes, rental expenses for Schedule E, Google review replies, subscription reminders). | **25% OFF** All 10 for $149 through Nov 30 (normally $199). No subscription, no code needed.|
+| 🤑  | [ShadcnSpace](https://shadcnspace.com) | Ready-to-use 1400+ shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. | Use Code **BFCM** – 40% OFF | Ends Dec 3 | Lifetime $77 instead of $129
+| 🤑  | [**WrapPixel**](https://www.wrappixel.com) | Leading provider of premium web templates and admin dashboards, trusted by 500K+ developers worldwide. Templates available in Next.js, Tailwind CSS, React, Angular and more. | **Up to 95% OFF** on the All Access Pass or **50% OFF** on individual admin templates (Coupon: `BFCM`) | Until Dec 7, 2026 |
 
 ---
 
