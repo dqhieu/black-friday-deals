@@ -390,6 +390,7 @@ Please follow the rules below:
 |💸|[datacheck.cc](https://datacheck.cc/en/pricing)| Research table verification platform featuring DataCheck: rule-driven duplicate, shift & anomaly checks with source-cell evidence (Web & Windows) | **30% OFF** one-time packs (HK$116 → HK$81.20 / ~$10.35+) & perpetual Windows licenses (HK$15,288 → HK$10,701.60+), no code needed, auto-applied at checkout (Nov 23 – Dec 5, 2026)|
 |💸|[MoneyWiz](https://www.wiz.money/black-friday)| Personal finance for Mac, iPhone and iPad | 20% off Standard and Premium, first billing period, code **BFCM26**, website only through December 1, 2026. I'm the founder.|
 |💸|[TheoryScore](https://theoryscore.com)| UK driving theory test practice for the web: 240 questions across 14 DVSA topics with explanations, timed 50-question mocks and topic scoring | 40% OFF first month or year, auto-applied at checkout, no code ($5.40 first month / $15.00 first year), then standard price. Nov 20 - Dec 1, 2026|
+|🤑|[Wallper](https://www.wallper.app/pricing)| Moving 4K wallpapers for your Mac desktop and Lock Screen. Play a song and the desktop plays along, lyrics included. | **50% OFF** the one-time license: Pro (3 Macs) $14.99 → $7.49, Pro+ (5 Macs) $24.99 → $12.49, no code needed (Nov 23 – Nov 30)|
 
 ---
 
