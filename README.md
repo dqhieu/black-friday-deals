@@ -406,6 +406,7 @@ Please follow the rules below:
 |🤑|[Unlearn](https://unlearn.dev/pricing)| Courses, workflows and agent skills that teach developers to spec, build, review and ship with AI agents, on the web | **56% OFF** Unlearn Plus Lifetime, $399 once (was $899). Black Friday special: one pass opens everything for $999 (total value $2,895) with lifetime access to Unlearn.dev, mid-level and senior certifications in a framework of your choice, the AI-Native Developer Certification and a 3-week live AI Bootcamp (Nov 19 – Dec 2, 2026)|
 |💸|[Knitting Chart](https://knittingchart.com/pricing)| Draw knitting charts for colorwork, lace, and cable patterns, turn photos into charts, and export PDFs in your browser. | **32% OFF** Lifetime Pro: $40.12 once (was $59). No code needed (Nov 23–30, 2026, Pacific time).|
 |💸|[The Cross Stitch Pattern Maker](https://thecrossstitchpatternmaker.com/pricing)| Turn a photo into a cross-stitch chart in your browser, edit stitches, and export a PDF with a DMC floss list. | **32% OFF** Lifetime Pro: $40.12 once (was $59). No code needed (Nov 23–30, 2026, Pacific time).|
+|💸|[VibeFather](https://vibefather.ai/pricing)| Original website templates for vibe coding on the web: a live demo, the exact AI prompt and a DESIGN.md for each | **35% OFF** Lifetime Pro ($199 → $129) and the first year of Pro Yearly for $49 (was $69), no code needed (Nov 25 – Nov 30)|
 
 ---
 
