@@ -412,6 +412,8 @@ Please follow the rules below:
 |🤑|[PeekTheDay](https://peektheday.com?ref=dq)| A thin line under your Mac's menu bar shows your whole day. Peek to see what's next, drag on it to block time. | **67% OFF** one-time ($15 → $5), no code needed (Nov 24 – Nov 30)|
 |🤑|[KineticSprint Launch Video Code Kit](https://kineticsprint-studio.vercel.app/kit.html)| 5 editable HyperFrames + GSAP SaaS/DevTool/9:16 launch video templates + procedural -14 LUFS stereo SFX engine | **50% OFF** Lifetime ($149 → **$79**), auto-applied (Nov 24 – Nov 30, 2026) |
 |🤑|[BookForge CLI](https://kineticsprint-studio.vercel.app/bookforge.html)| Local-first Markdown-to-PDF commercial book typesetting engine with 6 editorial styles, auto-TOC, and layout QC | **50% OFF** Lifetime ($119 → **$59**), auto-applied (Nov 24 – Nov 30, 2026) |
+|🤑|[CiteReady](https://citeready-checker.appwrite.network/)| Web AI search visibility & GEO auditor checking 10 AI crawlers, Schema.org graphs and /llms.txt. | **83% OFF** one-time ($2 instead of $12), no code needed (Nov 22 – Dec 2)|
+|🤑|[InboxShield](https://inbox-checker.appwrite.network/)| Web email DNS deliverability auditor checking SPF 10-lookup limits, 24 DKIM selectors, DMARC and 5 DNSBLs. | **78% OFF** one-time ($2 instead of $9), no code needed (Nov 22 – Dec 2)|
 
 ---
 
