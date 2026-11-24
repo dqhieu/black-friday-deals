@@ -386,6 +386,8 @@ Please follow the rules below:
 |🤑|[Founder Launch OS 2026](https://sprintcraft-studio.netlify.app/founder-os/)| Notion launch system + interactive 2x PNG Graphics Studio for Product Hunt, X, and LinkedIn assets. | **64% OFF** Complete OS ($39 → $14), no code needed (Nov 22 – Dec 1, 2026)|
 |🤑|[Narration Box](https://narrationbox.com/pricing)| AI voices for audiobooks and voiceovers: multi-voice casting, voice cloning and 80+ languages from a PDF, EPUB, DOCX or URL. | **55% OFF** the first year of all annual plans, no coupon code needed, auto-applied at checkout. Plus $9/mo (was $20), Pro $18/mo (was $40), Scale $45/mo (was $100) (Nov 22 – Dec 2, 2026)|
 |🤑|[VibeShield](https://vibe-checker.appwrite.network/)| Passive 6-phase pre-launch security scanner (116 checks) for modern & AI-built web apps (Next.js, Vercel, Lovable, Bolt, Cursor, Supabase): detects client JS secret leaks, missing security headers, weak CSP, exposed paths & Supabase RLS issues with zero signup | **78% OFF** one-time Fix Unlock ($9 → $2) & **83% OFF** 3-App Suite ($29 → $5), auto-applied, no code needed (Nov 22 – Dec 2, 2026)|
+|🎬|[KineticSprint Launch Video Code Kit](https://kineticsprint-studio.vercel.app/kit.html)| 5 editable HyperFrames + GSAP SaaS/DevTool/9:16 launch video templates + procedural -14 LUFS stereo SFX engine | **50% OFF** Lifetime ($149 → **$79**), auto-applied (Nov 24 – Nov 30, 2026) |
+|📚|[BookForge CLI](https://kineticsprint-studio.vercel.app/bookforge.html)| Local-first Markdown-to-PDF commercial book typesetting engine with 6 editorial styles, auto-TOC, and layout QC | **50% OFF** Lifetime ($119 → **$59**), auto-applied (Nov 24 – Nov 30, 2026) |
 
 ---
 
