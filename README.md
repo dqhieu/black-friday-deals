@@ -414,6 +414,7 @@ Please follow the rules below:
 |🤑|[BookForge CLI](https://kineticsprint-studio.vercel.app/bookforge.html)| Local-first Markdown-to-PDF commercial book typesetting engine with 6 editorial styles, auto-TOC, and layout QC | **50% OFF** Lifetime ($119 → **$59**), auto-applied (Nov 24 – Nov 30, 2026) |
 |🤑|[CiteReady](https://citeready-checker.appwrite.network/)| Web AI search visibility & GEO auditor checking 10 AI crawlers, Schema.org graphs and /llms.txt. | **83% OFF** one-time ($2 instead of $12), no code needed (Nov 22 – Dec 2)|
 |🤑|[InboxShield](https://inbox-checker.appwrite.network/)| Web email DNS deliverability auditor checking SPF 10-lookup limits, 24 DKIM selectors, DMARC and 5 DNSBLs. | **78% OFF** one-time ($2 instead of $9), no code needed (Nov 22 – Dec 2)|
+| 💸 |[GlowLink](https://useglowlink.com/?utm_source=github&utm_medium=listing&utm_campaign=bf2026)| 10 small pay-once tools for small businesses and landlords (quotes, rental expenses for Schedule E, Google review replies, subscription reminders). | **25% OFF** All 10 for $149 through Nov 30 (normally $199). No subscription, no code needed.|
 
 ---
 
