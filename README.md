@@ -424,6 +424,7 @@ Please follow the rules below:
 |💸|[Jireh](https://getjireh.com/?ref=bf26-dqhieu)| Bible app for iPhone and iPad: today's verse, passage and prayer, with the whole Bible offline in eleven translations. | **First year of Jireh Plus Yearly for $14.99**, then $29.99 a year, with code **JIREHBF26** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6831838362&code=JIREHBF26)), new subscribers only (until Nov 30)|
 |💸|[PageThen](https://pagethen.com/#pricing)| Visual changelog for the web: capture any page or element on a schedule, keep every version and drag between two captures to see what changed (web, Chrome extension) | **$79 lifetime deal**, one-time payment with 5GB cloud storage, no code needed|
 |🤑|[EarlyLore](https://earlylore.com/pricing)| AI product discovery & competitive intelligence across 540K+ products, traffic, Design DNA & 14 MCP tools (web) | **Up to 53% OFF** Annual (extra 25% off Pro $144 → $108/yr & Max $384 → $288/yr; first year, renews at $144/$384), auto-applied or with code **BF2026** (Nov 24 – Nov 30, 2026 PT)|
+|💸|[Vaneform](https://vaneform.com/pricing)| Website traffic checker for any domain: visits, traffic sources, countries, keywords and backlinks, with an API and MCP server (web) | **20% OFF** first year of Pro Annual ($99 → $79/yr, then $99/yr) with code **VFBF2026**, auto-applied for new Pro Annual buyers (Nov 24 – Nov 30, 2026 PT)|
 
 ---
 
