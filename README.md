@@ -399,6 +399,7 @@ Please follow the rules below:
 |💸|[ASO Atlas](https://asoatlas.com/?ref=github-dqhieu)| App Store keyword research and rank tracking for iOS, Mac and Google Play apps (web app, native Mac app and MCP for AI agents). | **30% OFF** the first year of the Yearly plan (~~$100~~ **$70**), applied automatically at checkout or with code `BLACKWEEK30`. Renews at $100/year. Nov 23 - Nov 30, 2026|
 |💸|[Narva](https://narva.app/#pricing)| Turn a topic, script or voiceover into a finished faceless YouTube video | **30% OFF** the first month of any plan with code **NARVA30**: Starter $29 → $20.30, Creator $79 → $55.30, Pro $199 → $139.30 (Nov 23 - Nov 30)|
 |💸|[BoxAudit](https://getboxaudit.com)| USPS Cubic & UPS/FedEx DIM-139 shipping box optimizer for Shopify, Etsy, ShipStation, and Pirate Ship sellers (buyer info stripped in browser) | **41% OFF** one-time 90-day box audit, no code needed: ~~$49~~ **$29** once (200/day limit, Nov 23 – Nov 30, 2026 11:59 PM PST)|
+|🤑|[MailMaven](https://smallcubed.com/pricing)| The email app for professionals. Make email management more effective by tagging messages,  automating tasks, customizing templates and signatures and Automate with AI via AppleScript and our MCP. | **50% OFF** one-time ($75 → $37.50). No code needed (Nov 26 – Dec 1, 2026)|
 
 ---
 
