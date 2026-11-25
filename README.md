@@ -425,7 +425,6 @@ Please follow the rules below:
 |💸|[PageThen](https://pagethen.com/#pricing)| Visual changelog for the web: capture any page or element on a schedule, keep every version and drag between two captures to see what changed (web, Chrome extension) | **$79 lifetime deal**, one-time payment with 5GB cloud storage, no code needed|
 |🤑|[EasyGuard VPN](https://easyguard.app/#deal)| No-logs WireGuard VPN for Windows, Mac, iPhone, iPad, Android, Android TV, Fire TV and Apple TV, 10 devices, 90+ servers in 20+ locations | **Up to 75% OFF** every plan, no code needed, one-time payment, 30-day money-back guarantee (Nov 22 – Nov 30)|
 
-
 ---
 
 # Special Request 
