@@ -444,6 +444,7 @@ Please follow the rules below:
 |💸|[ThreeDee Nova](https://www.threedee.design/)| Turn photos or text prompts into 3D models in your browser. | **30% OFF** one-time credit packs with code **BLACK30** (Nov 24 – Dec 2, 2026 at 18:00 CET)|
 |🤑|[BacklinkGenie](https://backlinkgenie.com/pricing/?ref=bf26-dqhieu)| AI link-building outreach agent (web, MCP server): finds posts where you belong, pitches editors from a managed mailbox, follows up and checks links stay live. | **30% OFF** monthly or **50% OFF** yearly for as long as you stay subscribed, no code needed (auto-applied; codes **BFCM30** / **BFCM50**) (Nov 24 – Dec 31)|
 |🤑|[ShiftApp](https://shiftapp.com/black-friday)| Employee scheduling on web, iOS and Android. Plan shifts, manage time off and share updates with staff. | **88% OFF** for the first 8 months with code **BLACKFRIDAY2026** (auto-applied), new Essential monthly orders only (Nov 23 – Dec 12, 2026)|
+|🤑|[shepetal](https://shepetal.app/blog/black-friday-dictation-note-taking-deals?ref=bf26-dqhieu)| Dictation and meeting notes for the Mac that run on your Mac, also offline (Apple silicon, macOS 14.4 or later). | **80% OFF** lifetime license (€24 → €4.80 once) with code **BLACKFRIDAY** (Nov 24 – Nov 30)|
 
 ---
 
