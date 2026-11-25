@@ -466,6 +466,7 @@ Please follow the rules below:
 |🤑|[SiteData](https://sitedata.dev/black-friday)| Web app for website traffic, SEO keyword research, competitor ads and reverse AdSense lookup. | **50% off** annual plans, **30% off** monthly plans · discounted renewals while subscribed · auto-applied at Stripe checkout, no code needed (Nov 24–30, 2026 (ends Nov 30 at 16:00 UTC))|
 |🤑|[Zeptap](https://zeptap.com/pricing)| Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps, with no Xcode or developer account | **50% OFF** every plan · Lifetime $99 once (was $199) · Lifetime Plus up to 5 iPhones $199 once (was $399) · no code needed (until Dec 1)|
 |🤑|[Kiri](https://project-kiri.com/pricing?utm_source=bf-dqhieu)| Focus timer for laptop and desktop in one browser tab: dial timer, task list and ten background sounds that go quiet in breaks. Free timer, no account needed. | **50% OFF** the pay-once Lifetime licence (~~€39~~ €19.50) with code **BF2026**. Nov 25 - Dec 1, 2026.|
+|💸|[ReUI](https://reui.io/pricing?utm_source=dqhieu-bfcm&utm_medium=directory&utm_campaign=reui-nov26)| The agent-ready layer for shadcn/ui | **30% off** every license, no code needed (until Nov 30)|
 
 ---
 
