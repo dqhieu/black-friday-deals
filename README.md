@@ -471,6 +471,7 @@ Please follow the rules below:
 |🤑|[EasyGuard VPN](https://easyguard.app/#deal)| No-logs WireGuard VPN for Windows, Mac, iPhone, iPad, Android, Android TV, Fire TV and Apple TV, 10 devices, 90+ servers in 20+ locations | **Up to 75% OFF** every plan, no code needed, one-time payment, 30-day money-back guarantee (Nov 22 – Nov 30)|
 |💸|[Spring Prompt](https://springprompt.com/plans)| Tests every LLM prompt in your web app on other models and wordings, and shows when a cheaper model would do (Python and Node) | **40% OFF** the first 3 months of either monthly plan with code **BF2026**: Basic $49 → $29.40/mo, Pro $200 → $120/mo, new subscriptions only (Nov 25 – Dec 1)|
 |💸|[Glocavo](https://gbpseotools.com/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=black-friday-2026)| Local SEO web app for businesses and agencies: Google Maps rank tracking, AI visibility checks and Google Business Profile management. | **30% OFF** the first 3 months of any monthly plan with code **BF26MONTH**, or 15% off the first year of a yearly plan with code **BF26YEAR**, applied at checkout (Nov 24 – Dec 1)|
+|💸|[List My Site](https://listmy.site/)| Manual directory submission service (web): your SaaS submitted by hand to 100+ high-authority directories | **$10 OFF** the 100+ directories plan ($169 → $159) with code **GETCITED10** (Nov 25 – Nov 30)|
 
 ---
 
