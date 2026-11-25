@@ -448,6 +448,8 @@ Please follow the rules below:
 |💸|[A1](https://www.a1.gallery/pricing?utm_source=black-friday-deals&utm_medium=github&utm_campaign=bf2026)| Hand-picked gallery of real, live websites for design inspiration, with fonts and colours for each site (web) | **33% OFF** Pro yearly ($72 → $48 a year, kept while subscribed), no code needed (Nov 19 – Nov 30)|
 |💸|[Meboki](https://meboki.com/?ref=dqhieu#pricing)| Offline grammar checker for macOS: checks English as you type in any app with a model that runs on your Mac. Open source. | **26% OFF** one-time license ($39 → $29, 1 Mac, all future updates), no code needed (Nov 21 – Dec 1)|
 |🤑|[getpylaunch](https://getpylaunch.com)| FastAPI SaaS starter kit for the web with Stripe subscriptions, EU VAT and an HTMX frontend | **60% OFF** both plans, no code needed: Single $55 → $22, Unlimited $104 → $41.60 (Nov 24 – Dec 1, 08:00 UTC)|
+|🤑|[Client Tracker Spreadsheet](https://bigshadex.itch.io/client-tracker)| Spreadsheet for freelancers and small studios (LibreOffice Calc): clients, invoices, part payments and follow-ups on one dashboard, built with AI assistance | **50% OFF** one-time ($12.99 → $6.49), no macros, no code needed (until Dec 1)|
+|🤑|[PulseLite Complete](https://bigshadex.itch.io/pulselite-complete)| 408 procedural DSP game UI sounds (menu, sci-fi, horror) in WAV + OGG with a drop-in Godot 4 script, no AI audio; scripts AI-assisted | **60% OFF** one-time ($13.99 → $5.60), no code needed (Nov 26 – Dec 1)|
 
 ---
 
