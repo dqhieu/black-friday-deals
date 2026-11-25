@@ -438,6 +438,7 @@ Please follow the rules below:
 |🤑|[Expandi](https://expandi.io/bfcm-promo/?utm_source=github-dqhieu&utm_medium=referral&utm_campaign=bfcm-2026)| LinkedIn and email outreach automation in one campaign, with a dedicated IP for each LinkedIn account (web) | **Up to 77% OFF** for the first 12 months, no code needed: $79 → $53 per LinkedIn account/mo billed yearly, down to $23 at 50+ accounts, new subscriptions only (Nov 20 – Dec 4)|
 |🚦|[Grai](https://grai.page)| Offline cadence gate that flags AI-writing tells before clients do. Runs 8 deterministic rules on drafts offline, scores cadence, and issues a live cryptographic verification link for client work (web) | **30% OFF your first billing cycle** Solo Offline ($79/yr) & Agency Protocol ($99/mo, $790/yr) with code **BF2026** (Nov 24 to Nov 30, 2026)|
 |💸|[Beamly](https://beamly.com)| Beamly is the platform for your podcast - and everything around it. From hosting and analytics, to podcast websites, private podcasts and memberships. | **30% OFF** on new annual plans. Valid through Dec 1, 2026.|
+|💸|[ShadcnStore](https://shadcnstore.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=cyber-week-2026)| Production-ready shadcn/ui blocks, pages and templates on Base UI, with a Figma kit | **40% OFF** every plan and template, one-time payment, no code needed (Nov 21 - Dec 1, 2026) |
 
 ---
 
