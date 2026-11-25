@@ -426,6 +426,8 @@ Please follow the rules below:
 |🤑|[EarlyLore](https://earlylore.com/pricing)| AI product discovery & competitive intelligence across 540K+ products, traffic, Design DNA & 14 MCP tools (web) | **Up to 53% OFF** Annual (extra 25% off Pro $144 → $108/yr & Max $384 → $288/yr; first year, renews at $144/$384), auto-applied or with code **BF2026** (Nov 24 – Nov 30, 2026 PT)|
 |💸|[Vaneform](https://vaneform.com/pricing)| Website traffic checker for any domain: visits, traffic sources, countries, keywords and backlinks, with an API and MCP server (web) | **20% OFF** first year of Pro Annual ($99 → $79/yr, then $99/yr) with code **VFBF2026**, auto-applied for new Pro Annual buyers (Nov 24 – Nov 30, 2026 PT)|
 |💸|[Moordeck](https://moordeck.com/pricing)| Local-first anti-detect browser with isolated profiles and Zero-CDP AI control via Local MCP, CLI and Playwright (macOS Apple Silicon & Linux x64; Windows coming soon) | **25% OFF** Annual Year 1 (Pro $108 → $81/yr, Team $348 → $261/yr, then $108/$348) with code **BF2026** (auto-applied) + **Founding Solo Lifetime** $79 (reg. $129, first 200 seats) (Nov 24 – Nov 30, 2026 PT)|
+|💸|[Backdrop](https://cindori.com/backdrop)| Interactive live wallpapers for your Mac's Lock Screen and desktop | **30% OFF** Lifetime ($29.99 → $20.99), no code needed (Nov 24 – Dec 1)|
+|🤑|[Sensei](https://cindori.com/sensei)| System performance monitoring for the Mac | **50% OFF** ($59 → $29.50), no code needed (Nov 24 – Dec 1)|
 
 ---
 
