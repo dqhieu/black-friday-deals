@@ -458,6 +458,7 @@ Please follow the rules below:
 |💸|[ONTRK](https://ontrk.app/pricing)| Web app that finds your music airing on TV worldwide and shows the performance royalties you're missing, song by song, for composers and music publishers. | **25% OFF** your first month on any monthly plan with code **BLACKFRIDAY25** (Micro $15 → $11.25, Solo $85 → $63.75), new customers only (Nov 24 – Nov 30)|
 |💸|[DropCue](https://dropcue.app/pricing)| Music management software for composers and music libraries on web and iOS: catalog, pitching, playlists, password-protected share links and listening analytics. | **25% OFF** your first month on any monthly plan with code **BLACKFRIDAY25** (Artist $10 → $7.50, Pro 1K $19 → $14.25), new customers only, web checkout only, not App Store purchases (Nov 24 – Nov 30)|
 |💸|[BlendCue](https://blendcue.com/?ref=bf-hieu)| Companion app for Serato DJ Pro on Mac and Windows: shortlists the next track from your own library by key, BPM, energy and genre. | **40% OFF** one-time licence: Solo $49 → $29 with code **FOUNDINGSOLO**, Pro (2 computers) $79 → $49 with code **FOUNDINGPRO** · first 25 buyers, until Dec 31, 2026 · 7-day free trial|
+|💸|[Whizi](https://whizi.io/pricing/?utm_medium=deal-list&utm_campaign=bf2026&utm_source=dqhieu)| One subscription for Claude, ChatGPT, Gemini and other AI models, with image, video and music in the same chat. Web, iPhone and Android. | **30% OFF** the first year of any yearly plan, applied automatically at checkout (Pro ~~$239.99~~ $167.99). Until Dec 24, 2026 |
 
 ---
 
