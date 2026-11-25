@@ -443,6 +443,7 @@ Please follow the rules below:
 |💸|[FolioSort](https://www.foliosort.app/pricing?ref=dqhieu)| Photo organizer for macOS and Windows: sorts photos by real EXIF date and place, fixes Google Takeout exports, finds duplicates | **25% OFF** the Elite one-time license (€39.99 → €29.99) with code **BLACKFRIDAY**, applied automatically (Nov 26 – Nov 30)|
 |💸|[ThreeDee Nova](https://www.threedee.design/)| Turn photos or text prompts into 3D models in your browser. | **30% OFF** one-time credit packs with code **BLACK30** (Nov 24 – Dec 2, 2026 at 18:00 CET)|
 |🤑|[BacklinkGenie](https://backlinkgenie.com/pricing/?ref=bf26-dqhieu)| AI link-building outreach agent (web, MCP server): finds posts where you belong, pitches editors from a managed mailbox, follows up and checks links stay live. | **30% OFF** monthly or **50% OFF** yearly for as long as you stay subscribed, no code needed (auto-applied; codes **BFCM30** / **BFCM50**) (Nov 24 – Dec 31)|
+|🤑|[ShiftApp](https://shiftapp.com/black-friday)| Employee scheduling on web, iOS and Android. Plan shifts, manage time off and share updates with staff. | **88% OFF** for the first 8 months with code **BLACKFRIDAY2026** (auto-applied), new Essential monthly orders only (Nov 23 – Dec 12, 2026)|
 
 ---
 
