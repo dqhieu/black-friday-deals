@@ -436,6 +436,7 @@ Please follow the rules below:
 |🤑|[MoneyPeel](https://moneypeel.com)| Revenue, traffic and keyword teardowns of 700+ profitable SaaS products, plus MCP tools for coding agents (web) | **50% OFF** your first month on every plan, auto-applied at checkout, no code needed, new accounts only (Nov 7 – Nov 30)|
 |🤑|[PaperMac](https://getpaper.sh/mac/?ref=gh-dqhieu)| Public beta scrolling window manager for macOS 27: windows sit side by side on a Strip you scroll, so opening one never shrinks the rest. | **50% OFF** Pro ($39 to $19.50) and Lifetime ($99 to $49.50), one-time, with code **BF2026** (through Dec 1, 2026)|
 |🤑|[Expandi](https://expandi.io/bfcm-promo/?utm_source=github-dqhieu&utm_medium=referral&utm_campaign=bfcm-2026)| LinkedIn and email outreach automation in one campaign, with a dedicated IP for each LinkedIn account (web) | **Up to 77% OFF** for the first 12 months, no code needed: $79 → $53 per LinkedIn account/mo billed yearly, down to $23 at 50+ accounts, new subscriptions only (Nov 20 – Dec 4)|
+|🚦|[Grai](https://grai.page)| Offline cadence gate that flags AI-writing tells before clients do. Runs 8 deterministic rules on drafts offline, scores cadence, and issues a live cryptographic verification link for client work (web) | **30% OFF your first billing cycle** Solo Offline ($79/yr) & Agency Protocol ($99/mo, $790/yr) with code **BF2026** (Nov 24 to Nov 30, 2026)|
 
 ---
 
