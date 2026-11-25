@@ -451,6 +451,7 @@ Please follow the rules below:
 |🤑|[Client Tracker Spreadsheet](https://bigshadex.itch.io/client-tracker)| Spreadsheet for freelancers and small studios (LibreOffice Calc): clients, invoices, part payments and follow-ups on one dashboard, built with AI assistance | **50% OFF** one-time ($12.99 → $6.49), no macros, no code needed (until Dec 1)|
 |🤑|[PulseLite Complete](https://bigshadex.itch.io/pulselite-complete)| 408 procedural DSP game UI sounds (menu, sci-fi, horror) in WAV + OGG with a drop-in Godot 4 script, no AI audio; scripts AI-assisted | **60% OFF** one-time ($13.99 → $5.60), no code needed (Nov 26 – Dec 1)|
 |🤑|[Ninja Compress](https://ninjacompress.app/?utm_source=dqhieu-black-friday&utm_medium=referral&utm_campaign=black-friday-2026)| On-device video compressor for iPhone and Android: shrink a video to the size you need, nothing is uploaded. | **50% OFF** Ninja Pro Lifetime, no code needed: App Store ~~$19.99~~ $9.99 · Google Play ~~$14.99~~ $7.49 (US prices; local prices vary) (Nov 25 – Dec 1)|
+|🤑|[AI Tool Trek](https://aitooltrek.com/submit)| AI tools directory with 5,000+ listed tools. Makers submit their AI tool for discovery, referral traffic and dofollow backlinks (web). | **50% OFF** Fast Track listing ($24.90 → $12.45) with code **BLACKFRIDAY50** (auto-applied), plus Unlimited Pack $49.90 → $39.90/mo locked in for life (Nov 24 – Nov 30, PT)|
 
 ---
 
