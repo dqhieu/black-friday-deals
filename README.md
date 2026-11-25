@@ -434,6 +434,7 @@ Please follow the rules below:
 |💸|[Termalin](https://termal.in/pricing/?utm_source=bf-dqhieu&utm_medium=referral&utm_campaign=bf2026)| SSH, SFTP and RDP client that lets ChatGPT and Claude run commands on your servers (Mac, Windows, Linux, iOS) | **25% OFF** yearly Pro: 16 months for the price of 12 ($96, $8 → $6/mo) + 100 GB cloud storage, no code needed (Nov 23 – Dec 1)|
 |🚀|[Indie Kit](https://indiekit.pro/?utm_source=dqhieu&utm_campaign=bf2026#pricing)| Next.js SaaS boilerplate: auth, payments, credits, emails, admin, blog and SEO, plus Claude Code and Cursor skills so your AI agent builds the rest the right way. | **30% OFF** everything, no code needed: Pro $79 → $55.30, Full kit $169 → $118.30, Launch Stack (kit + SmoothCut + Auto Social Media Kit) $129 → $90.30, one-time (Nov 24 – Nov 30)|
 |🤑|[MoneyPeel](https://moneypeel.com)| Revenue, traffic and keyword teardowns of 700+ profitable SaaS products, plus MCP tools for coding agents (web) | **50% OFF** your first month on every plan, auto-applied at checkout, no code needed, new accounts only (Nov 7 – Nov 30)|
+|🤑|[PaperMac](https://getpaper.sh/mac/?ref=gh-dqhieu)| Public beta scrolling window manager for macOS 27: windows sit side by side on a Strip you scroll, so opening one never shrinks the rest. | **50% OFF** Pro ($39 to $19.50) and Lifetime ($99 to $49.50), one-time, with code **BF2026** (through Dec 1, 2026)|
 
 ---
 
