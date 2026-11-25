@@ -423,6 +423,7 @@ Please follow the rules below:
 |💸|[Sorapuff](https://sorapuff.app/holiday-sale?ref=bf26-dqhieu)| Fear-of-flying help for iPhone and iPad: likely bumps on your route before you board, then calm help in the air, offline. | **Sorapuff Pro $9.99** until Jan 4, 2027, then $14.99, one-time in-app purchase, free download, no code needed (Nov 27 – Jan 4)|
 |💸|[Jireh](https://getjireh.com/?ref=bf26-dqhieu)| Bible app for iPhone and iPad: today's verse, passage and prayer, with the whole Bible offline in eleven translations. | **First year of Jireh Plus Yearly for $14.99**, then $29.99 a year, with code **JIREHBF26** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6831838362&code=JIREHBF26)), new subscribers only (until Nov 30)|
 |💸|[PageThen](https://pagethen.com/#pricing)| Visual changelog for the web: capture any page or element on a schedule, keep every version and drag between two captures to see what changed (web, Chrome extension) | **$79 lifetime deal**, one-time payment with 5GB cloud storage, no code needed|
+|🤑|[CrawlRaven](https://crawlraven.com/pricing)| SEO tool on the web: joins Search Console, GA4 and your Ahrefs or Semrush lists to a crawl of your site, then tells you what to write, update and fix first. | **50% OFF** every lifetime plan with code **CRBFCM50**, pay once: 1 site $190 → $95, 3 sites $390 → $195, 10 sites $990 → $495, 20 sites $1,990 → $995 (through Nov 30)|
 
 ---
 
