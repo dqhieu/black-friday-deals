@@ -440,6 +440,7 @@ Please follow the rules below:
 |💸|[Beamly](https://beamly.com)| Beamly is the platform for your podcast - and everything around it. From hosting and analytics, to podcast websites, private podcasts and memberships. | **30% OFF** on new annual plans. Valid through Dec 1, 2026.|
 |💸|[ShadcnStore](https://shadcnstore.com/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=cyber-week-2026)| Production-ready shadcn/ui blocks, pages and templates on Base UI, with a Figma kit | **40% OFF** every plan and template, one-time payment, no code needed (Nov 21 - Dec 1, 2026) |
 |🤑|[SnapApp](https://snapapp.im/pricing?utm_source=dqhieu-bf-deals&utm_medium=deal-list&utm_campaign=black-friday-2026)| Snipping tool for macOS: snip any area with one shortcut, mark it up with arrows, text and highlights, copy in one click | **50% OFF** SnapApp Pro with code **SNAPAPPBF26**, first-time buyers on snapapp.im: Lifetime ~~$89~~ $44.50, Yearly ~~$29~~ $14.50 the first year, Monthly ~~$2.90~~ $1.45 for 12 months · Mac App Store: Pro Lifetime ~~$89~~ $44.99, no code needed (website Nov 23 – Dec 1 · App Store Nov 24 – Dec 1)|
+|💸|[FolioSort](https://www.foliosort.app/pricing?ref=dqhieu)| Photo organizer for macOS and Windows: sorts photos by real EXIF date and place, fixes Google Takeout exports, finds duplicates | **25% OFF** the Elite one-time license (€39.99 → €29.99) with code **BLACKFRIDAY**, applied automatically (Nov 26 – Nov 30)|
 
 ---
 
