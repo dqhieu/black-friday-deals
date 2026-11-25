@@ -468,6 +468,7 @@ Please follow the rules below:
 |🤑|[Kiri](https://project-kiri.com/pricing?utm_source=bf-dqhieu)| Focus timer for laptop and desktop in one browser tab: dial timer, task list and ten background sounds that go quiet in breaks. Free timer, no account needed. | **50% OFF** the pay-once Lifetime licence (~~€39~~ €19.50) with code **BF2026**. Nov 25 - Dec 1, 2026.|
 |💸|[ReUI](https://reui.io/pricing?utm_source=dqhieu-bfcm&utm_medium=directory&utm_campaign=reui-nov26)| The agent-ready layer for shadcn/ui | **30% off** every license, no code needed (until Nov 30)|
 |🤑|[Apper - AI App & Website Builder](https://apper.io/black-friday)| Build, manage, preview and publish production-ready apps and websites directly from ChatGPT or Claude, with enterprise-level security, database, authentication, permissions, hosting and payments built in. | **50% OFF** all paid plans for one year, no code needed (Nov 23 – Dec 31, 2026)|
+|🤑|[EasyGuard VPN](https://easyguard.app/#deal)| No-logs WireGuard VPN for Windows, Mac, iPhone, iPad, Android, Android TV, Fire TV and Apple TV, 10 devices, 90+ servers in 20+ locations | **Up to 75% OFF** every plan, no code needed, one-time payment, 30-day money-back guarantee (Nov 22 – Nov 30)|
 
 ---
 
