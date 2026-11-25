@@ -475,6 +475,8 @@ Please follow the rules below:
 |🤑|[Nocala](https://apps.apple.com/app/apple-store/id6804729183?pt=118835098&ct=Nocala:%20Black%20Friday%202026&mt=8)| Turns your wake-up time into a calm evening plan. Private, no account. iOS app. | **100% OFF** the one-time purchase ($39.99 → free), no code needed, claim on the in-app paywall (until Dec 6)|
 |🤑|[surl.li](https://surl.li/en/)| URL shortener with custom domains, QR codes, click analytics, REST API, and an MCP server for AI agents. | **60% OFF** the first bill on all plans, no code needed (Nov 25 – Dec 1, 2026)|
 |💸|[Acquitain Master Evidence-Driven Growth](https://learning.acquitain.com/master-evidence-driven-growth-bf)| Self-paced CRO and experimentation training course using the EDGE framework (web) | **27% OFF** £397 / $447 (normally £547 / $597), no code needed, free 30-minute 1:1 strategy session for the first 10 buyers (Nov 27 – Nov 30, 2026)|
+|💸|[SEO Utils](https://seoutils.app/?utm_source=dqhieu&utm_medium=github&utm_campaign=bf2026)| All-in-one SEO app for macOS, Windows and Linux: track rankings on Google, Maps, ChatGPT and AI Overviews, plus keyword clustering and an MCP server | **20% OFF** the Desktop License Key with code **BF26** ($63.20, one-time with a year of updates), or a **Lifetime license** for $249, no code needed (Nov 10 – Dec 7)|
+|💸|[Doc2Video](https://doc2vid.com/?utm_source=dqhieu#pricing)| Desktop app for macOS, Windows and Linux that turns docs, blog posts or a code base into a narrated video you direct by chat, exported as MP4 | **Lifetime license** with unlimited updates for $119.97 a seat, paid once (a normal license is $39.99 a seat with a year of updates), volume discounts down to $71.98 a seat, no code needed (Nov 10 – Dec 6, 11:59 PM PST)|
 
 ---
 
