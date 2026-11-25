@@ -460,6 +460,7 @@ Please follow the rules below:
 |💸|[BlendCue](https://blendcue.com/?ref=bf-hieu)| Companion app for Serato DJ Pro on Mac and Windows: shortlists the next track from your own library by key, BPM, energy and genre. | **40% OFF** one-time licence: Solo $49 → $29 with code **FOUNDINGSOLO**, Pro (2 computers) $79 → $49 with code **FOUNDINGPRO** · first 25 buyers, until Dec 31, 2026 · 7-day free trial|
 |💸|[Whizi](https://whizi.io/pricing/?utm_medium=deal-list&utm_campaign=bf2026&utm_source=dqhieu)| One subscription for Claude, ChatGPT, Gemini and other AI models, with image, video and music in the same chat. Web, iPhone and Android. | **30% OFF** the first year of any yearly plan, applied automatically at checkout (Pro ~~$239.99~~ $167.99). Until Dec 24, 2026 |
 |💸|[Wassenger](https://wassenger.com/black-friday?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=blackfriday2026)| WhatsApp for teams on the web: AI agent, shared inbox, CRM and the official WhatsApp Business API with REST API and MCP server. | **40% OFF** the first 6 months of any monthly plan with code **BLACKFRIDAY40**, new subscriptions only (Nov 24 – Dec 1)|
+|🤑|[CrawlRaven](https://crawlraven.com/pricing)| SEO tool on the web: joins Search Console, GA4 and your Ahrefs or Semrush lists to a crawl of your site, then tells you what to write, update and fix first. | **50% OFF** every lifetime plan with code **CRBFCM50**, pay once: 1 site $190 → $95, 3 sites $390 → $195, 10 sites $990 → $495, 20 sites $1,990 → $995 (through Nov 30)|
 
 ---
 
