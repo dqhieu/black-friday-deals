@@ -469,6 +469,7 @@ Please follow the rules below:
 |💸|[ReUI](https://reui.io/pricing?utm_source=dqhieu-bfcm&utm_medium=directory&utm_campaign=reui-nov26)| The agent-ready layer for shadcn/ui | **30% off** every license, no code needed (until Nov 30)|
 |🤑|[Apper - AI App & Website Builder](https://apper.io/black-friday)| Build, manage, preview and publish production-ready apps and websites directly from ChatGPT or Claude, with enterprise-level security, database, authentication, permissions, hosting and payments built in. | **50% OFF** all paid plans for one year, no code needed (Nov 23 – Dec 31, 2026)|
 |🤑|[EasyGuard VPN](https://easyguard.app/#deal)| No-logs WireGuard VPN for Windows, Mac, iPhone, iPad, Android, Android TV, Fire TV and Apple TV, 10 devices, 90+ servers in 20+ locations | **Up to 75% OFF** every plan, no code needed, one-time payment, 30-day money-back guarantee (Nov 22 – Nov 30)|
+|💸|[Spring Prompt](https://springprompt.com/plans)| Tests every LLM prompt in your web app on other models and wordings, and shows when a cheaper model would do (Python and Node) | **40% OFF** the first 3 months of either monthly plan with code **BF2026**: Basic $49 → $29.40/mo, Pro $200 → $120/mo, new subscriptions only (Nov 25 – Dec 1)|
 
 ---
 
