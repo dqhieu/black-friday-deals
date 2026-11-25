@@ -464,6 +464,7 @@ Please follow the rules below:
 |💸|[Faxio](https://faxio.app/pricing?utm_source=dqhieu_bf&utm_medium=deal_listing&utm_campaign=black_friday_2026)| Send a fax from your browser (web) or Android phone, pay per fax with no subscription. | **10% OFF** every web purchase ($2.99 → $2.69 per fax, $9.99 → $8.99 for 5), no code needed, web only, not Android in-app (Nov 24 – Dec 1)|
 |🤑|[HazeOver](https://hazeover.com)| Dims background windows on macOS to highlight the active one | **60% OFF**, $4.99 → $1.99 one-time purchase on the Mac App Store and hazeover.com, no code needed (Nov 27 – Dec 1)|
 |🤑|[SiteData](https://sitedata.dev/black-friday)| Web app for website traffic, SEO keyword research, competitor ads and reverse AdSense lookup. | **50% off** annual plans, **30% off** monthly plans · discounted renewals while subscribed · auto-applied at Stripe checkout, no code needed (Nov 24–30, 2026 (ends Nov 30 at 16:00 UTC))|
+|🤑|[Zeptap](https://zeptap.com/pricing)| Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps, with no Xcode or developer account | **50% OFF** every plan · Lifetime $99 once (was $199) · Lifetime Plus up to 5 iPhones $199 once (was $399) · no code needed (until Dec 1)|
 
 ---
 
