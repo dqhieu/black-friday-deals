@@ -429,6 +429,7 @@ Please follow the rules below:
 |💸|[Backdrop](https://cindori.com/backdrop)| Interactive live wallpapers for your Mac's Lock Screen and desktop | **30% OFF** Lifetime ($29.99 → $20.99), no code needed (Nov 24 – Dec 1)|
 |🤑|[Sensei](https://cindori.com/sensei)| System performance monitoring for the Mac | **50% OFF** ($59 → $29.50), no code needed (Nov 24 – Dec 1)|
 |🤑|[CryptoKeyhole](https://cryptokeyhole.com/pricing/?utm_source=dqhieu-bf&utm_medium=listing&utm_campaign=blackfriday-2026)| On-chain, derivatives and ETF analytics for Bitcoin, Ethereum and a growing list of coins, calculated on our own nodes: liquidation maps, cycle indicators, exchange flows, ETF flows and treasury companies. | **50% OFF** the first 3 months of Plus or Pro on monthly billing (Plus $18 → $9 a month), or **30% OFF** the first year on yearly billing (Plus $180 → $126). New subscribers, no code needed: the price is taken off at checkout (Nov 20 – Dec 1)|
+|🤑|[ImagineYourBook](https://www.imagineyourbook.com/blackfriday)| AI book writer on the web that plans and drafts full-length novels with a cover and exports Word, EPUB or Markdown. | **Up to 75% OFF** pay-once novel credit packs vs the normal $5 a credit: Duet 2 novels $59, Series 5 novels $119 plus 1 novel to give away, Library 10 novels $199 plus 1 novel to give away, credits never expire, no code needed (until Nov 30, 11:59 pm PT)|
 
 ---
 
