@@ -428,6 +428,7 @@ Please follow the rules below:
 |💸|[Moordeck](https://moordeck.com/pricing)| Local-first anti-detect browser with isolated profiles and Zero-CDP AI control via Local MCP, CLI and Playwright (macOS Apple Silicon & Linux x64; Windows coming soon) | **25% OFF** Annual Year 1 (Pro $108 → $81/yr, Team $348 → $261/yr, then $108/$348) with code **BF2026** (auto-applied) + **Founding Solo Lifetime** $79 (reg. $129, first 200 seats) (Nov 24 – Nov 30, 2026 PT)|
 |💸|[Backdrop](https://cindori.com/backdrop)| Interactive live wallpapers for your Mac's Lock Screen and desktop | **30% OFF** Lifetime ($29.99 → $20.99), no code needed (Nov 24 – Dec 1)|
 |🤑|[Sensei](https://cindori.com/sensei)| System performance monitoring for the Mac | **50% OFF** ($59 → $29.50), no code needed (Nov 24 – Dec 1)|
+|🤑|[CryptoKeyhole](https://cryptokeyhole.com/pricing/?utm_source=dqhieu-bf&utm_medium=listing&utm_campaign=blackfriday-2026)| On-chain, derivatives and ETF analytics for Bitcoin, Ethereum and a growing list of coins, calculated on our own nodes: liquidation maps, cycle indicators, exchange flows, ETF flows and treasury companies. | **50% OFF** the first 3 months of Plus or Pro on monthly billing (Plus $18 → $9 a month), or **30% OFF** the first year on yearly billing (Plus $180 → $126). New subscribers, no code needed: the price is taken off at checkout (Nov 20 – Dec 1)|
 
 ---
 
