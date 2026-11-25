@@ -442,6 +442,7 @@ Please follow the rules below:
 |🤑|[SnapApp](https://snapapp.im/pricing?utm_source=dqhieu-bf-deals&utm_medium=deal-list&utm_campaign=black-friday-2026)| Snipping tool for macOS: snip any area with one shortcut, mark it up with arrows, text and highlights, copy in one click | **50% OFF** SnapApp Pro with code **SNAPAPPBF26**, first-time buyers on snapapp.im: Lifetime ~~$89~~ $44.50, Yearly ~~$29~~ $14.50 the first year, Monthly ~~$2.90~~ $1.45 for 12 months · Mac App Store: Pro Lifetime ~~$89~~ $44.99, no code needed (website Nov 23 – Dec 1 · App Store Nov 24 – Dec 1)|
 |💸|[FolioSort](https://www.foliosort.app/pricing?ref=dqhieu)| Photo organizer for macOS and Windows: sorts photos by real EXIF date and place, fixes Google Takeout exports, finds duplicates | **25% OFF** the Elite one-time license (€39.99 → €29.99) with code **BLACKFRIDAY**, applied automatically (Nov 26 – Nov 30)|
 |💸|[ThreeDee Nova](https://www.threedee.design/)| Turn photos or text prompts into 3D models in your browser. | **30% OFF** one-time credit packs with code **BLACK30** (Nov 24 – Dec 2, 2026 at 18:00 CET)|
+|🤑|[BacklinkGenie](https://backlinkgenie.com/pricing/?ref=bf26-dqhieu)| AI link-building outreach agent (web, MCP server): finds posts where you belong, pitches editors from a managed mailbox, follows up and checks links stay live. | **30% OFF** monthly or **50% OFF** yearly for as long as you stay subscribed, no code needed (auto-applied; codes **BFCM30** / **BFCM50**) (Nov 24 – Dec 31)|
 
 ---
 
