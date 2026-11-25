@@ -474,6 +474,7 @@ Please follow the rules below:
 |💸|[List My Site](https://listmy.site/)| Manual directory submission service (web): your SaaS submitted by hand to 100+ high-authority directories | **$10 OFF** the 100+ directories plan ($169 → $159) with code **GETCITED10** (Nov 25 – Nov 30)|
 |🤑|[Nocala](https://apps.apple.com/app/apple-store/id6804729183?pt=118835098&ct=Nocala:%20Black%20Friday%202026&mt=8)| Turns your wake-up time into a calm evening plan. Private, no account. iOS app. | **100% OFF** the one-time purchase ($39.99 → free), no code needed, claim on the in-app paywall (until Dec 6)|
 
+|💸|[Master Evidence-Driven Growth – Acquitain](https://learning.acquitain.com/master-evidence-driven-growth-bf) | Self-paced CRO and experimentation training using the EDGE framework | **27% off** – £397 / $447 (normally £547 / $597). Free 30-minute 1:1 strategy session for the first 10 purchasers. **27–30 Nov 2026**. No coupon required. |
 ---
 
 # Special Request 
