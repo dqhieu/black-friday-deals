@@ -467,6 +467,7 @@ Please follow the rules below:
 |🤑|[Zeptap](https://zeptap.com/pricing)| Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps, with no Xcode or developer account | **50% OFF** every plan · Lifetime $99 once (was $199) · Lifetime Plus up to 5 iPhones $199 once (was $399) · no code needed (until Dec 1)|
 |🤑|[Kiri](https://project-kiri.com/pricing?utm_source=bf-dqhieu)| Focus timer for laptop and desktop in one browser tab: dial timer, task list and ten background sounds that go quiet in breaks. Free timer, no account needed. | **50% OFF** the pay-once Lifetime licence (~~€39~~ €19.50) with code **BF2026**. Nov 25 - Dec 1, 2026.|
 |💸|[ReUI](https://reui.io/pricing?utm_source=dqhieu-bfcm&utm_medium=directory&utm_campaign=reui-nov26)| The agent-ready layer for shadcn/ui | **30% off** every license, no code needed (until Nov 30)|
+|🤑|[Apper - AI App & Website Builder](https://apper.io/black-friday)| Build, manage, preview and publish production-ready apps and websites directly from ChatGPT or Claude, with enterprise-level security, database, authentication, permissions, hosting and payments built in. | **50% OFF** all paid plans for one year, no code needed (Nov 23 – Dec 31, 2026)|
 
 ---
 
