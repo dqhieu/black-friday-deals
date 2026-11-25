@@ -477,6 +477,7 @@ Please follow the rules below:
 |💸|[Acquitain Master Evidence-Driven Growth](https://learning.acquitain.com/master-evidence-driven-growth-bf)| Self-paced CRO and experimentation training course using the EDGE framework (web) | **27% OFF** £397 / $447 (normally £547 / $597), no code needed, free 30-minute 1:1 strategy session for the first 10 buyers (Nov 27 – Nov 30, 2026)|
 |💸|[SEO Utils](https://seoutils.app/?utm_source=dqhieu&utm_medium=github&utm_campaign=bf2026)| All-in-one SEO app for macOS, Windows and Linux: track rankings on Google, Maps, ChatGPT and AI Overviews, plus keyword clustering and an MCP server | **20% OFF** the Desktop License Key with code **BF26** ($63.20, one-time with a year of updates), or a **Lifetime license** for $249, no code needed (Nov 10 – Dec 7)|
 |💸|[Doc2Video](https://doc2vid.com/?utm_source=dqhieu#pricing)| Desktop app for macOS, Windows and Linux that turns docs, blog posts or a code base into a narrated video you direct by chat, exported as MP4 | **Lifetime license** with unlimited updates for $119.97 a seat, paid once (a normal license is $39.99 a seat with a year of updates), volume discounts down to $71.98 a seat, no code needed (Nov 10 – Dec 6, 11:59 PM PST)|
+|💸|[Autentique](https://www.autentique.com.br/en)| E-signature platform on the web with unlimited documents, users and signers, plus an API | **30% OFF** the annual Professional plan ($179 → $119/year), no code needed · extra **20% OFF** with code **BFF61H8**, which stacks with the annual discount (Nov 25 – Nov 30)|
 
 ---
 
