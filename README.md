@@ -462,6 +462,7 @@ Please follow the rules below:
 |💸|[Wassenger](https://wassenger.com/black-friday?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=blackfriday2026)| WhatsApp for teams on the web: AI agent, shared inbox, CRM and the official WhatsApp Business API with REST API and MCP server. | **40% OFF** the first 6 months of any monthly plan with code **BLACKFRIDAY40**, new subscriptions only (Nov 24 – Dec 1)|
 |🤑|[CrawlRaven](https://crawlraven.com/pricing)| SEO tool on the web: joins Search Console, GA4 and your Ahrefs or Semrush lists to a crawl of your site, then tells you what to write, update and fix first. | **50% OFF** every lifetime plan with code **CRBFCM50**, pay once: 1 site $190 → $95, 3 sites $390 → $195, 10 sites $990 → $495, 20 sites $1,990 → $995 (through Nov 30)|
 |💸|[Faxio](https://faxio.app/pricing?utm_source=dqhieu_bf&utm_medium=deal_listing&utm_campaign=black_friday_2026)| Send a fax from your browser (web) or Android phone, pay per fax with no subscription. | **10% OFF** every web purchase ($2.99 → $2.69 per fax, $9.99 → $8.99 for 5), no code needed, web only, not Android in-app (Nov 24 – Dec 1)|
+|🤑|[HazeOver](https://hazeover.com)| Dims background windows on macOS to highlight the active one | **60% OFF**, $4.99 → $1.99 one-time purchase on the Mac App Store and hazeover.com, no code needed (Nov 27 – Dec 1)|
 
 ---
 
