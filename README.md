@@ -450,6 +450,7 @@ Please follow the rules below:
 |🤑|[getpylaunch](https://getpylaunch.com)| FastAPI SaaS starter kit for the web with Stripe subscriptions, EU VAT and an HTMX frontend | **60% OFF** both plans, no code needed: Single $55 → $22, Unlimited $104 → $41.60 (Nov 24 – Dec 1, 08:00 UTC)|
 |🤑|[Client Tracker Spreadsheet](https://bigshadex.itch.io/client-tracker)| Spreadsheet for freelancers and small studios (LibreOffice Calc): clients, invoices, part payments and follow-ups on one dashboard, built with AI assistance | **50% OFF** one-time ($12.99 → $6.49), no macros, no code needed (until Dec 1)|
 |🤑|[PulseLite Complete](https://bigshadex.itch.io/pulselite-complete)| 408 procedural DSP game UI sounds (menu, sci-fi, horror) in WAV + OGG with a drop-in Godot 4 script, no AI audio; scripts AI-assisted | **60% OFF** one-time ($13.99 → $5.60), no code needed (Nov 26 – Dec 1)|
+|🤑|[Ninja Compress](https://ninjacompress.app/?utm_source=dqhieu-black-friday&utm_medium=referral&utm_campaign=black-friday-2026)| On-device video compressor for iPhone and Android: shrink a video to the size you need, nothing is uploaded. | **50% OFF** Ninja Pro Lifetime, no code needed: App Store ~~$19.99~~ $9.99 · Google Play ~~$14.99~~ $7.49 (US prices; local prices vary) (Nov 25 – Dec 1)|
 
 ---
 
