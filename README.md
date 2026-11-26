@@ -491,6 +491,7 @@ Please follow the rules below:
 |💸|[Shorvo](https://shorvostudio.com/?utm_source=dqhieu&utm_medium=listing&utm_campaign=bf40)| Windows desktop app that turns a script into a finished vertical YouTube Short: footage, AI voiceover and timed captions. First 3 videos free | **40% OFF** Pro Lifetime, a one-time license: $77.40 instead of $129 with code **BF40** (until Dec 10)|
 |💸|[PuzzleBind](https://puzzlebind.com/black-friday/?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026)| Printable word search, Sudoku and maze maker that exports whole KDP-ready puzzle books (web). | **$14** one-time (regular $19) through Nov 30, no code needed|
 |💸|[Valenx Interview Bundle](https://valenx.org/go/bf-bundle?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026)| PM, AI engineer and data science interview playbooks (digital books). | **30% OFF** with code **BF30**|
+|🤑|[EasySwitch](https://easyswitch.realbrain.cc/pricing)| Software KVM for macOS, Windows and Linux: one keyboard and mouse across your computers, shared clipboard, file transfer | **34–51% OFF** every plan, one-time purchase: each plan at the price of the one below, e.g. Pro $49 → $29, no code needed (Nov 27 – Nov 30)|
 
 ---
 
