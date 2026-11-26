@@ -519,6 +519,7 @@ Please follow the rules below:
 |🤑|[Adstudio](https://useadstudio.com/pricing?ref=dqhieu)| AI ad management for Google Ads, Meta Ads, TikTok Ads and more: build and optimize campaigns from one web workspace | **50% OFF** the first year on yearly plans, no code needed (Nov 25 – Dec 1)|
 |🤑|[StoicSoft](https://stoicsoft.com/pricing)| 12 local-first desktop apps for one-person businesses (dev workbench, design, video, dictation, local AI, file and system tools) for macOS and Windows, most also on Linux. | **50% OFF** any single app's one-time Pro licence with code **BFDEALS50** ($29 → $14.50) · **30% OFF** any bundle with code **BFDEALSBUNDLE30** (Complete, all 12 apps, $199 → $139.30) (until Nov 29)|
 |🤑|[OutFlo AI](https://www.outflo.io/black-friday-2026?utm_source=github&utm_medium=listing&utm_campaign=bf26&utm_content=dqhieu)| LinkedIn outreach for teams running many accounts, with one shared inbox, from the web or your AI agent. | **Up to 50% OFF** yearly plans, price locked for life: Growth ~~$49~~ $24/account/mo billed yearly, no code needed (until Dec 1)|
+|🤑|[TOWeb 15](https://www.lauyan.com/en/pricing/?utm_source=dqhieu&utm_medium=github&utm_campaign=black-friday-2026)| Desktop website builder for Mac and Windows: write on the page, online store and bookings, publish by FTP/SFTP to any host, no subscription | **30% OFF** every paid edition with code **BLACKFRIDAY30** (Premium €99 → €69.30, e-Commerce €199 → €139.30, Studio €399 → €279.30, Nov 26 - Nov 30)|
 
 ---
 
