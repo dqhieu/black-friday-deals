@@ -478,6 +478,7 @@ Please follow the rules below:
 |💸|[SEO Utils](https://seoutils.app/?utm_source=dqhieu&utm_medium=github&utm_campaign=bf2026)| All-in-one SEO app for macOS, Windows and Linux: track rankings on Google, Maps, ChatGPT and AI Overviews, plus keyword clustering and an MCP server | **20% OFF** the Desktop License Key with code **BF26** ($63.20, one-time with a year of updates), or a **Lifetime license** for $249, no code needed (Nov 10 – Dec 7)|
 |💸|[Doc2Video](https://doc2vid.com/?utm_source=dqhieu#pricing)| Desktop app for macOS, Windows and Linux that turns docs, blog posts or a code base into a narrated video you direct by chat, exported as MP4 | **Lifetime license** with unlimited updates for $119.97 a seat, paid once (a normal license is $39.99 a seat with a year of updates), volume discounts down to $71.98 a seat, no code needed (Nov 10 – Dec 6, 11:59 PM PST)|
 |🤑|[Quiet Winners](https://quietwinners.com/)| Monthly leaderboard of fast-growing websites making real money under the radar, with a 10,000+ word teardown of each one (web) | **50% OFF** the first month or year of Pro, no code needed, new subscriptions only (Nov 25 – Dec 1)|
+|💸|[GridPin](https://gridpin.dev/buy#snapshot)| Offline geocoder for 13 countries: CLI, Python, DuckDB on macOS, Linux, Windows | **40% OFF** the one-time Snapshot, $199 → $119 in USDC, no code needed (Nov 25 – Dec 1)|
 
 ---
 
