@@ -529,6 +529,11 @@ Please follow the rules below:
 |💸|[Lunille](https://lunille.com/?ref=gh-dqhieu-bf)| Mac notch app: Luni, a little moon behind the camera, reacts to your music, AirPods and the weather (macOS 14+, Apple silicon and Intel) | **Lunille $9.99** launch price until Nov 30, then $14.99, one-time for up to 3 Macs, no code needed|
 |🤑|[BugSmash](https://bugsmash.io/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bf2026)| Visual feedback and approvals on the web: pin comments on live websites, videos, PDFs and designs; clients review from a link with no account | **50% OFF** the first year on all yearly plans with code **BLACKFRIDAY50**: Starter $228 → $114, Team $588 → $294, Agency $1,188 → $594 (Nov 25 – Nov 30)|
 |🤑|[Switchy](https://getswitchy.app/black-friday)| Menu bar utility for macOS with 31 one-click switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. | **50% OFF** one-time purchase ($4.99 → $2.49, up to 3 Macs) with code **BLACKFRIDAY50**, pre-filled by the Buy button (Nov 23 – Dec 1)|
+|💸|[TwinSweep](https://tidyware.app/twinsweep/)| Find duplicate files and photos on your Mac and undo the last clean-up in one click | **30% OFF** ($19 → $13.30), code **BF2026** applied automatically at checkout (until Dec 1)|
+|💸|[LocalVoice](https://tidyware.app/localvoice/)| Transcribe audio and video on your Mac to TXT, SRT, VTT or Markdown, and read text or PDFs aloud | **30% OFF** ($19 → $13.30), code **BF2026** applied automatically at checkout (until Dec 1)|
+|💸|[NotePorter](https://tidyware.app/noteporter/)| Lets Claude or Cursor search and write your Apple Notes on Mac, with one-click connect | **30% OFF** ($15 → $10.50), code **BF2026** applied automatically at checkout (until Dec 1)|
+|💸|[BatchShift](https://tidyware.app/batchshift/)| Batch-convert HEIC and WebP folders to JPG or PNG on Mac: resize, compress, remove GPS | **30% OFF** ($9 → $6.30), code **BF2026** applied automatically at checkout (until Dec 1)|
+|💸|[Awakelet](https://tidyware.app/awakelet/)| Menu bar app for macOS that keeps your Mac awake for a set time, until an app quits or downloads finish | **30% OFF** ($9 → $6.30), code **BF2026** applied automatically at checkout (until Dec 1)|
 
 ---
 
