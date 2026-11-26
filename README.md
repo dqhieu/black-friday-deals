@@ -523,6 +523,7 @@ Please follow the rules below:
 |🤑|[Clearpane](https://getclearpane.app/?utm_source=dqhieu-bf&utm_campaign=bf2026#pricing)| Activity Monitor in plain English for macOS: what's slowing your Mac, every process explained, and whether it's safe to quit. | **53% OFF** one-time, $19 → $9, no code needed · 2 Macs, every update (Nov 26 – Dec 1)|
 |💸|[Mole](https://mole.fit/?utm_source=dqhieu&utm_campaign=bf2026)| Native Mac cleaner and uninstaller that also clears old AI tool data and maps your disk, also on Windows | **20% OFF** one-time license, $19 to $15.20, no code needed (Nov 25 – Nov 30)|
 |💸|[Falconry Drive](https://falconrylabs.com/drive/)| Read and write NTFS drives on macOS 27 (Apple silicon), built on Apple's FSKit with no kernel extension. | **30% OFF** the first year with code **BLACKFRIDAY30** ($27.99 → $19.60, renews at $27.99, 14-day free trial) (Nov 26 – Dec 1)|
+|💸|[innernote](https://www.innernote.space/?utm_source=dqhieu&utm_medium=github&utm_campaign=bf2026)| Grow your LinkedIn personal brand on autopilot. | **40% off** the annual plan 👀 with code **BLACKFRIDAY40** (Nov 26 - Dec 4, 2026)|
 
 ---
 
