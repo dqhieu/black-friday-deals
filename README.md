@@ -510,6 +510,8 @@ Please follow the rules below:
 |💸|[Crabsmith](https://crabsmith.com/?ref=dqhieu)| Hosted control panel for your own Ubuntu servers (web): deploy Laravel, PHP, Node.js and Next.js over SSH with Caddy HTTPS | **40% OFF for life** on any plan with code **BLACKFRIDAY40** (Hobby $5 → $3/mo, Pro $12 → $7.20/mo, until Dec 1)|
 |💸|[Rebit Pro](https://rebit.cc/)| Play your own retro games on the web or your phone, with cloud saves and multiplayer | **40% OFF** the first year of Pro on the web ($8.99 instead of $14.99) with code **BLACKFRIDAY40** (Nov 22 – Dec 1, 2026)|
 |💸|[SeenIn](https://seenin.isherry.tech)| Self-hosted link-in-bio page that turns the products, tools and codes a creator recommends into posters (web, PHP host) | **25% OFF** every plan, one-time payment, with code **BF2026** (Nov 27 to Dec 1)|
+|🤑|[Fundalyze](https://fundalyze.ai/blackfriday)| The all-in-one research platform for US stocks on the web, every number sourced | **35% OFF forever** on Monthly/Annual with code **BF2026**, or **50% OFF** Lifetime ($1,999.99 → $999.99) with code **BFLTD1000**, new customers only (Nov 25 – Dec 1)|
+|🤑|[RecapOne](https://recapone.com/blackfriday)| One reader on the web for everything you read, with highlights that come back daily | **35% OFF forever** on Monthly/Annual with code **BF2026**, or **50% OFF** Lifetime ($399 → $199) with code **BFLTD**, new customers only (Nov 25 – Dec 1)|
 
 ---
 
