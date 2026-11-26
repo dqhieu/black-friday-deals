@@ -515,6 +515,7 @@ Please follow the rules below:
 |🤑|[DoMyWork - Workspace with AI Teammates](https://domywork.ai/bf2026/)| Workspace with databases, docs, tasks, and dashboards, where your team and AI agents work together (web). | **First 3 months free** from signup for new companies, all features, whole team and unlimited agents. No card or automatic renewal; $3 starter AI credit, then AI usage via your own OpenRouter key. No code needed (sign up by Nov 30, 2026, 11:59 pm PT)|
 |💸|[holoform](https://holoform.cc/pricing?promo=BLACKFRIDAY)| Browser studio for layered trading cards and photocards with 3D holo previews and AI line art (web) | **20% OFF** all AI credit packs + 10% extra bonus credits with code **BLACKFRIDAY** (Nov 26 – Dec 1)|
 |💸|[BrassWell](https://brasswell.app/black-friday)| Bookkeeping app for the self-employed on iPhone, iPad, Android and web: income, expenses, receipts, mileage and invoices | **25% OFF** the first year of Pro yearly with code **BLACKFRIDAY25** ($299 → $224.25), new subscribers only (Nov 23 – Nov 30)|
+|💸|[Loudwell](https://loudwell.app/black-friday/?s=bf-dqh)| Mac app that plans a week of social posts from a small brand's own photos and clips, writes captions with your own AI key, and posts only what you approve. | **40% OFF** the first year of either plan with code **BF40**, new customers only (Nov 27 – Dec 1)|
 
 ---
 
