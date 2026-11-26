@@ -521,6 +521,7 @@ Please follow the rules below:
 |🤑|[OutFlo AI](https://www.outflo.io/black-friday-2026?utm_source=github&utm_medium=listing&utm_campaign=bf26&utm_content=dqhieu)| LinkedIn outreach for teams running many accounts, with one shared inbox, from the web or your AI agent. | **Up to 50% OFF** yearly plans, price locked for life: Growth ~~$49~~ $24/account/mo billed yearly, no code needed (until Dec 1)|
 |🤑|[TOWeb 15](https://www.lauyan.com/en/pricing/?utm_source=dqhieu&utm_medium=github&utm_campaign=black-friday-2026)| Desktop website builder for Mac and Windows: write on the page, online store and bookings, publish by FTP/SFTP to any host, no subscription | **30% OFF** every paid edition with code **BLACKFRIDAY30** (Premium €99 → €69.30, e-Commerce €199 → €139.30, Studio €399 → €279.30, Nov 26 - Nov 30)|
 |🤑|[Clearpane](https://getclearpane.app/?utm_source=dqhieu-bf&utm_campaign=bf2026#pricing)| Activity Monitor in plain English for macOS: what's slowing your Mac, every process explained, and whether it's safe to quit. | **53% OFF** one-time, $19 → $9, no code needed · 2 Macs, every update (Nov 26 – Dec 1)|
+|💸|[Mole](https://mole.fit/?utm_source=dqhieu&utm_campaign=bf2026)| Native Mac cleaner and uninstaller that also clears old AI tool data and maps your disk, also on Windows | **20% OFF** one-time license, $19 to $15.20, no code needed (Nov 25 – Nov 30)|
 
 ---
 
