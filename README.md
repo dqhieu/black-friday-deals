@@ -525,6 +525,7 @@ Please follow the rules below:
 |💸|[Falconry Drive](https://falconrylabs.com/drive/)| Read and write NTFS drives on macOS 27 (Apple silicon), built on Apple's FSKit with no kernel extension. | **30% OFF** the first year with code **BLACKFRIDAY30** ($27.99 → $19.60, renews at $27.99, 14-day free trial) (Nov 26 – Dec 1)|
 |💸|[innernote](https://www.innernote.space/?utm_source=dqhieu&utm_medium=github&utm_campaign=bf2026)| LinkedIn post generator on the web that writes in your own voice. | **40% OFF** the annual plan with code **BLACKFRIDAY40** (Nov 26 – Dec 4, 2026)|
 |💸|[RouteX](https://apps.apple.com/app/id6753095851)| GPS route recording, sun tracking, and memories assistant for iOS. | **33% OFF** ($14.99 → $9.99) lifetime or free claim, no code needed (Nov 26 – Nov 30)|
+|💸|[Vergora](https://vergora.ai/activity/blackfridaypromotions?utm_source=dqhieu&utm_medium=github&utm_campaign=bf2026)| One API key for text, image and video models from multiple providers, OpenAI-compatible, with per-request usage and cost records | **Up to 36% OFF** its rate against the official provider benchmark, auto-applied, no code needed: wan3.0-video 480p official $0.0413 → $0.0263/sec (Nov 25 – Dec 2, 2026, ET)|
 
 ---
 
