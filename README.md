@@ -528,6 +528,7 @@ Please follow the rules below:
 |💸|[Vergora](https://vergora.ai/activity/blackfridaypromotions?utm_source=dqhieu&utm_medium=github&utm_campaign=bf2026)| One API key for text, image and video models from multiple providers, OpenAI-compatible, with per-request usage and cost records | **Up to 36% OFF** its rate against the official provider benchmark, auto-applied, no code needed: wan3.0-video 480p official $0.0413 → $0.0263/sec (Nov 25 – Dec 2, 2026, ET)|
 |💸|[Lunille](https://lunille.com/?ref=gh-dqhieu-bf)| Mac notch app: Luni, a little moon behind the camera, reacts to your music, AirPods and the weather (macOS 14+, Apple silicon and Intel) | **Lunille $9.99** launch price until Nov 30, then $14.99, one-time for up to 3 Macs, no code needed|
 |🤑|[BugSmash](https://bugsmash.io/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bf2026)| Visual feedback and approvals on the web: pin comments on live websites, videos, PDFs and designs; clients review from a link with no account | **50% OFF** the first year on all yearly plans with code **BLACKFRIDAY50**: Starter $228 → $114, Team $588 → $294, Agency $1,188 → $594 (Nov 25 – Nov 30)|
+|🤑|[Switchy](https://getswitchy.app/black-friday)| Menu bar utility for macOS with 31 one-click switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. | **50% OFF** one-time purchase ($4.99 → $2.49, up to 3 Macs) with code **BLACKFRIDAY50**, pre-filled by the Buy button (Nov 23 – Dec 1)|
 
 ---
 
