@@ -503,6 +503,7 @@ Please follow the rules below:
 |🤑|[Sysadmin Jobs](https://sysadminjobs.com/membership)| Find hands-on IT jobs worldwide, from supporting users at the help desk to running Linux servers and networks (web). | **50% off** lifetime Premium Membership for job seekers with code **BF26** (first 50 buyers). Search and apply free. Premium alerts you to strong matches right away and lets your AI agent search jobs through our MCP server (through Nov 30 at 11:59 p.m. PT).|
 |💸|[Vibe Island](https://vibeisland.app/?ref=dqhieu)| macOS notch panel for Claude Code, Codex, Cursor and 27 more AI coding agents. Approve, answer and jump back to the terminal. | **40% OFF** 1 Mac ($19.99 → $11.99), 2 Macs $21.99, 3 Macs $31.99, no code needed (Nov 25 – Dec 1, 2026)|
 |💸|[GenMagic](https://genmagic.co/black-friday?utm_source=dqhieu&utm_medium=github&utm_campaign=bf2026)| Pay-as-you-go AI video, image, music and voice studio and API on the web, every model on one prepaid balance | **Up to 20% extra credit** on top-ups, no code needed: $25 → $27.50, $50 → $57.50, $100 → $120 of credit · a new plan's first month adds 10% (Nov 27 – Dec 1)|
+|🤑|[intropi](https://intropi.app/black-friday)| Guided self-hypnosis for sleep, focus and the habits you want to change on iPhone, Android and the web. | **Up to 53% OFF** Premium Lifetime: $89.99 once (regularly $189.99 on iPhone/web, $149.99 on Android). US app stores and web in USD, no code needed (November 25 through December 1, 2026).|
 
 ---
 
