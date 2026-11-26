@@ -485,6 +485,7 @@ Please follow the rules below:
 |🤑|[AudioBo](https://apps.apple.com/us/app/audiobo-m4b-audiobook-maker/id6754019673?ct=bf26_dqhieu&mt=12)| Turns audio files into M4B audiobooks with proper chapters and clean metadata, ready for Apple Books, Music, CarPlay and classic iPods. | 50% OFF the app, a one-time purchase ($9.99 → $4.99), no code needed (Mac App Store price), Nov 26 - Dec 1|
 |💸|[Stepfinch](https://stepfinch.app/?utm_source=dqhieu-bf&utm_campaign=bf2026#pricing)| Mac app that turns a task you do once into a step-by-step guide with a screenshot of every click. Private info blurred, everything stays on your Mac. | **26% OFF** Lifetime, $39 → $29 once, no code needed · 3 Macs, every update (Nov 23 – Dec 1)|
 |💸|[Miget](https://miget.com/plans?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bf2026)| Cloud platform on the web: run apps, databases and workers from Git, Docker or a coding agent on one compute plan | **33% OFF** for 12 months with code **BLACKFRIDAY26**, new workspaces only (Nov 27 - Nov 30)|
+|🤑|[Uptimecheck](https://uptimecheck.com/pricing/?utm_source=dqhieu-bf&utm_medium=deal-list&utm_campaign=black-week-2026)| Uptime monitoring for websites, APIs, cron jobs and servers from 6 locations, with status pages and alerts by email, Slack, Teams, SMS and push. | **70% OFF** the first year on yearly plans, no code: Start €108 → €29, Professional €348 → €99, Business €828 → €239, excl. VAT (Nov 25 – Dec 4)|
 
 ---
 
