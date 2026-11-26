@@ -517,6 +517,7 @@ Please follow the rules below:
 |💸|[BrassWell](https://brasswell.app/black-friday)| Bookkeeping app for the self-employed on iPhone, iPad, Android and web: income, expenses, receipts, mileage and invoices | **25% OFF** the first year of Pro yearly with code **BLACKFRIDAY25** ($299 → $224.25), new subscribers only (Nov 23 – Nov 30)|
 |💸|[Loudwell](https://loudwell.app/black-friday/?s=bf-dqh)| Mac app that plans a week of social posts from a small brand's own photos and clips, writes captions with your own AI key, and posts only what you approve. | **40% OFF** the first year of either plan with code **BF40**, new customers only (Nov 27 – Dec 1)|
 |🤑|[Adstudio](https://useadstudio.com/pricing?ref=dqhieu)| AI ad management for Google Ads, Meta Ads, TikTok Ads and more: build and optimize campaigns from one web workspace | **50% OFF** the first year on yearly plans, no code needed (Nov 25 – Dec 1)|
+|🤑|[StoicSoft](https://stoicsoft.com/pricing)| 12 local-first desktop apps for one-person businesses (dev workbench, design, video, dictation, local AI, file and system tools) for macOS and Windows, most also on Linux. | **50% OFF** any single app's one-time Pro licence with code **BFDEALS50** ($29 → $14.50) · **30% OFF** any bundle with code **BFDEALSBUNDLE30** (Complete, all 12 apps, $199 → $139.30) (until Nov 29)|
 
 ---
 
