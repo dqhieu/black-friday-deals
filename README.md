@@ -525,6 +525,7 @@ Please follow the rules below:
 |💸|[Falconry Drive](https://falconrylabs.com/drive/)| Read and write NTFS drives on macOS 27 (Apple silicon), built on Apple's FSKit with no kernel extension. | **30% OFF** the first year with code **BLACKFRIDAY30** ($27.99 → $19.60, renews at $27.99, 14-day free trial) (Nov 26 – Dec 1)|
 |💸|[innernote](https://www.innernote.space/?utm_source=dqhieu&utm_medium=github&utm_campaign=bf2026)| LinkedIn post generator on the web that writes in your own voice. | **40% OFF** the annual plan with code **BLACKFRIDAY40** (Nov 26 – Dec 4, 2026)|
 |💸|[RouteX](https://apps.apple.com/app/id6753095851)| GPS route recording, sun tracking, and memories assistant for iOS. | **33% OFF** ($14.99 → $9.99) lifetime or free claim, no code needed (Nov 26 – Nov 30)|
+|🤑|[Switchy](https://getswitchy.app/black-friday)| Menu bar utility for macOS with 31 one-click switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. | **50% OFF** one-time purchase ($4.99 → $2.49, up to 3 Macs) with code **BLACKFRIDAY50**, pre-filled by the Buy button (Nov 23 – Dec 1)|
 
 ---
 
