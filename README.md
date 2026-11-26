@@ -507,6 +507,8 @@ Please follow the rules below:
 |💸|[Autentique](https://www.autentique.com.br/en)| E-signature platform on the web with unlimited documents, users and signers, plus an API | **30% OFF** the annual Professional plan ($179 → $119/year), no code needed · extra **20% OFF** with code **BFF61H8**, which stacks with the annual discount (Nov 25 – Nov 30)|
 |🤑|[FireCut](https://firecut.ai/pricing/all/)| AI video editing plugin for Premiere Pro & DaVinci Resolve (macOS, Windows) | **50% OFF** new annual plans (Max $59 → $29.50/mo, Pro $34 → $17/mo, billed yearly), no code needed (Nov 25 – Nov 30, 2026)|
 |💸|[AtAt](https://atatapp.com/black-friday?ref=dqhieu)| Call in your own AI anywhere on macOS, with built-in screenshots, OCR, clipboard history, selection bar, and voice. | **47% OFF** Lifetime ($169 → $89 once) · **34% OFF** first year ($59 → $39), no code needed (Nov 24 – Dec 15, 2026)|
+|💸|[Crabsmith](https://crabsmith.com/?ref=dqhieu)| Hosted control panel for your own Ubuntu servers (web): deploy Laravel, PHP, Node.js and Next.js over SSH with Caddy HTTPS | **40% OFF for life** on any plan with code **BLACKFRIDAY40** (Hobby $5 → $3/mo, Pro $12 → $7.20/mo, until Dec 1)|
+|💸|[Rebit Pro](https://rebit.cc/)| Play your own retro games on the web or your phone, with cloud saves and multiplayer | **40% OFF** the first year of Pro on the web ($8.99 instead of $14.99) with code **BLACKFRIDAY40** (Nov 22 – Dec 1, 2026)|
 
 ---
 
