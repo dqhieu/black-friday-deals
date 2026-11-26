@@ -513,6 +513,7 @@ Please follow the rules below:
 |🤑|[Fundalyze](https://fundalyze.ai/blackfriday)| The all-in-one research platform for US stocks on the web, every number sourced | **35% OFF forever** on Monthly/Annual with code **BF2026**, or **50% OFF** Lifetime ($1,999.99 → $999.99) with code **BFLTD1000**, new customers only (Nov 25 – Dec 1)|
 |🤑|[RecapOne](https://recapone.com/blackfriday)| One reader on the web for everything you read, with highlights that come back daily | **35% OFF forever** on Monthly/Annual with code **BF2026**, or **50% OFF** Lifetime ($399 → $199) with code **BFLTD**, new customers only (Nov 25 – Dec 1)|
 |🤑|[DoMyWork - Workspace with AI Teammates](https://domywork.ai/bf2026/)| Workspace with databases, docs, tasks, and dashboards, where your team and AI agents work together (web). | **First 3 months free** from signup for new companies, all features, whole team and unlimited agents. No card or automatic renewal; $3 starter AI credit, then AI usage via your own OpenRouter key. No code needed (sign up by Nov 30, 2026, 11:59 pm PT)|
+|💸|[holoform](https://holoform.cc/pricing?promo=BLACKFRIDAY)| Browser studio for layered trading cards and photocards with 3D holo previews and AI line art (web) | **20% OFF** all AI credit packs + 10% extra bonus credits with code **BLACKFRIDAY** (Nov 26 – Dec 1)|
 
 ---
 
