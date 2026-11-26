@@ -489,6 +489,8 @@ Please follow the rules below:
 |💸|[Screenpipe](https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=dqhieu)| Local screen and audio memory for AI agents on macOS, Windows and Linux: searchable history, skills and workflows for Claude, Codex and Cursor | **20% OFF** the first year of annual plans, Basic $250 → $200, Business $500 → $400/seat, no code needed (Nov 25 – Nov 30)|
 |💸|[KittyTrace](https://kittytrace.com/?utm_source=dqhieu-bf&utm_campaign=bf2026)| Self-hosted error tracking that works with the Sentry SDK and gives your coding agent a CLI, runs free on Cloudflare or with Docker (web) | **34% OFF** the one-time license with code **BF2026**: $29 → $19, every 1.x update included (Nov 17 - Dec 1)|
 |💸|[Shorvo](https://shorvostudio.com/?utm_source=dqhieu&utm_medium=listing&utm_campaign=bf40)| Windows desktop app that turns a script into a finished vertical YouTube Short: footage, AI voiceover and timed captions. First 3 videos free | **40% OFF** Pro Lifetime, a one-time license: $77.40 instead of $129 with code **BF40** (until Dec 10)|
+|💸|[PuzzleBind](https://puzzlebind.com/black-friday/?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026)| Printable word search, Sudoku and maze maker that exports whole KDP-ready puzzle books (web). | **$14** one-time (regular $19) through Nov 30, no code needed|
+|💸|[Valenx Interview Bundle](https://valenx.org/go/bf-bundle?utm_source=github&utm_medium=awesome_list&utm_campaign=bf2026)| PM, AI engineer and data science interview playbooks (digital books). | **30% OFF** with code **BF30**|
 
 ---
 
