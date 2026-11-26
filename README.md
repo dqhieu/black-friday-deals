@@ -506,6 +506,7 @@ Please follow the rules below:
 |🤑|[intropi](https://intropi.app/black-friday)| Guided self-hypnosis for sleep, focus and the habits you want to change on iPhone, Android and the web. | **Up to 53% OFF** Premium Lifetime: $89.99 once (regularly $189.99 on iPhone/web, $149.99 on Android). US app stores and web in USD, no code needed (Nov 25 – Dec 1, 2026)|
 |💸|[Autentique](https://www.autentique.com.br/en)| E-signature platform on the web with unlimited documents, users and signers, plus an API | **30% OFF** the annual Professional plan ($179 → $119/year), no code needed · extra **20% OFF** with code **BFF61H8**, which stacks with the annual discount (Nov 25 – Nov 30)|
 |🤑|[FireCut](https://firecut.ai/pricing/all/)| AI video editing plugin for Premiere Pro & DaVinci Resolve (macOS, Windows) | **50% OFF** new annual plans (Max $59 → $29.50/mo, Pro $34 → $17/mo, billed yearly), no code needed (Nov 25 – Nov 30, 2026)|
+|🤑|[StoicSoft](https://stoicsoft.com/pricing)| 12 local-first desktop apps for one-person businesses (dev workbench, design, video, dictation, local AI, file and system tools) for macOS and Windows, most also on Linux. | **50% OFF** any single app's one-time Pro licence with code **BFDEALS50** ($29 → $14.50) · **30% OFF** any bundle with code **BFDEALSBUNDLE30** (Complete, all 12 apps, $199 → $139.30) (until Nov 29)|
 
 ---
 
