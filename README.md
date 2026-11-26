@@ -486,6 +486,7 @@ Please follow the rules below:
 |💸|[Stepfinch](https://stepfinch.app/?utm_source=dqhieu-bf&utm_campaign=bf2026#pricing)| Mac app that turns a task you do once into a step-by-step guide with a screenshot of every click. Private info blurred, everything stays on your Mac. | **26% OFF** Lifetime, $39 → $29 once, no code needed · 3 Macs, every update (Nov 23 – Dec 1)|
 |💸|[Miget](https://miget.com/plans?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bf2026)| Cloud platform on the web: run apps, databases and workers from Git, Docker or a coding agent on one compute plan | **33% OFF** for 12 months with code **BLACKFRIDAY26**, new workspaces only (Nov 27 - Nov 30)|
 |🤑|[Uptimecheck](https://uptimecheck.com/pricing/?utm_source=dqhieu-bf&utm_medium=deal-list&utm_campaign=black-week-2026)| Uptime monitoring for websites, APIs, cron jobs and servers from 6 locations, with status pages and alerts by email, Slack, Teams, SMS and push. | **70% OFF** the first year on yearly plans, no code: Start €108 → €29, Professional €348 → €99, Business €828 → €239, excl. VAT (Nov 25 – Dec 4)|
+|💸|[Screenpipe](https://screenpipe.com/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black_friday_2026&utm_content=dqhieu)| Local screen and audio memory for AI agents on macOS, Windows and Linux: searchable history, skills and workflows for Claude, Codex and Cursor | **20% OFF** the first year of annual plans, Basic $250 → $200, Business $500 → $400/seat, no code needed (Nov 25 – Nov 30)|
 
 ---
 
