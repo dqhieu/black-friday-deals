@@ -506,6 +506,8 @@ Please follow the rules below:
 |🤑|[intropi](https://intropi.app/black-friday)| Guided self-hypnosis for sleep, focus and the habits you want to change on iPhone, Android and the web. | **Up to 53% OFF** Premium Lifetime: $89.99 once (regularly $189.99 on iPhone/web, $149.99 on Android). US app stores and web in USD, no code needed (Nov 25 – Dec 1, 2026)|
 |💸|[Autentique](https://www.autentique.com.br/en)| E-signature platform on the web with unlimited documents, users and signers, plus an API | **30% OFF** the annual Professional plan ($179 → $119/year), no code needed · extra **20% OFF** with code **BFF61H8**, which stacks with the annual discount (Nov 25 – Nov 30)|
 |🤑|[FireCut](https://firecut.ai/pricing/all/)| AI video editing plugin for Premiere Pro & DaVinci Resolve (macOS, Windows) | **50% OFF** new annual plans (Max $59 → $29.50/mo, Pro $34 → $17/mo, billed yearly), no code needed (Nov 25 – Nov 30, 2026)|
+|🤑|[Fundalyze](https://fundalyze.ai/blackfriday)| The all-in-one research platform for US stocks on the web, every number sourced | **35% OFF forever** on Monthly/Annual with code **BF2026**, or **50% OFF** Lifetime ($1,999.99 → $999.99) with code **BFLTD1000**, new customers only (Nov 25 – Dec 1)|
+|🤑|[RecapOne](https://recapone.com/blackfriday)| One reader on the web for everything you read, with highlights that come back daily | **35% OFF forever** on Monthly/Annual with code **BF2026**, or **50% OFF** Lifetime ($399 → $199) with code **BFLTD**, new customers only (Nov 25 – Dec 1)|
 
 ---
 
