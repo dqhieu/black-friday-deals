@@ -544,6 +544,7 @@ Please follow the rules below:
 |🤑|[Startup Buffer](https://startupbuffer.com/promote?utm_source=dqhieu&amp;utm_medium=github&amp;utm_campaign=bf2026)| Startup directory on the web with 33,000+ listings; homepage features put your product in front of people browsing new startups | **50% OFF** homepage features, no code needed: 2 weeks $49 → $24.50, 3 months $299 → $149.50 (Nov 26 – Dec 4)|
 |🤑|[LogoGoGo](https://logogogo.app/?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bf2026)| Web app for logo & brand designers: drop 1 master SVG to generate every color version, vector/PNG/favicon export, and a permanent branded client portal | **50% OFF** Annual Pro ($190 → $95/yr) & Studio ($490 → $245/yr) with code **BF50** (Nov 26 – Nov 30, 2026)|
 |🤑|[LeadMerlin](https://leadmerlin.com/black-friday/?utm_source=dqhieu&utm_medium=referral&utm_campaign=bf2026)| Local business leads from Google Maps with owner names and checked emails, on the web, via API, agent skill or MCP | **60% OFF** the first payment with code **BF2026**: first month on monthly, the whole first year on yearly (Starter $39 → $15.60 first month, $348 → $139.20 first year) · first 100 redemptions (until Dec 2)|
+|💸|[Sky OS AI](https://skyrunapp.com/?src=gh-black-friday-deals)| AI that does the work on your Mac: ask from your phone or the web and it uses your apps, files and browser, showing each step | **30% OFF** the first month of a new monthly plan, no code needed (Nov 26 – Nov 30, ends 11:59 pm ET)|
 
 ---
 
