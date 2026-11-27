@@ -547,6 +547,7 @@ Please follow the rules below:
 |💸|[Sky OS AI](https://skyrunapp.com/?src=gh-black-friday-deals)| AI that does the work on your Mac: ask from your phone or the web and it uses your apps, files and browser, showing each step | **30% OFF** the first month of a new monthly plan, no code needed (Nov 26 – Nov 30, ends 11:59 pm ET)|
 |🤑|[Finance Three: Budget Tracker](https://zhorzhua.studio/blackfriday/)| Daily budget for iPhone with one number for today, no bank login, no account, no ads | **50% OFF** Plus: Lifetime ~~$39.99~~ $19.99 (in-app, no code needed) or Annual 1st yr ~~$24.99~~ $12.49 (one-tap redeem link on page) (Nov 27 – Dec 1)|
 |🤑|[Oriel: Habit Tracker](https://zhorzhua.studio/blackfriday/)| Visual habit tracker for iPhone where habits light up windows in a growing tower, no streak resets, no accounts, no ads | **50% OFF** Plus: Forever ~~$34.99~~ $17.49 or Annual 1st yr ~~$14.99~~ $7.49 (one-tap redeem links on page) (Nov 27 – Dec 1)|
+|🤑|[Channel Surfer](https://channelsurfer.tv/upgrade/?code=BLACKFRIDAY50)| Turn YouTube channels and playlists into a TV guide you can flip through in your browser. | **50% OFF** Supporter Monthly with code **BLACKFRIDAY50** (US$4.50/month for six months, then US$9/month) for accounts without an active paid subscription (Nov 27 – Nov 30)|
 
 ---
 
