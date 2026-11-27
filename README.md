@@ -567,6 +567,9 @@ Please follow the rules below:
 |💸|[SpeedPlayer](https://apps.apple.com/us/app/speedplayer-play-slow-fast/id6762168595)| Video player for iPhone and iPad with fine playback-speed control and A–B looping for practice. | **Pro Lifetime discount worldwide** (one-time in-app purchase), no code needed. U.S. example: **US$24.99 → US$19.99** (20% off); local prices vary. (Ends November 28, 2026 at 23:59:59 UTC) |
 |💸|[Voxipaw](https://voxipaw.kionesis.com/?utm_source=dqhieu)| Focus timer in the browser with a voxel pet (puppy, kitten, bunny, capybara, otter or crocodile) that grows up while you focus | **51% OFF** Lifetime Plus ($99.99 → $49), no code needed (until Dec 1)|
 |💸|[Nearleaf](https://nearleaf.page)| A note app with just one note: open it and start typing. Free on iPhone, iPad, Android, Mac and the web | **33% OFF** your first year of Pro Yearly ($14.99 → $9.99, then $14.99 a year), no code needed, new subscribers only (Nov 27 – Nov 30)|
+|💸|[Foca](https://foca.work/)| A calm Pomodoro timer for iPhone and Mac, with ambient sounds and guided stretch breaks. Foca for iPhone and Foca for Mac are separate Lifetime purchases. | **Lifetime $14.99 → $7.99** (US App Store), no code needed (Nov 27 – Dec 1)|
+|💸|[Dayfold](https://foca.work/dayfold.html)| Countdown and anniversary widgets for iPhone. Pin birthdays, trips and other moments as cards on your Home Screen and Lock Screen. | **Lifetime $14.99 → $7.99** (US App Store), no code needed (Nov 27 – Dec 1)|
+|💸|[Core: Interval & HIIT Timer](https://foca.work/core.html)| An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout. | **Lifetime $14.99 → $7.99** (US App Store), no code needed (Nov 27 – Dec 1)|
 
 ---
 
