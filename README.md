@@ -578,6 +578,7 @@ Please follow the rules below:
 |💸|[WoopSocial](https://www.woopsocial.com/pricing?ref=black-friday-deals)| Let Claude, ChatGPT or any AI agent post to 9 social networks through one API and MCP (web). | **30% OFF** Pro or Business for 12 months with code **BFCM2026** (Nov 26 – Dec 1)|
 |💸|[FlowLister](https://flowlister.com/black-friday/?ref=black-friday-deals)| AI eBay listing tool for resellers: photo to title, item specifics and price (web, iPhone app). | **~25% OFF** a full year paid once (Starter $179.99, Pro $449.99) plus free Poshmark and Mercari crosslisting for 12 months, no code needed (Nov 27 – Dec 1)|
 |🤑|[BlueChimp](https://www.blue-chimp.com/pricing?ref=black-friday-deals)| Warm B2B lead finder: buyer intent signals matched with your LinkedIn network, plus an MCP server for ChatGPT and Claude (web). | **50% OFF** Growth and Dealflow plans (6 months monthly, 1 year annual) with code **BFIntent** (Nov 27 – Nov 29)|
+|💸|[Notra](https://www.usenotra.com/pricing)| AI visibility tracking (web): see whether ChatGPT, Claude, Gemini, Copilot and Google AI recommend your brand, and write content that gets cited. | **25% OFF** every paid plan for the first 6 months (from $75/mo, normally $100), new customers on monthly billing, no code needed (until Dec 2, 23:59 GMT)|
 
 ---
 
