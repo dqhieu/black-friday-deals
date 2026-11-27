@@ -578,6 +578,7 @@ Please follow the rules below:
 |💸|[WoopSocial](https://www.woopsocial.com/pricing?ref=black-friday-deals)| Let Claude, ChatGPT or any AI agent post to 9 social networks through one API and MCP (web). | **30% OFF** Pro or Business for 12 months with code **BFCM2026** (Nov 26 – Dec 1)|
 |💸|[FlowLister](https://flowlister.com/black-friday/?ref=black-friday-deals)| AI eBay listing tool for resellers: photo to title, item specifics and price (web, iPhone app). | **~25% OFF** a full year paid once (Starter $179.99, Pro $449.99) plus free Poshmark and Mercari crosslisting for 12 months, no code needed (Nov 27 – Dec 1)|
 |🤑|[BlueChimp](https://www.blue-chimp.com/pricing?ref=black-friday-deals)| Warm B2B lead finder: buyer intent signals matched with your LinkedIn network, plus an MCP server for ChatGPT and Claude (web). | **50% OFF** Growth and Dealflow plans (6 months monthly, 1 year annual) with code **BFIntent** (Nov 27 – Nov 29)|
+|💸|[iKnow Suite: iKnowMyMac + iKnowMyDisplay](https://iknowmymac.com/?utm_source=dqhieu#pricing)| Two native menu bar apps for Apple silicon Macs on one key: Mac activity with history, and the display controls macOS hides | **25% OFF** the iKnow Suite, one-time: $7.99 → $5.99, no code needed, while launch licences last (Nov 27 – Dec 1)|
 
 ---
 
