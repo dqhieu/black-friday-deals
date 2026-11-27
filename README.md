@@ -529,6 +529,7 @@ Please follow the rules below:
 |💸|[Lunille](https://lunille.com/?ref=gh-dqhieu-bf)| Mac notch app: Luni, a little moon behind the camera, reacts to your music, AirPods and the weather (macOS 14+, Apple silicon and Intel) | **Lunille $9.99** launch price until Nov 30, then $14.99, one-time for up to 3 Macs, no code needed|
 |🤑|[BugSmash](https://bugsmash.io/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bf2026)| Visual feedback and approvals on the web: pin comments on live websites, videos, PDFs and designs; clients review from a link with no account | **50% OFF** the first year on all yearly plans with code **BLACKFRIDAY50**: Starter $228 → $114, Team $588 → $294, Agency $1,188 → $594 (Nov 25 – Nov 30)|
 |🤑|[Switchy](https://getswitchy.app/black-friday)| Menu bar utility for macOS with 31 one-click switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. | **50% OFF** one-time purchase ($4.99 → $2.49, up to 3 Macs) with code **BLACKFRIDAY50**, pre-filled by the Buy button (Nov 23 – Dec 1)|
+|🤑|[PLANE.DEALS](https://plane.deals/black-friday)| Email alerts for cheap flights from your US airports, with bag limits on every deal. Web app. | **First month free** on monthly plans with code **BFMONTHFREE** (Pro $10/mo, Elite $30/mo) · **25% OFF** the first year of annual plans with code **BLACKFRIDAY25** (Pro $49 → $36.75, Elite $149 → $111.75) · renews at the regular price (until Nov 30, 11:59 p.m. Pacific)|
 
 ---
 
