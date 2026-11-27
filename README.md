@@ -534,6 +534,7 @@ Please follow the rules below:
 |🤑|[Exploring Java Libraries: A Developer's Guide (Volume 2) (Leanpub)](https://leanpub.com/java-libraries-guide-2/c/BLACKFRIDAY50) ([Gumroad](https://solisdynamics.gumroad.com/l/java-libraries-guide-2))| Advanced guide covering 200+ Java libraries for Performance, Networking, Data Processing, and Architecture | **50% OFF** with code **BLACKFRIDAY50** ($19.99 → $10.00, Nov 25 – Dec 10, 2026)|
 |🤑|[Exit Loop](https://www.exitloop.app/black-friday)| Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe (web). | **50% OFF** the first year of the yearly plan ($149 → $74.50) with code **BLACKFRIDAY50** (Nov 26 – Dec 1, new customers only)|
 |💸|[XeOS: External Display Desktop](https://apps.apple.com/us/app/xeos-external-display-desktop/id6758286241)| Desktop mode for iPhone and iPad: windows, files, mouse and keyboard and a real browser on any monitor, TV or projector | **25% OFF** lifetime ($39.99 → $29.99) with code **XEOSREDDIT** (Nov 27 – Dec 1)|
+|🤑|[Astrolinks](https://astrolinks.org/black-friday/)| Automatic time tracking by client for Mac and Windows: writes your end-of-day client reports and invoices, no screenshots | **60% OFF** the first year of Pro Yearly with code **BF60YEAR**, applied at checkout ($90 → $36, US price; local prices vary) (Nov 26 – Dec 1)|
 
 ---
 
