@@ -545,6 +545,8 @@ Please follow the rules below:
 |🤑|[LogoGoGo](https://logogogo.app/?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bf2026)| Web app for logo & brand designers: drop 1 master SVG to generate every color version, vector/PNG/favicon export, and a permanent branded client portal | **50% OFF** Annual Pro ($190 → $95/yr) & Studio ($490 → $245/yr) with code **BF50** (Nov 26 – Nov 30, 2026)|
 |🤑|[LeadMerlin](https://leadmerlin.com/black-friday/?utm_source=dqhieu&utm_medium=referral&utm_campaign=bf2026)| Local business leads from Google Maps with owner names and checked emails, on the web, via API, agent skill or MCP | **60% OFF** the first payment with code **BF2026**: first month on monthly, the whole first year on yearly (Starter $39 → $15.60 first month, $348 → $139.20 first year) · first 100 redemptions (until Dec 2)|
 |💸|[Sky OS AI](https://skyrunapp.com/?src=gh-black-friday-deals)| AI that does the work on your Mac: ask from your phone or the web and it uses your apps, files and browser, showing each step | **30% OFF** the first month of a new monthly plan, no code needed (Nov 26 – Nov 30, ends 11:59 pm ET)|
+|🤑|[Finance Three: Budget Tracker](https://zhorzhua.studio/blackfriday/)| Daily budget for iPhone with one number for today, no bank login, no account, no ads | **50% OFF** Plus: Lifetime ~~$39.99~~ $19.99 (in-app, no code needed) or Annual 1st yr ~~$24.99~~ $12.49 (one-tap redeem link on page) (Nov 27 – Dec 1)|
+|🤑|[Oriel: Habit Tracker](https://zhorzhua.studio/blackfriday/)| Visual habit tracker for iPhone where habits light up windows in a growing tower, no streak resets, no accounts, no ads | **50% OFF** Plus: Forever ~~$34.99~~ $17.49 or Annual 1st yr ~~$14.99~~ $7.49 (one-tap redeem links on page) (Nov 27 – Dec 1)|
 
 ---
 
