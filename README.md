@@ -535,6 +535,7 @@ Please follow the rules below:
 |🤑|[Exit Loop](https://www.exitloop.app/black-friday)| Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe (web). | **50% OFF** the first year of the yearly plan ($149 → $74.50) with code **BLACKFRIDAY50** (Nov 26 – Dec 1, new customers only)|
 |💸|[XeOS: External Display Desktop](https://apps.apple.com/us/app/xeos-external-display-desktop/id6758286241)| Desktop mode for iPhone and iPad: windows, files, mouse and keyboard and a real browser on any monitor, TV or projector | **25% OFF** lifetime ($39.99 → $29.99) with code **XEOSREDDIT** (Nov 27 – Dec 1)|
 |🤑|[Astrolinks](https://astrolinks.org/black-friday/)| Automatic time tracking by client for Mac and Windows: writes your end-of-day client reports and invoices, no screenshots | **60% OFF** the first year of Pro Yearly with code **BF60YEAR**, applied at checkout ($90 → $36, US price; local prices vary) (Nov 26 – Dec 1)|
+|🤑|[MailSketch](https://mailsketch.com/?utm_source=dqhieu&utm_medium=directory&utm_campaign=bf2026)| Email builder on the web: 1,200+ templates, drag-and-drop editing, 60+ pre-send checks, export to any email platform. | **60% OFF** the first year of any yearly plan with code **BLACKFRIDAY60** ($144 → $57.60), then the regular price · also lifetime plans from $99, paid once, no code needed (Nov 26 – Dec 6)|
 
 ---
 
