@@ -572,6 +572,8 @@ Please follow the rules below:
 |💸|[Core: Interval & HIIT Timer](https://foca.work/core.html)| An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout. | **Lifetime $14.99 → $7.99** (US App Store), no code needed (Nov 27 – Dec 1)|
 |💸|[KopiaLens](https://kopialens.com/pricing?utm_source=gh-dqhieu-bf)| Free, open-source backup app that shows what's eating your backup space and helps you clean it out | **30% OFF** Pro with code **BLACKFRIDAY2026**: lifetime $50 → $35, first year $14 instead of $20 (Nov 27 – Jan 1)|
 |🤑|[Wireway](https://wireway.dev/black-friday/)| Native macOS HTTPS proxy (Linux & Windows soon): Charles/Proxyman alternative with a built-in MCP server for AI agents. | **75% OFF** first year of Pro (€39.99 → €9.99, perpetual fallback, 2 Macs) with code **BF2026**, pre-applied on the offer page (Nov 27 – Dec 1)|
+|💸|[SILVER: Black & White Camera](https://apps.apple.com/app/id6813106996?pt=128535281&ct=bf26-dqhieu)| Black-and-white film camera and private photo journal for iPhone and iPad, no subscription. | **40% OFF** SILVER Pro one-time unlock ($4.99 → $2.99 on the US App Store), no code needed (Nov 26 – Dec 1)|
+|💸|[Fridge: Lock Screen Notes](https://apps.apple.com/app/id6794317782?pt=128535281&ct=bf26-dqhieu)| Shopping list or to-do note on your iPhone Lock Screen that you tick off without unlocking. | **40% OFF** Fridge Plus Lifetime ($4.99 → $2.99 on the US App Store), no code needed (Nov 26 – Dec 1)|
 
 ---
 
