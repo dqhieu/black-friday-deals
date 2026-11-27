@@ -560,6 +560,10 @@ Please follow the rules below:
 |💸|[CleanStorage](https://cleanstorage.sawirstudio.com/black-friday-2026/?utm_source=dqhieu-bf)| Finds duplicate photos, large videos and files, and repeated contacts on iPhone, checked on the device | **37% OFF** Pro one-time unlock ($7.99 → $4.99), no code needed (Nov 27 – Nov 30)|
 |💸|[Squishu](https://squishu.sawirstudio.com/black-friday-2026/?utm_source=dqhieu-bf)| Cozy dumpling-squishing game for iPhone, iPad and Apple Watch, with a 15-second daily round | **40% OFF** Squishu+ one-time upgrade ($4.99 → $2.99), no code needed (Nov 27 – Dec 1)|
 |💸|[Pawlitics](https://pawlitics.sawirstudio.com/black-friday-2026/?utm_source=dqhieu-bf)| Cozy cartoon politics game for iPhone and iPad: govern a town of animals and win re-election | **40% OFF** the Full Game unlock ($4.99 → $2.99), no code needed (Nov 26 – Dec 1)|
+|🤑|[Progressio](https://progressiostudio.com/progressio)| Habit tracker for iPhone, iPad and Apple Watch that fills in habits from Apple Health. Also on Android. | **50% OFF** Pro Lifetime on the App Store ($19.99 → $9.99), no code needed (Nov 27 – Nov 30)|
+|🤑|[Clock Widget+](https://apps.apple.com/us/app/clock-widget/id6664064747)| Customizable clock widgets for iPhone and iPad home and lock screens. Also on Android. | **50% OFF** Lifetime on the App Store and Google Play ($19.99 → $9.99), no code needed (Nov 27 – Nov 30)|
+|🤑|[Tempo](https://apps.apple.com/us/app/tempo-workout-tracker-log/id6757211772)| Workout log and gym tracker for iPhone with muscle recovery and readiness scores. Also on Android. | **Up to 50% OFF** Pro Lifetime: App Store $12.99 → $6.99, Google Play $29.99 → $14.99, no code needed (Nov 27 – Nov 30)|
+|💸|[App Screenshots](https://apps.apple.com/us/app/app-screenshots-store-maker/id6759480229)| Design App Store screenshots on iPhone and iPad with templates, AI help and 40+ language translation. | **43% OFF** on the App Store ($6.99 → $3.99), no code needed (Nov 27 – Nov 30)|
 
 ---
 
