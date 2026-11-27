@@ -574,6 +574,7 @@ Please follow the rules below:
 |🤑|[Wireway](https://wireway.dev/black-friday/)| Native macOS HTTPS proxy (Linux & Windows soon): Charles/Proxyman alternative with a built-in MCP server for AI agents. | **75% OFF** first year of Pro (€39.99 → €9.99, perpetual fallback, 2 Macs) with code **BF2026**, pre-applied on the offer page (Nov 27 – Dec 1)|
 |💸|[SILVER: Black & White Camera](https://apps.apple.com/app/id6813106996?pt=128535281&ct=bf26-dqhieu)| Black-and-white film camera and private photo journal for iPhone and iPad, no subscription. | **40% OFF** SILVER Pro one-time unlock ($4.99 → $2.99 on the US App Store), no code needed (Nov 26 – Dec 1)|
 |💸|[Fridge: Lock Screen Notes](https://apps.apple.com/app/id6794317782?pt=128535281&ct=bf26-dqhieu)| Shopping list or to-do note on your iPhone Lock Screen that you tick off without unlocking. | **40% OFF** Fridge Plus Lifetime ($4.99 → $2.99 on the US App Store), no code needed (Nov 26 – Dec 1)|
+|🔔|[HeadsUp](https://headsup.bot/black-friday?ref=hieu)| AI competitive intelligence agent. Watches your competitors' websites and tells you the day they change pricing, features or messaging. | **Lifetime deal**, pay once: Pro (13 competitors) ~~$468/yr~~ **$349 once**, Solo **$199**, Team **$599**. Until Nov 30, 2026 |
 
 ---
 
