@@ -14,6 +14,7 @@ Please follow the rules below:
 ## Deals
 |  | Name | Description | Deal details |
 |--|------|-------------|--------------|
+|🤑|[CropGuide](https://cropguide.io)| Magically adds an image editor to your file upload fields and lets users crop their photos before upload | 50% OFF yearly plans with code **BF26** |
 |💸|[Compresto](https://compresto.app/?ref=black-friday-deals)| Video, Image & PDF Compression for macOS | 40% OFF with code **BFCM26**|
 |💸|[Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378)| Step counter and workout tracker for iPhone and Apple Watch — featured by Apple. | 40% OFF lifetime with code **BFCM26**, 40% OFF lifetime family sharing with code **BFCM26FAMILY**|
 |💸|[Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735)| Fully automatic expense tracking on iPhone. | 40% OFF first year with code **BFCM26**|
