@@ -552,6 +552,7 @@ Please follow the rules below:
 |🤑|[PLANE.DEALS](https://plane.deals/black-friday)| Email alerts for cheap flights from your US airports, with bag limits on every deal. Web app. | **First month free** on monthly plans with code **BFMONTHFREE** (Pro $10/mo, Elite $30/mo) · **25% OFF** the first year of annual plans with code **BLACKFRIDAY25** (Pro $49 → $36.75, Elite $149 → $111.75) · renews at the regular price (until Nov 30, 11:59 p.m. Pacific)|
 |💸|[Yado](https://yado.house/?utm_source=dqhieu&utm_campaign=bf2026)| Native Mac app that cleans up an iPhone from the Mac: duplicate photos, large videos and unused apps | **20% OFF** one-time license, $19 to $15.20, no code needed (Nov 25 – Nov 30)|
 |💸|[Pake](https://pake.run/?utm_source=dqhieu&utm_campaign=bf2026)| Turns any website into a lightweight desktop app on Mac, Windows and Linux, from the maker of the open-source Pake CLI | **20% OFF** one-time license, $19 to $15.20, no code needed (Nov 25 – Nov 30)|
+|💸|[Krevaya](https://krevaya.com/black-friday/?ref=black-friday-deals)| Web app to design social posts (images, carousels, videos) and schedule them to 34 channels | **30% OFF** the first year of any plan, or a **lifetime plan** for $199 (Essentials) / $499 (Plus), one payment, first 100 buyers · no code needed (lifetime until Nov 30 · 30% until Dec 4)|
 
 ---
 
