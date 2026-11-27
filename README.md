@@ -532,6 +532,7 @@ Please follow the rules below:
 |🤑|[PasteNotch](https://pastenotch.com/black-friday)| Clipboard manager for macOS that lives in your notch: every clip searchable, one shortcut away. | **50% OFF** one-time purchase ($4.99 → $2.49) with code **BLACKFRIDAY50**, pre-filled by the Buy button, new purchases only (Nov 23 – Dec 1)|
 |🤑|[Exploring Java Libraries: A Developer's Guide (Volume 1) (Leanpub)](https://leanpub.com/java-libraries-guide-1/c/BLACKFRIDAY50) ([Gumroad](https://solisdynamics.gumroad.com/l/java-libraries-guide-1))| Practical guide covering 250 Java libraries for Core Systems, NIO, Concurrency, and JVM internals | **50% OFF** with code **BLACKFRIDAY50** ($19.99 → $10.00, Nov 25 – Dec 10, 2026)|
 |🤑|[Exploring Java Libraries: A Developer's Guide (Volume 2) (Leanpub)](https://leanpub.com/java-libraries-guide-2/c/BLACKFRIDAY50) ([Gumroad](https://solisdynamics.gumroad.com/l/java-libraries-guide-2))| Advanced guide covering 200+ Java libraries for Performance, Networking, Data Processing, and Architecture | **50% OFF** with code **BLACKFRIDAY50** ($19.99 → $10.00, Nov 25 – Dec 10, 2026)|
+|🤑|[Exit Loop](https://www.exitloop.app/black-friday)| Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe (web). | **50% OFF** the first year of the yearly plan ($149 → $74.50) with code **BLACKFRIDAY50** (Nov 26 – Dec 1, new customers only)|
 
 ---
 
