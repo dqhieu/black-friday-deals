@@ -529,8 +529,8 @@ Please follow the rules below:
 |💸|[Lunille](https://lunille.com/?ref=gh-dqhieu-bf)| Mac notch app: Luni, a little moon behind the camera, reacts to your music, AirPods and the weather (macOS 14+, Apple silicon and Intel) | **Lunille $9.99** launch price until Nov 30, then $14.99, one-time for up to 3 Macs, no code needed|
 |🤑|[BugSmash](https://bugsmash.io/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bf2026)| Visual feedback and approvals on the web: pin comments on live websites, videos, PDFs and designs; clients review from a link with no account | **50% OFF** the first year on all yearly plans with code **BLACKFRIDAY50**: Starter $228 → $114, Team $588 → $294, Agency $1,188 → $594 (Nov 25 – Nov 30)|
 |🤑|[Switchy](https://getswitchy.app/black-friday)| Menu bar utility for macOS with 31 one-click switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. | **50% OFF** one-time purchase ($4.99 → $2.49, up to 3 Macs) with code **BLACKFRIDAY50**, pre-filled by the Buy button (Nov 23 – Dec 1)|
-|💸|[Yado](https://yado.house/?utm_source=dqhieu&utm_campaign=bf2026)| Native Mac app that cleans up an iPhone from the Mac: duplicate photos, large videos and unused apps | **20% OFF** one-time license, $19 to $15.20, no code needed (Nov 25 – Dec 30)|
-|💸|[Pake](https://pake.run/?utm_source=dqhieu&utm_campaign=bf2026)| Turns any website into a lightweight desktop app on Mac, Windows and Linux, from the maker of the open-source Pake CLI | **20% OFF** one-time license, $19 to $15.20, no code needed (Nov 25 – Dec 15)|
+|💸|[Yado](https://yado.house/?utm_source=dqhieu&utm_campaign=bf2026)| Native Mac app that cleans up an iPhone from the Mac: duplicate photos, large videos and unused apps | **20% OFF** one-time license, $19 to $15.20, no code needed (Nov 25 – Nov 30)|
+|💸|[Pake](https://pake.run/?utm_source=dqhieu&utm_campaign=bf2026)| Turns any website into a lightweight desktop app on Mac, Windows and Linux, from the maker of the open-source Pake CLI | **20% OFF** one-time license, $19 to $15.20, no code needed (Nov 25 – Nov 30)|
 
 ---
 
