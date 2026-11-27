@@ -529,6 +529,7 @@ Please follow the rules below:
 |💸|[Lunille](https://lunille.com/?ref=gh-dqhieu-bf)| Mac notch app: Luni, a little moon behind the camera, reacts to your music, AirPods and the weather (macOS 14+, Apple silicon and Intel) | **Lunille $9.99** launch price until Nov 30, then $14.99, one-time for up to 3 Macs, no code needed|
 |🤑|[BugSmash](https://bugsmash.io/pricing?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bf2026)| Visual feedback and approvals on the web: pin comments on live websites, videos, PDFs and designs; clients review from a link with no account | **50% OFF** the first year on all yearly plans with code **BLACKFRIDAY50**: Starter $228 → $114, Team $588 → $294, Agency $1,188 → $594 (Nov 25 – Nov 30)|
 |🤑|[Switchy](https://getswitchy.app/black-friday)| Menu bar utility for macOS with 31 one-click switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits. | **50% OFF** one-time purchase ($4.99 → $2.49, up to 3 Macs) with code **BLACKFRIDAY50**, pre-filled by the Buy button (Nov 23 – Dec 1)|
+|🤑|[Staxa](https://staxa.dev/#pricing)| Hosting for SaaS with an isolated app, database, subdomain and SSL per customer (web, API). | **50% OFF** the first 3 months of Starter or Growth with code **STAXABF50** (Nov 27 – Nov 30), new subscriptions, first 100 customers|
 
 ---
 
