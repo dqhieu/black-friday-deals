@@ -542,6 +542,7 @@ Please follow the rules below:
 |💸|[BatchShift](https://tidyware.app/batchshift/)| Batch-convert HEIC and WebP folders to JPG or PNG on Mac: resize, compress, remove GPS | **30% OFF** ($9 → $6.30), code **BF2026** applied automatically at checkout (until Dec 1)|
 |💸|[Awakelet](https://tidyware.app/awakelet/)| Menu bar app for macOS that keeps your Mac awake for a set time, until an app quits or downloads finish | **30% OFF** ($9 → $6.30), code **BF2026** applied automatically at checkout (until Dec 1)|
 |🤑|[Startup Buffer](https://startupbuffer.com/promote?utm_source=dqhieu&amp;utm_medium=github&amp;utm_campaign=bf2026)| Startup directory on the web with 33,000+ listings; homepage features put your product in front of people browsing new startups | **50% OFF** homepage features, no code needed: 2 weeks $49 → $24.50, 3 months $299 → $149.50 (Nov 26 – Dec 4)|
+|🤑|[LogoGoGo](https://logogogo.app/?utm_source=dqhieu&utm_medium=deal-list&utm_campaign=bf2026)| Web app for logo & brand designers: drop 1 master SVG to generate every color version, vector/PNG/favicon export, and a permanent branded client portal | **50% OFF** Annual Pro ($190 → $95/yr) & Studio ($490 → $245/yr) with code **BF50** (Nov 26 – Nov 30, 2026)|
 
 ---
 
