@@ -565,6 +565,7 @@ Please follow the rules below:
 |🤑|[Tempo](https://apps.apple.com/us/app/tempo-workout-tracker-log/id6757211772)| Workout log and gym tracker for iPhone with muscle recovery and readiness scores. Also on Android. | **Up to 50% OFF** Pro Lifetime: App Store $12.99 → $6.99, Google Play $29.99 → $14.99, no code needed (Nov 27 – Nov 30)|
 |💸|[App Screenshots](https://apps.apple.com/us/app/app-screenshots-store-maker/id6759480229)| Design App Store screenshots on iPhone and iPad with templates, AI help and 40+ language translation. | **43% OFF** on the App Store ($6.99 → $3.99), no code needed (Nov 27 – Nov 30)|
 |💸|[SpeedPlayer](https://apps.apple.com/us/app/speedplayer-play-slow-fast/id6762168595)| Video player for iPhone and iPad with fine playback-speed control and A–B looping for practice. | **Pro Lifetime discount worldwide** (one-time in-app purchase), no code needed. U.S. example: **US$24.99 → US$19.99** (20% off); local prices vary. (Ends November 28, 2026 at 23:59:59 UTC) |
+|💸|[Voxipaw](https://voxipaw.kionesis.com/?utm_source=dqhieu)| Focus timer in the browser with a voxel pet (puppy, kitten, bunny, capybara, otter or crocodile) that grows up while you focus | **51% OFF** Lifetime Plus ($99.99 → $49), no code needed (until Dec 1)|
 
 ---
 
