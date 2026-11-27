@@ -550,6 +550,8 @@ Please follow the rules below:
 |🤑|[Channel Surfer](https://channelsurfer.tv/upgrade/?code=BLACKFRIDAY50)| Turn YouTube channels and playlists into a TV guide you can flip through in your browser. | **50% OFF** Supporter Monthly with code **BLACKFRIDAY50** (US$4.50/month for six months, then US$9/month) for accounts without an active paid subscription (Nov 27 – Nov 30)|
 |🤑|[AI Teleprompter](https://aiteleprompterapp.com)| Voice-follow teleprompter for iPhone and iPad: the script scrolls as you speak, with floating mode and one-tap recording | **50% OFF** Annual first year $19.99 (was $39.99) and Lifetime $24.99 (was $49.99), no code needed, auto-applied (Nov 20 – Jan 1), new subscribers only|
 |🤑|[PLANE.DEALS](https://plane.deals/black-friday)| Email alerts for cheap flights from your US airports, with bag limits on every deal. Web app. | **First month free** on monthly plans with code **BFMONTHFREE** (Pro $10/mo, Elite $30/mo) · **25% OFF** the first year of annual plans with code **BLACKFRIDAY25** (Pro $49 → $36.75, Elite $149 → $111.75) · renews at the regular price (until Nov 30, 11:59 p.m. Pacific)|
+|💸|[Yado](https://yado.house/?utm_source=dqhieu&utm_campaign=bf2026)| Native Mac app that cleans up an iPhone from the Mac: duplicate photos, large videos and unused apps | **20% OFF** one-time license, $19 to $15.20, no code needed (Nov 25 – Nov 30)|
+|💸|[Pake](https://pake.run/?utm_source=dqhieu&utm_campaign=bf2026)| Turns any website into a lightweight desktop app on Mac, Windows and Linux, from the maker of the open-source Pake CLI | **20% OFF** one-time license, $19 to $15.20, no code needed (Nov 25 – Nov 30)|
 
 ---
 
