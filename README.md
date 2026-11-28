@@ -578,6 +578,8 @@ Please follow the rules below:
 |💸|[WoopSocial](https://www.woopsocial.com/pricing?ref=black-friday-deals)| Let Claude, ChatGPT or any AI agent post to 9 social networks through one API and MCP (web). | **30% OFF** Pro or Business for 12 months with code **BFCM2026** (Nov 26 – Dec 1)|
 |💸|[FlowLister](https://flowlister.com/black-friday/?ref=black-friday-deals)| AI eBay listing tool for resellers: photo to title, item specifics and price (web, iPhone app). | **~25% OFF** a full year paid once (Starter $179.99, Pro $449.99) plus free Poshmark and Mercari crosslisting for 12 months, no code needed (Nov 27 – Dec 1)|
 |🤑|[BlueChimp](https://www.blue-chimp.com/pricing?ref=black-friday-deals)| Warm B2B lead finder: buyer intent signals matched with your LinkedIn network, plus an MCP server for ChatGPT and Claude (web). | **50% OFF** Growth and Dealflow plans (6 months monthly, 1 year annual) with code **BFIntent** (Nov 27 – Nov 29)|
+|🤑|[ScopeForge Studio](https://tolga571.github.io/black-friday-2026.html)| Offline WBS quote risk estimator, SOW PDF generator, and 5-sheet Excel margin engine on the web | **60% OFF** with code **FIRST10** first 10 buyers ($4 to $1.60), or **40% OFF** with **SCOPE40** ($2.40) (Nov 27 to Dec 1)|
+|🤑|[QuietCraft UI Pro](https://jumpertheme.gumroad.com/l/quietcraft-ui-pro/FIRST50)| Clean React 19 and Tailwind v4 component kit with 4px tokens, Figma tokens, and Playwright QA on the web | **60% OFF** with code **FIRST10** first 10 buyers ($5 to $2.00), or **40% OFF** with **FIRST50** ($3.00) (Nov 27 to Dec 1)|
 
 ---
 
