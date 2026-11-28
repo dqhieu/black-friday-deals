@@ -594,6 +594,7 @@ Please follow the rules below:
 |💸|[Aloud](https://aloudapp.app/black-friday/)| Native macOS text-to-speech app that reads selected text, PDFs, screenshots and web articles out loud. | **30% OFF** with code **BF30** (Nov 27 – Dec 1)|
 |💸|[AGNT](https://agnt.gg/pricing?utm_source=dqhieu&utm_medium=github&utm_campaign=bf2026#deal)| Desktop AI agent platform for building agents and workflows that run on your computer or a cloud instance (Windows, macOS, Linux). | **40% OFF** the first year of yearly plans (Pro $290 → $174, Team $990 → $594) with code **BLACKFRIDAY** (Nov 18 – Nov 30)|
 |💸|[Exhibit](https://chatexhibit.me)| Native macOS app that exports iMessage, WhatsApp, Signal and more to one court-ready PDF. | **30% OFF** with code **EXHIBITBF30** (Nov 27 – Dec 1)|
+|🤑|[Staxa](https://staxa.dev/#pricing)| Hosting for SaaS with an isolated app, database, subdomain and SSL per customer (web, API). | **50% OFF** the first 3 months of Starter or Growth with code **STAXABF50** (Nov 27 – Nov 30), new subscriptions, first 100 customers|
 
 |🤑|[Paste Box](https://apps.apple.com/us/app/paste-box-scratchpad/id6782422301?mt=12)| Paste Box is the essential companion for your macOS workflow. It combines a searchable clipboard history manager with a persistent, always-available scratchpad so you never lose a snippet, draft, or thought — even across restarts. | **60% OFF** in selected countries Lifetime ($2.99 → $0.99 on the  App Store), no code needed (Nov 27 – Dec 2)|
 ---
