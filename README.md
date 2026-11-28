@@ -583,6 +583,7 @@ Please follow the rules below:
 |🤑|[Bordfeed](https://bordfeed.com/black-friday?ref=black-friday-deals)| Job data API for agents and builders: 500k+ live jobs from company hiring pages, via API, webhooks, email or MCP (web). | **50% OFF** your first 3 months on Pro, Max or Ultra with code **BFCM50** (Pro ~~$79~~ $39.50/mo), new subscriptions only (Nov 27 – Dec 4)|
 |💸|[APXY](https://apxy.dev/?utm_source=github&utm_medium=bf_list&utm_campaign=bfcm2026)| Local HTTP/HTTPS debugging proxy with CLI + MCP so coding agents can verify the real requests their code sends. macOS & Linux. | **30% OFF** APXY Pro ($99 → $69.30, one-time) with code **APXY2026**|
 |💸|[OSINTverse](https://osintverse.com/pricing)| OSINT investigation platform: search an email, username, phone, domain, name, IP, image or crypto wallet across 17 sources, with cases, a team graph, an API and an MCP server. Pay per lookup | 10% OFF any credit top-up with code **BLACKFRIDAY10**, wallet credited the full amount (until Nov 30, 23:59 UTC)|
+|💸|[Rakazo](https://rakazo.com/black-friday)| Open-source platform for persistent AI agents with their own computer, memory and routines, reachable from Slack, Teams or email (web, self-hostable). | **30% OFF** the first year of any yearly plan with code **BLACKFRIDAY30**, new yearly subscriptions only (Nov 27 – Nov 30)|
 
 ---
 
