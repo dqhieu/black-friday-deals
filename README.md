@@ -597,6 +597,7 @@ Please follow the rules below:
 |💸|[Exhibit](https://chatexhibit.me)| Native macOS app that exports iMessage, WhatsApp, Signal and more to one court-ready PDF. | **30% OFF** with code **EXHIBITBF30** (Nov 27 – Dec 1)|
 |🤑|[Staxa](https://staxa.dev/#pricing)| Hosting for SaaS with an isolated app, database, subdomain and SSL per customer (web, API). | **50% OFF** the first 3 months of Starter or Growth with code **STAXABF50** (Nov 27 – Nov 30), new subscriptions, first 100 customers|
 |🤑|[OpenComputer](https://opencomputer.dev/blog/black-friday-2026/)| Open-source cloud coding agent you use from Slack: give it a task, it works in its own cloud computer and opens a PR (web). | **50% OFF** Pro ($20 → $10/mo) and Max ($200 → $100/mo) plus double the work minutes, no code needed · first 50 workspaces keep it 12 months, then 3 months (Nov 27 – Nov 30)|
+|💸|[refer.is](https://refer.is/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bfcm-2026&utm_content=dqhieu)| Link shortener with QR codes and click analytics (web) | **30% OFF** all plans with code **BF2026** (Nov 27 – Dec 1)|
 
 ---
 
