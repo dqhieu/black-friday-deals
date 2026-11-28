@@ -593,6 +593,7 @@ Please follow the rules below:
 |💸|[Notra](https://www.usenotra.com/pricing)| AI visibility tracking (web): see whether ChatGPT, Claude, Gemini, Copilot and Google AI recommend your brand, and write content that gets cited. | **25% OFF** every paid plan for the first 6 months (from $75/mo, normally $100), new customers on monthly billing, no code needed (until Dec 2, 23:59 GMT)|
 |💸|[Aloud](https://aloudapp.app/black-friday/)| Native macOS text-to-speech app that reads selected text, PDFs, screenshots and web articles out loud. | **30% OFF** with code **BF30** (Nov 27 – Dec 1)|
 |💸|[AGNT](https://agnt.gg/pricing?utm_source=dqhieu&utm_medium=github&utm_campaign=bf2026#deal)| Desktop AI agent platform for building agents and workflows that run on your computer or a cloud instance (Windows, macOS, Linux). | **40% OFF** the first year of yearly plans (Pro $290 → $174, Team $990 → $594) with code **BLACKFRIDAY** (Nov 18 – Nov 30)|
+|💸|[Exhibit](https://chatexhibit.me)| Native macOS app that exports iMessage, WhatsApp, Signal and more to one court-ready PDF. | **30% OFF** with code **EXHIBITBF30** (Nov 27 – Dec 1)|
 
 |🤑|[Paste Box](https://apps.apple.com/us/app/paste-box-scratchpad/id6782422301?mt=12)| Paste Box is the essential companion for your macOS workflow. It combines a searchable clipboard history manager with a persistent, always-available scratchpad so you never lose a snippet, draft, or thought — even across restarts. | **60% OFF** in selected countries Lifetime ($2.99 → $0.99 on the  App Store), no code needed (Nov 27 – Dec 2)|
 ---
